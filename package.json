@@ -1,0 +1,11 @@
+{
+  "name": "daily-news",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A static daily news site built from news-*.json files.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}
