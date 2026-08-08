@@ -1,6 +1,7 @@
 # publish.ps1 — commit any new/changed news files and push to GitHub.
-# The push triggers the "Build & Deploy Daily News" GitHub Action, which
-# rebuilds the site and deploys it to GitHub Pages.
+# The push auto-redeploys the site on both hosts:
+#   Vercel:       https://daily-news-steel.vercel.app/
+#   GitHub Pages: https://deadsunx.github.io/daily-news/
 #
 # Call this from your Claude scheduled task AFTER it writes the day's
 # news-YYYY-MM-DD.json and .md files, e.g.:
