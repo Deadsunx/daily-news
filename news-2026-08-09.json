@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-08T18:44:15Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Saudi Arabia, Turkiye and Pakistan sign Makkah joint defence pact",
+      "summary": "Saudi Arabia, Turkiye and Pakistan signed the Makkah Joint Defence Agreement on August 7 at Al-Safa Palace in Mecca, stipulating that an armed attack against any one of the three states will be regarded as an attack against them all. It was signed by Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif at a summit the three governments styled the Makkah Al-Mukarramah Summit for Joint Defence. The text also provides for enhanced cooperation across all aspects of defence, and Erdogan said the pact targets no country and remains open to other states seeking regional stability. It is the first arrangement binding three of the largest military establishments in the Muslim world under a single mutual-defence formula since the Baghdad Pact era.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it",
+      "published": "2026-08-07"
+    },
+    {
+      "id": 2,
+      "title": "US Senate passes Russia and Iran sanctions bill 86-11",
+      "summary": "The US Senate passed a bipartisan Russia sanctions bill on August 7 by a vote of 86 to 11, sending it to the House of Representatives. The measure would sanction senior Russian leaders and give President Donald Trump authority to impose tariffs of up to 100% on major buyers of Russian oil and gas, such as China and India, and it extends sanctions against Iran. The legislation was long championed by Senator Lindsey Graham, who died in July at 71, and was named in his honour by his Senate colleagues. Trump and House Speaker Mike Johnson have signalled support, but some House Democrats oppose granting new tariff authorities.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+      "published": "2026-08-07T17:33:00Z"
+    },
+    {
+      "id": 3,
+      "title": "De la Espriella sworn in as Colombia's president in Cali, breaking with tradition",
+      "summary": "Abelardo de la Espriella, 48, was sworn in as Colombia's president on August 7 at Santiago de Cali University rather than in Bogota, breaking more than a century of tradition. Around 11,000 troops were deployed for the ceremony, which his team presented as a signal of a hard line against illegal armed groups operating in the country's southwest. He succeeds Gustavo Petro after winning a close June 21 runoff against Petro's ally, Senator Ivan Cepeda, with Jose Manuel Restrepo taking office as vice president. Petro and lawmakers from his coalition boycotted the inauguration amid a constitutional dispute over the venue.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups",
+      "published": "2026-08-08"
+    },
+    {
+      "id": 4,
+      "title": "US economy unexpectedly lost 23,000 jobs in July as stocks closed higher",
+      "summary": "US nonfarm payrolls fell by 23,000 in July, against expectations of an 80,000 gain in a Bloomberg survey of economists, while the unemployment rate ticked down to 4.1% from a forecast 4.2%. Equities rose on the view that the weaker report reduces the chance of a Federal Reserve rate hike at its next meeting. The S&P 500 closed at 7,757.64, up 0.62%, the Nasdaq Composite gained 1.30% to 26,690.62 and the Dow Jones Industrial Average added 0.28% to 54,036.93. All three indexes finished the week higher, with the Nasdaq up about 5% and the S&P 500 up nearly 3.5%; investors next await the Consumer Price Index release the following Wednesday.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html",
+      "published": "2026-08-07T23:09:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Global food prices hit three-year high in July, UN says",
+      "summary": "The UN Food and Agriculture Organization's Food Price Index averaged 131.1 points in July, up from 130.3 in June and the highest reading since January 2023. Cereals, vegetable oils and sugar drove the increase, with wheat rising 5.8% month-on-month amid disruption to Black Sea exports, while meat and dairy prices declined. The vegetable oil sub-index reached its highest level since June 2022. Despite the rise, the overall index remains 18.2% below its record high set in March 2022.",
+      "category": "Business & Markets",
+      "source": "CP24 (Reuters)",
+      "url": "https://www.cp24.com/news/world/2026/08/07/world-food-prices-hit-3-year-high-in-july-as-weather-and-war-weigh-un/",
+      "published": "2026-08-07"
+    },
+    {
+      "id": 6,
+      "title": "Researchers generate quantum entanglement using sunlight instead of lasers",
+      "summary": "Researchers from the University of Ottawa and the Max Planck Institute for the Science of Light generated polarization-entangled photon pairs using concentrated sunlight rather than a laser, in work published in the journal Optica. A cone-shaped all-glass concentrator focused sunlight collected by a window-sized Fresnel lens into an optical fibre and onto a millimetre-scale nonlinear crystal, driving spontaneous parametric down-conversion. Quantum state tomography showed the resulting state was about 94% similar to a perfectly entangled state, and the photon correlations violated Bell's inequality, ruling out a classical explanation. The team says sunlight-driven sources could cut the energy and hardware demands of quantum technologies, including satellite-based encryption key generation.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+      "published": "2026-08-07"
+    },
+    {
+      "id": 7,
+      "title": "DR Congo Ebola outbreak passes 4,000 cases, becoming second-largest on record",
+      "summary": "The Democratic Republic of the Congo has reported more than 4,000 Ebola cases and 1,850 deaths in its current outbreak. The virus has spread across 53 health zones in five provinces. By recorded infections, it is now the world's second-largest Ebola outbreak. The figures were reported on August 8 as containment and contact-tracing efforts continued.",
+      "category": "Science",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-aug-8-2026/4021587",
+      "published": "2026-08-08"
+    }
+  ]
+}
