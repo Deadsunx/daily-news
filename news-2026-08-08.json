@@ -1,51 +1,69 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:45:00Z",
+  "generated_at": "2026-08-08T08:12:06Z",
   "stories": [
     {
       "id": 1,
-      "title": "U.S. Payrolls Fell 23,000 in July as Prior Months Were Revised Down by 103,000",
-      "summary": "The Bureau of Labor Statistics reported that nonfarm payroll employment declined by 23,000 in July while the unemployment rate held at 4.1 percent, with losses concentrated in local government education (-50,000) and retail trade (-19,000). Revisions cut May and June payrolls by a combined 103,000, and average hourly earnings rose 3.2 percent over the year. The report reframes the labor market as materially weaker than earlier estimates suggested, and shifts expectations for Federal Reserve policy.",
-      "category": "Business & Markets",
-      "source": "U.S. Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "published": "2026-08-07T08:30:00-04:00"
+      "title": "Saudi Arabia, Pakistan and Turkiye sign trilateral joint defence pact in Mecca",
+      "summary": "Saudi Arabia, Pakistan and Turkiye signed a joint defence agreement in Mecca on Friday, Pakistan's foreign ministry said, stating that an armed attack on any one of the three countries would be regarded as an attack against them all. The deal was signed by Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif, who had arrived in Saudi Arabia a day earlier accompanied by army chief Asim Munir. It extends to Turkiye a mutual-defence commitment comparable to the bilateral Saudi-Pakistan pact concluded in September 2025. The agreement follows repeated missile and drone attacks on Saudi Arabia by Iran and allied groups since the US and Israel attacked Iran on February 28.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%E2%81%A0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil",
+      "published": "2026-08-07T11:03:07Z"
     },
     {
       "id": 2,
-      "title": "Ford Names Its Sub-$30,000 Electric Pickup the Fathom, Starting at $28,350",
-      "summary": "Ford revealed that the first production vehicle on its Universal EV Platform is a midsize electric pickup called the Fathom, with a starting price of $28,350 and pre-orders opening in early 2027. Ford says the platform cuts parts per vehicle by 20 percent and assembly workstations by 40 percent, reducing production time by 15 percent. It is the cheapest EV Ford will sell and a test of whether U.S. automakers can build affordable electric trucks profitably.",
-      "category": "Automotive",
-      "source": "electrive",
-      "url": "https://www.electrive.com/2026/08/07/ford-names-its-affordable-electric-pickup-fathom/",
-      "published": "2026-08-07T08:14:46+02:00"
+      "title": "Emerging Iran-Oman deal would recognise Iranian control over Strait of Hormuz traffic",
+      "summary": "A proposed agreement between Iran and Oman to reopen the Strait of Hormuz would give Iran control over inbound traffic, sources told Reuters, a departure from the prewar status of full freedom of navigation that the US and Gulf states have demanded. Unresolved points include how Iran's control is defined, its role over outbound traffic, and transit fees: Iran is seeking 5 to 7 percent of the value of cargoes, while Oman has floated about 3 percent. A US official told the Washington Post that any temporary routes must involve \"no approvals or permissions and no tolls or charges,\" and Washington is not a party to the Oman-Iran talks. Months of US-Israeli strikes have not removed Iran's ability to threaten shipping, leaving the strait effectively closed and Gulf oil supplies bottled up.",
+      "category": "World & Geopolitics",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/07/emerging-deal-reopen-strait-hormuz-iran-us-accept/",
+      "published": "2026-08-07T15:52:00Z"
     },
     {
       "id": 3,
-      "title": "Tesla and SpaceX Commit $16.8 Billion to a Texas Chip Plant Called Terafab",
-      "summary": "Tesla and SpaceX confirmed a semiconductor manufacturing complex named Terafab in Grimes County, Texas, with an initial investment of $16.8 billion. The site is planned to exceed 100 million square feet and will manufacture, package and test logic and memory chips for Tesla vehicles and Optimus robots as well as SpaceX computing systems. The project would move both companies from chip buyers to chip producers, a rare attempt at vertical integration outside the established foundry industry.",
-      "category": "AI & Tech",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
-      "published": "2026-08-06"
+      "title": "US payrolls fell by 23,000 in July as unemployment held at 4.1 percent",
+      "summary": "Total US nonfarm payroll employment declined by 23,000 in July, the Bureau of Labor Statistics reported on Friday, against a Dow Jones consensus forecast of an 83,000 gain. The unemployment rate was 4.1 percent with 6.9 million people unemployed, while the labor force participation rate fell to 61.4 percent, down 0.7 percentage point since January. Employment fell in local government education (-50,000), retail trade (-19,000) and financial activities (-14,000), while health care continued to trend up (+22,000). Payroll figures for May and June were revised down by a combined 103,000, and average hourly earnings rose 3.2 percent over the year to $37.62.",
+      "category": "Business & Markets",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "published": "2026-08-07T12:30:00Z"
     },
     {
       "id": 4,
-      "title": "AMD Acquires Taalas, a Startup That Hardwires AI Models Into Silicon",
-      "summary": "AMD agreed to acquire Toronto-based Taalas, founded in 2023, which builds chips that etch individual AI model weights directly into semiconductor metal layers rather than running them on general-purpose accelerators. Financial terms were not disclosed; Taalas had raised about $219 million in venture funding. AMD plans to fold the technology into its accelerator roadmap alongside Instinct GPUs, EPYC processors and ROCm software, signalling that inference cost is becoming the next front in the AI chip contest.",
-      "category": "AI & Tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-      "published": "2026-08-06"
+      "title": "S&P 500 closes at a record as weak jobs data lifts rate-cut expectations",
+      "summary": "US stocks rallied on Friday after the July payrolls contraction, with the S&P 500 gaining 0.62 percent to a record close of 7,757.64. The Nasdaq Composite rose 1.30 percent to 26,690.62 and the Dow Jones Industrial Average added 151.83 points, or 0.28 percent, to 54,036.93. Traders read the weaker labor market as reducing pressure on the Federal Reserve to raise rates, and the 10-year Treasury yield fell to 4.65 percent while gold climbed above $4,300 an ounce. Atlassian jumped about 35 percent and Twilio gained 25 percent on quarterly results, while The Trade Desk fell sharply after disappointing earnings.",
+      "category": "Business & Markets",
+      "source": "The Motley Fool via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-213800176.html",
+      "published": "2026-08-07T21:38:00Z"
     },
     {
       "id": 5,
-      "title": "Uganda's Parliament Approves Sending Troops to the Gaza Stabilization Force",
-      "summary": "Ugandan lawmakers approved a motion from the defence minister to deploy troops to Gaza as part of the International Stabilization Force proposed by the U.S.-led Board of Peace. Uganda joins Morocco, Kazakhstan, Kosovo, Indonesia and Albania in pledging soldiers to the roughly 20,000-strong force, which is to be led by U.S. Maj. Gen. Jasper Jeffers. Opposition lawmakers questioned the government's motives, and the deployment's timing depends on unresolved steps in the Hamas disarmament roadmap.",
-      "category": "World & Geopolitics",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/uganda-approves-sending-troops-to-gaza-for-international-force-proposed-by-trumps-board-of-peace",
-      "published": "2026-08-06"
+      "title": "New Mexico judge orders Meta to pay $567 million over harms to young users",
+      "summary": "Judge Bryan Biedscheid ordered Meta Platforms late Thursday to pay $567 million in the second phase of New Mexico's trial over alleged harms to young people on Facebook and Instagram. Of that sum, $420 million is directed to treatment services for young people, with the remainder funding awareness, prevention and screening efforts over the next five years. The order comes on top of $375 million in civil penalties imposed by jurors in March, bringing Meta's total liability in the case to about $942 million. Plaintiffs had also asked the court to require changes to addictive features, age verification and default privacy settings; Meta has said it plans to appeal.",
+      "category": "AI & Tech",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/meta-court-ruling-mental-health-online-platforms-21b425faf745d0f736b310ebd8bc6b89",
+      "published": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Tesla and SpaceX commit $16.8 billion to a Texas semiconductor complex",
+      "summary": "Tesla and SpaceX are jointly backing a semiconductor manufacturing complex called Terafab in Grimes County, Texas, with an initial investment of $16.8 billion, according to reporting by the Wall Street Journal. The plant is intended to manufacture, package and test memory and logic chips for Tesla vehicles and Optimus robots as well as SpaceX computing systems, on a site that could eventually span roughly 100 million square feet. Both companies currently depend on external foundries and suppliers, so the project represents a move toward vertical integration of their chip supply. Large semiconductor plants require substantial electricity, water and specialised labour, and Texas officials say the project would create thousands of jobs.",
+      "category": "AI & Tech",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/",
+      "published": "2026-08-07T13:54:41Z"
+    },
+    {
+      "id": 7,
+      "title": "WHO recommends Ervebo trial as DR Congo's Ebola cases pass 4,000",
+      "summary": "The Democratic Republic of the Congo has recorded 4,053 confirmed Bundibugyo Ebola cases and 1,850 deaths since the outbreak was declared in mid-May, according to the latest health ministry situation report. The outbreak has reached 53 health zones across five provinces, with 87 percent of cases in Ituri and 11 percent in North Kivu, and is the second-largest Ebola epidemic on record after West Africa's 2014-2016 outbreak, which exceeded 28,000 cases. On Friday, WHO vaccine experts recommended that Ervebo, the only licensed Ebola vaccine, be prioritised for a randomised clinical trial to test cross-protection against Bundibugyo, for which no vaccine exists. In animal studies, three of four non-human primates vaccinated with Ervebo survived Bundibugyo challenge versus one of four controls; Gavi holds a stockpile of 500,000 Ervebo doses.",
+      "category": "Science",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial",
+      "published": "2026-08-07T20:41:46Z"
     }
   ]
 }
