@@ -511,9 +511,9 @@
       $("prevBtn").addEventListener("click", () => step(1));
       $("nextBtn").addEventListener("click", () => step(-1));
 
-      const hash = decodeURIComponent(location.hash.replace(/^#/, ""));
-      const start = eds.find((e) => e.date === hash) ? hash : state.manifest.latest;
-      if (start) loadEdition(start);
+      // Always land on the latest edition when entering the page, ignoring any
+      // stale #date hash from a bookmark or previous visit.
+      if (state.manifest.latest) loadEdition(state.manifest.latest);
       else { $("state").textContent = "No editions yet."; }
     }
     init();
