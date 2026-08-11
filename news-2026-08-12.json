@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-11T18:39:11Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Colombia searches for survivors after magnitude 7.4 earthquake, with more than 2,700 reported missing",
+      "summary": "Rescue crews worked through the night and into Tuesday in Cali, Pereira and the remote Choco region after Monday's magnitude 7.4 earthquake, Colombia's strongest this century, killed at least 132 people according to local media and the Colombian Association of Capital Cities. The US Geological Survey placed the epicentre at San Jose del Palmar in Choco, about 400km west of Bogota, at a depth of 107km; Colombia's Geological Service recorded 21 aftershocks by late Monday. More than 2,700 people had been listed as missing on citizen-run websites, about 1,600 buildings were damaged or destroyed, and curfews were imposed in Cali, Armenia and Manizales. President Abelardo de la Espriella, sworn in on Friday, declared a national state of emergency, and the United States announced $15.5m in emergency assistance.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing",
+      "published": "2026-08-11T09:41:26Z"
+    },
+    {
+      "id": 2,
+      "title": "Ukrainian drone attack on Russian refining hub Nizhnekamsk kills 12",
+      "summary": "A Ukrainian drone attack on Monday morning on Nizhnekamsk, in Russia's Tatarstan region, killed 12 people and wounded 39, authorities in the region said. Nizhnekamsk lies roughly 1,200km east of the Ukrainian border, has a population of about 240,000 and is an important oil-refining hub with two refineries and a petrochemical plant; the press service of Tatarstan's head described a \"massive\" strike on industrial and civilian facilities. Ukraine has hit Russian oil infrastructure with long-range drones almost daily in recent months, causing fuel shortages and cutting into refining capacity, a campaign President Volodymyr Zelenskyy says is intended to force Moscow to negotiate. Separately, the World Health Organization's European office said one of its warehouses in Ukraine's Dnipro region was struck twice in under 24 hours, destroying an estimated $500,000 of emergency supplies.",
+      "category": "World & Geopolitics",
+      "source": "NPR (Associated Press)",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
+      "published": "2026-08-10T08:58:22Z"
+    },
+    {
+      "id": 3,
+      "title": "Trump demands compensation from Iran as Strait of Hormuz talks stall",
+      "summary": "President Donald Trump said his administration would seek payment from Iran for \"50 years\" of damages, responding to Tehran's demand for war reparations as a condition for reopening the Strait of Hormuz. Iran has said it will not reopen the waterway, through which about a fifth of global oil and LNG flowed before the war that began on February 28, unless Washington pays damages and lifts sanctions; Iranian officials said parallel talks with Oman on new shipping lanes were \"progressing smoothly\". US Central Command said it has redirected 55 commercial vessels since reinstating its blockade in July and \"disabled\" at least two, while MarineTraffic recorded crossings falling from 15 on Friday to six on Sunday. Trump described the US naval presence as a \"steel wall\" and said the US Navy alone controls the strait.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue",
+      "published": "2026-08-11T02:32:47Z"
+    },
+    {
+      "id": 4,
+      "title": "Oil and energy stocks climb as hopes fade for a quick Hormuz reopening",
+      "summary": "Crude prices rose on Monday as expectations dimmed that the Strait of Hormuz would reopen soon, with Brent futures up 3.3 percent at $84.64 a barrel and US West Texas Intermediate up 3.1 percent at $80.63 in intraday trading. The move reversed part of the previous week's roughly 7 percent decline in both benchmarks, which had followed optimism that Washington and Tehran were close to a deal. US pump prices had eased in that window, with the national average for a gallon of petrol falling nine cents to $4.00 according to AAA, though GasBuddy's Patrick De Haan warned the average could reach a record for this point in the calendar year if the closure persists. Energy shares gained, with Chevron up 3.1 percent, ExxonMobil up 2.9 percent and ConocoPhillips up 2.7 percent in midday trading.",
+      "category": "Business & Markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on",
+      "published": "2026-08-10T15:45:39Z"
+    },
+    {
+      "id": 5,
+      "title": "Nvidia lines up more than $500bn in financing from six Wall Street firms for AI infrastructure",
+      "summary": "Nvidia said on Monday it had secured a commitment from Apollo Global Management, Blackstone, BlackRock, Brookfield Asset Management, Goldman Sachs and KKR to create dedicated capital pools of more than $500 billion for customers building AI data centres. The financing is expected to be primarily debt, using compute power as collateral through private offerings and bonds issued by special-purpose entities that could raise tens of billions of dollars at a time and lease the compute to Nvidia clients, with deals reaching market within months. Goldman Sachs, the only bank in the group, is positioned to lead public debt deals and distribute returns through its asset-management arm. Chief executive Jensen Huang said Nvidia may provide financing support of up to 25 percent of an opportunity, framing its chips as \"an investable infrastructure asset\"; the arrangement adds to scrutiny of the circular nature of Nvidia's deals across the AI supply chain.",
+      "category": "AI & Tech",
+      "source": "The National (Bloomberg)",
+      "url": "https://www.thenationalnews.com/business/markets/2026/08/11/nvidia-turns-to-wall-street-giants-to-raise-500bn-for-ai-infrastructure/",
+      "published": "2026-08-11T05:36:53Z"
+    },
+    {
+      "id": 6,
+      "title": "OpenAI releases GPT-5.6-Cyber to vetted defenders through a new Daybreak Red tier",
+      "summary": "OpenAI expanded its Daybreak program into two tiers and introduced GPT-5.6-Cyber, a cybersecurity-specific model trained for zero-day discovery, exploit-chain development and red teaming, available only through the restricted Daybreak Red tier. On OpenAI's internal Advanced Cybersecurity Completion Rate evaluation, GPT-5.6-Cyber answered 95.0 percent of high-risk dual-use security requests, against 1.5 percent for GPT-5.6 Sol with standard guardrails and 57.3 percent for the earlier GPT-5.5-Cyber. OpenAI said it used the model to find two previously unknown vulnerabilities in Chrome's V8 JavaScript engine, disclosed to Google and fixed as CVE-2026-15903, plus hundreds of privilege-escalation issues in a widely used operating system kernel. Under its Preparedness Framework, OpenAI assessed the model as reaching the \"High\" cybersecurity threshold but below \"Critical\", and will require hardware security keys for individual Daybreak accounts from September 1.",
+      "category": "AI & Tech",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "published": "2026-08-10"
+    },
+    {
+      "id": 7,
+      "title": "Spain deploys 35,000 officers for Wednesday's total solar eclipse amid extreme wildfire risk",
+      "summary": "Spain is mounting a large policing and public-safety operation for the total solar eclipse on August 12, which will be visible in totality only from Spain and Iceland and offers the best views in mainland Europe. Regional governments along the path of totality have designated 660 official viewing sites with parking and camping areas for an expected influx of 6 million people, and more than 35,000 officers will be deployed, Virginia Barcones of Spain's Interior Ministry told Reuters. Weather agency Aemet has placed several regions under alerts for the day, with temperatures up to 40C and \"high\" or \"very high\" wildfire risk; about 200,000 hectares have burned in Spain so far this year, roughly six times the area burned by the same date in 2025. Authorities estimate around 1.5 million people will be on the roads, and some towns, including Tres Cantos, have cancelled eclipse-day events over fire concerns.",
+      "category": "Science",
+      "source": "Reuters (via Cyprus Mail)",
+      "url": "https://cyprus-mail.com/2026/08/11/spain-prepares-for-eclipse-under-shadow-of-wildfire-risk",
+      "published": "2026-08-11T12:35:27Z"
+    }
+  ]
+}
