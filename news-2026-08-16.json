@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-15T18:42:08Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Magnitude 7.7 earthquake off Indonesia kills at least 20",
+      "summary": "A magnitude 7.7 earthquake struck off the coast of Flores island in eastern Indonesia early Saturday, killing at least 20 people and injuring six others, according to the Maumere Search and Rescue Agency. The quake, centered 68 km north-northwest of Ende at a depth of 10 km, triggered landslides that buried victims in the village of Reok and cut off the 700-km Trans-Flores highway. A tsunami warning was issued for several provinces and later lifted after monitoring showed no significant sea-level changes.",
+      "category": "World & Geopolitics",
+      "source": "NPR (Associated Press)",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "published": "2026-08-15T08:29:20Z"
+    },
+    {
+      "id": 2,
+      "title": "Israeli airstrikes on southern Lebanon kill at least nine",
+      "summary": "Israeli airstrikes on southern Lebanon killed at least nine people on Saturday, among the deadliest attacks since a truce between Israel and Hezbollah took effect in June. One strike on a home near the village of Ansar killed seven people, including three children; a second strike on Deir al-Zahrani killed two more. Israel's military said it hit Hezbollah infrastructure in response to an action against its soldiers, continuing near-daily strikes north of the Litani River despite the ceasefire.",
+      "category": "World & Geopolitics",
+      "source": "Washington Post (Associated Press)",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/souther-lebanon-israel-strike-hezbollah-iran-ansar/b69fa992-986e-11f1-9ef9-1be722184483_story.html",
+      "published": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street rally stalls as weak consumer data hits stocks",
+      "summary": "U.S. stocks pulled back from record highs Friday after weaker-than-expected consumer data: July retail sales fell 0.6% month-on-month and consumer confidence disappointed. The S&P 500 fell 0.17% to 7,785.76, the Nasdaq Composite lost 0.28% to 26,729.16, and the Dow slipped 0.20% to 53,732.41. Broadcom dropped nearly 6% after analysts questioned a potential $370 billion debt-financing vehicle, while Reddit jumped 13% on news it will join the S&P 500 next week.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance / The Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-213018651.html",
+      "published": "2026-08-14T21:30:18Z"
+    },
+    {
+      "id": 4,
+      "title": "Alibaba open-sources Qwen3.8-27B, a multimodal model built for consumer GPUs",
+      "summary": "Alibaba's Qwen team released open weights for Qwen3.8-27B, a 27-billion-parameter multimodal model handling text, image and video, under the Apache 2.0 license. The model ships with a native 262K-token context window, extendable to 1 million via YaRN, and is designed to run on roughly 24GB of VRAM, the memory found in high-end consumer GPUs like the RTX 4090. Alibaba says it surpasses its predecessor, Qwen3.7-Plus, on programming and office-task benchmarks.",
+      "category": "AI & Tech",
+      "source": "GuruFocus",
+      "url": "https://www.gurufocus.com/news/9036063/alibaba-releases-open-source-model-qwen3827b",
+      "published": "2026-08-14T15:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Stanford researchers find blood immune cells colonize the aging human brain",
+      "summary": "Stanford scientists discovered that large numbers of immune cells from the blood begin entering the human brain as early as middle age, where they can transform into microglia, the brain's resident immune cells, overturning the long-held assumption that the aging brain stays largely isolated from the body's immune system. Using lineage tracing in matched blood and postmortem brain tissue, the team also found the phenomenon appears unique to humans, absent in mice and non-human primates. Analysis of genetic data further suggested people with certain mutated blood-stem-cell clones were less likely to develop Alzheimer's.",
+      "category": "Science",
+      "source": "ScienceDaily (Stanford University)",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "published": "2026-08-14T05:10:33Z"
+    }
+  ]
+}
