@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T18:55:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US and Iran Miss 60-Day Deadline for War-Ending Nuclear Deal",
+      "summary": "The 60-day deadline set by the June memorandum of understanding that President Trump signed at Versailles to end the war with Iran and resolve its nuclear program expired on Monday without an agreement. Talks have stalled over reopening the Strait of Hormuz and lifting the US blockade on Iran, with no sign of compromise or detailed nuclear negotiations. Iran has demanded the blockade be lifted, US forces withdraw from the region, and war reparations be paid, while Trump has rejected those terms and is relying on continued economic pressure. Pakistan, which brokered the original deal, said it hopes the deadline will be extended.",
+      "category": "World & Geopolitics",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6",
+      "published": "2026-08-17T08:33:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Russia Strikes Odesa Port After Record Ukrainian Drone Barrage on Moscow",
+      "summary": "Russia's defense ministry said it shot down a record 1,478 Ukrainian drones over the past 24 hours, along with guided bombs, a HIMARS projectile and long-range cruise missiles, following one of Ukraine's largest aerial attacks of the war on the Moscow area. Russia responded overnight Monday by striking Ukraine's Odesa region, damaging port infrastructure in the Izmail district and injuring four people after hitting a Togo-flagged civilian vessel. Russia's military said it targeted a military cargo berthing terminal, hangars holding Western equipment and naval drone depots. Ukraine's weekend drone assault also hit a major Wildberries logistics hub near Moscow, with Ukraine's military saying seven of the retailer's ten largest hubs are now out of operation.",
+      "category": "World & Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+      "published": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "30-Year Treasury Yield Hits Highest Since 2007 as Bond Selloff Deepens",
+      "summary": "The yield on 30-year US Treasuries rose three basis points to 5.29% on Monday, the highest level since 2007, as investors demanded more compensation amid surging national debt, a wave of long-dated bond sales and inflation that has stayed above the Federal Reserve's target for five years. The move extended a selloff that forced the Treasury to sell $25 billion of new 30-year bonds last week at 5.216%, the highest yield for such an auction since 2001, a day after a 10-year auction drew the highest financing cost since 2007. Analysts also pointed to a surge in corporate borrowing to fund AI infrastructure and waning demand from traditional long-bond buyers as contributing factors. US stocks fell on the day, with the S&P 500 down 0.38% to 7,755.82, the Dow off 0.46% to 53,482.93, and the Nasdaq down 0.29% to 26,650.60.",
+      "category": "Business & Markets",
+      "source": "Bloomberg (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-bond-selloff-drives-30-164444618.html",
+      "published": "2026-08-17T16:44:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Stripe Agrees to Acquire AI Gateway Startup OpenRouter for Over $7 Billion",
+      "summary": "Stripe has finalized an agreement to acquire OpenRouter, a startup that lets developers route requests across hundreds of AI models from providers including OpenAI and Anthropic, for more than $7 billion, Bloomberg reported. The price is more than five times the $1.3 billion valuation OpenRouter received just three months ago in a $113 million Series B led by Alphabet's CapitalG. OpenRouter, founded in 2023, says its platform now reaches 8 million users and provides access to more than 400 models; Stripe already handles the startup's payments processing. The final sale price could still change and the deal has not been publicly confirmed by either company.",
+      "category": "AI & Tech",
+      "source": "TechStartups (via Bloomberg)",
+      "url": "https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/",
+      "published": "2026-08-17T12:55:52Z"
+    },
+    {
+      "id": 5,
+      "title": "French Tax Authority Discloses Breach Affecting 678,000 People",
+      "summary": "France's Ministry of the Economy and Finance disclosed that an attacker accessed systems belonging to the General Directorate of Public Finances (DGFiP) and stole data on 678,000 individuals and businesses, including tax income figures, family quotients, withholding tax rates and, for some, property and cadastral records. The breach was discovered after a hacker using the handle \"ZeroBytes\" claimed the attack and listed a stolen database for sale on a hacking forum on August 12. The ministry said online user accounts, IDs and passwords were not compromised, and it has notified France's data protection authority (CNIL) and the national cybersecurity agency ANSSI. Affected individuals will be contacted by email or letter starting this week; it is the latest in a series of breaches to hit French government agencies in 2026.",
+      "category": "AI & Tech",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "published": "2026-08-17T06:09:00Z"
+    }
+  ]
+}
