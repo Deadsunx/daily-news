@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-22T18:39:22Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Israeli Strike Near Damascus Wounds Civilian, Syria Condemns \"Flagrant Violation\"",
+      "summary": "The Israeli military said Saturday it struck a militant in southern Syria who was in the final stages of preparing an attack on Israeli troops. Syria's state news agency SANA reported the strike hit a car in Beit Jinn, in the Damascus countryside, wounding one civilian. Syria's foreign ministry condemned the attack as a \"flagrant violation\" of its sovereignty and a breach of international law. It is the latest in a string of Israeli strikes inside Syria in recent days, one of which was already criticized by US envoy Tom Barrack.",
+      "category": "World & Geopolitics",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-august-22-2026/",
+      "published": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Wall Street Rallies Friday Ahead of Nvidia Earnings, Fed's Jackson Hole Symposium",
+      "summary": "US stocks closed higher Friday, with the S&P 500 gaining 0.43% to 7,674.37, the Nasdaq Composite adding 0.43% to 26,180.45, and the Dow Jones Industrial Average rising 517.80 points (0.98%) to 53,277.01. The gains came ahead of two closely watched events: Nvidia's Q2 earnings report on August 26 and the Federal Reserve's Jackson Hole symposium (August 27-29), where new Chair Kevin Warsh will deliver his first keynote address as Fed chief on August 28. Investors are watching both for signals on AI-sector momentum and the path of interest rates.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "published": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Nvidia Strikes $6 Billion Licensing Deal With AI Coding Startup Poolside",
+      "summary": "Nvidia agreed to pay AI startup Poolside $6 billion to license its \"Model Factory\" software, which underpins Poolside's Laguna family of open-weight coding models. Nvidia is separately investing $1 billion in Poolside at a $12 billion pre-money valuation and plans to bring on roughly 109 Poolside staff who worked on Laguna. The arrangement is structured as a non-exclusive licensing and investment deal rather than an acquisition, and Poolside's three co-founders will remain in place as the company continues operating independently.",
+      "category": "AI & Tech",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+      "published": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Hurricane Hunter Data Reveal Early Warning Signs of Strengthening Storms",
+      "summary": "Researchers at the University of Miami Rosenstiel School analyzed nearly three decades of NOAA Hurricane Hunter radar data — 1,510 radar analyses from 28 hurricane seasons between 1997 and 2024 — to identify four structural features that precede a tropical cyclone's vertical alignment, a key step before storms can rapidly intensify. The findings could give forecasters additional lead time to flag disorganized storms that are becoming capable of strengthening, aiding evacuation and preparation decisions. The data comes from the TC-RADAR archive of Doppler radar analyses.",
+      "category": "Science",
+      "source": "University of Miami Rosenstiel School",
+      "url": "https://news.miami.edu/rosenstiel/stories/2026/08/hurricane-hunter-data-reveal-early-signs-of-strengthening-tropical-cyclones.html",
+      "published": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Tooth Count Linked to Nearly Two Extra Years of Survival After Pancreatic Cancer Surgery",
+      "summary": "A study of 339 patients who underwent pancreatic cancer surgery at Hiroshima University found that those with at least 21 natural teeth survived a median of 60.7 months after surgery, compared with 39.1 months for patients with 20 or fewer teeth — a gap of nearly two years. Every patient received a pre-operative dental exam as part of the study, published in the Journal of Hepato-Biliary-Pancreatic Sciences. Researchers suspect tooth loss may reflect years of inflammation, frailty, and nutritional decline tied to overall physical resilience.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm",
+      "published": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "World No. 1 Jannik Sinner Withdraws From US Open With Knee Injury",
+      "summary": "Top-ranked Jannik Sinner announced he is withdrawing from the 2026 US Open due to a right knee injury, marking his first missed Grand Slam since 2019. Sinner, the reigning Wimbledon champion with a 44-3 record and six titles this season, said he needs more recovery time after attempting on-court work in recent days. He previously withdrew from the Cincinnati Open earlier in August with the same injury. Carlos Alcaraz will defend his US Open title in Sinner's absence.",
+      "category": "Sports",
+      "source": "US Open (usopen.org)",
+      "url": "https://www.usopen.org/en_US/news/articles/2026-08-21/jannik_sinner_withdraws_from_2026_us_open_with_right_knee_injury.html",
+      "published": "2026-08-21T00:00:00Z"
+    }
+  ]
+}
