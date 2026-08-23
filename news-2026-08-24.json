@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-23T18:44:46Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US Treasury Set to Unveil 'Toughest Sanctions in History' on Iran",
+      "summary": "U.S. Treasury Secretary Scott Bessent is scheduled to detail a new package of Iran sanctions at a press conference in Washington at 2 p.m. ET Monday, after President Trump on Aug. 19 vowed the \"most crushing economic operation\" against Tehran. Bessent has said the measures, targeting any country still trading with Iran, are meant to \"collapse\" the Iranian regime and represent the \"toughest sanctions in history.\" Iran's Foreign Ministry called the plan a breach of other states' sovereignty and \"a recipe for...classic colonialism,\" while U.S.-Iran peace talks remain stalled.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states",
+      "published": "2026-08-22T09:14:09Z"
+    },
+    {
+      "id": 2,
+      "title": "Ukrainian Drones Strike Ozon Logistics Hub in Russia's Orenburg Region",
+      "summary": "Ukrainian drones struck a logistics complex run by Russian online retailer Ozon in the Orenburg region early Sunday, sparking a fire that was extinguished with no casualties reported, regional authorities said. More than 300 employees were evacuated from the 200,000-square-meter facility and operations were temporarily suspended. It was the second reported strike on an Ozon site in two days, following an attack on a facility in Samara Oblast on Aug. 22, as Ukraine continues targeting Russian logistics and industrial infrastructure.",
+      "category": "World & Geopolitics",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/23/ozon-warehouse-in-orenburg-region-hit-in-drone-attack-governor-says-a93561",
+      "published": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Oil Prices Near Three-Week Highs as Markets Brace for New Iran Sanctions",
+      "summary": "Brent crude settled near $94 a barrel and U.S. WTI crude near $87 on Friday, capping a second straight weekly gain of more than 5% as traders braced for Monday's announcement of new U.S. sanctions on Iran. Treasury Secretary Scott Bessent has said the measures will be the \"toughest sanctions in history,\" targeting any country that continues trading with Tehran. Prices have climbed alongside a near-total halt in tanker traffic through the Strait of Hormuz.",
+      "category": "Business & Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI Launches ChatGPT Ads in 31 European Markets",
+      "summary": "OpenAI began serving ads inside ChatGPT across 31 European markets on Monday, including Germany, France, Spain, Italy, the Netherlands, Poland, Sweden, Norway, Denmark and Ireland, extending an ads business it piloted in the U.S. in February. Free and Go-tier users will see ads, while Plus, Pro, Enterprise, Business and Education accounts remain ad-free. OpenAI is using a two-tier consent structure to meet GDPR rules: contextual ads run under \"legitimate interest\" without requiring consent, while personalized ad targeting requires an explicit opt-in.",
+      "category": "AI & Tech",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/08/19/openai-chatgpt-ads-launch-european-markets-august-24/",
+      "published": "2026-08-19T15:09:27Z"
+    },
+    {
+      "id": 5,
+      "title": "Tropical Storm Moke Threatens Renewed Flooding in Hawaii After Hurricane Lala",
+      "summary": "Tropical Storm Moke is bringing renewed flooding risk to Hawaii's Big Island and heavy rain to other islands through Monday, according to a National Hurricane Center advisory issued late Saturday. Forecasters say up to 15 inches of rain could fall on the Big Island and 3 to 6 inches on eastern Maui, though the storm's center is not expected to make landfall. The storm arrives less than a week after Hurricane Lala dumped more than 30 inches of rain on parts of Hawaii, triggering deadly floods and mudslides that left over 8,000 customers without power.",
+      "category": "Science",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+      "published": "2026-08-23T12:48:05Z"
+    }
+  ]
+}
