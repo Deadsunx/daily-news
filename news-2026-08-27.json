@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-26T18:39:02Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Fire at Islamabad Hospital Nursery Kills at Least 14 Newborns",
+      "summary": "A fire tore through the newborn nursery at the government-run Pakistan Institute of Medical Sciences (PIMS) in Islamabad early Wednesday, killing at least 14 infants. Officials said the blaze was triggered when an air-conditioning unit compressor exploded around 6:45 a.m. local time, and families reported encountering locked ward doors during the rescue. Prime Minister Shehbaz Sharif called the losses \"irreparable\" and ordered the removal of federal Health Secretary Aslam Ghauri. It is one of the deadliest hospital fires in Pakistan's history.",
+      "category": "World & Geopolitics",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/26/asia/pakistan-newborns-hospital-fire-intl-hnk",
+      "published": "2026-08-26"
+    },
+    {
+      "id": 2,
+      "title": "Canada Announces Retaliatory Tariffs on Over 700 US Goods",
+      "summary": "Canada unveiled countertariffs of 15%, 25% and 50% on more than 700 categories of US goods, worth roughly CA$27.6 billion (US$19.9 billion), set to take effect September 8. Finance Minister Francois-Philippe Champagne said the measures match new US duties \"dollar for dollar, rate for rate,\" targeting sectors including steel, aluminum, dairy, appliances and agricultural equipment. The move follows President Trump's imposition of 50% tariffs on some Canadian goods after trade talks broke down last week. Canadian officials said some targeted products were chosen to pressure specific US states ahead of the midterm elections.",
+      "category": "World & Geopolitics",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "published": "2026-08-25"
+    },
+    {
+      "id": 3,
+      "title": "Meta Reaches $17 Billion Settlement Over Teen Social Media Addiction",
+      "summary": "Meta agreed to pay $17 billion over 10 years to settle claims from 47 states that it designed Facebook and Instagram features to addict teenagers and collected data on children under 13 without parental consent. The settlement requires default daily time limits and an overnight-use block for minors, stronger parental supervision tools, age-assurance measures, and an independent auditor to oversee compliance. California is set to receive at least $1.5 billion, New Jersey at least $525 million, and Virginia $353 million. It is described as the largest state consumer-protection settlement outside the 1990s tobacco cases.",
+      "category": "Business & Markets",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "published": "2026-08-26"
+    },
+    {
+      "id": 4,
+      "title": "Dow, S&P 500 Close Higher for Third Straight Session Ahead of Nvidia Earnings",
+      "summary": "US stocks closed higher Tuesday, with the Dow Jones Industrial Average up 0.3% (160.24 points) to 53,577.40 and the S&P 500 up 0.3% (24.38 points) to 7,677.24, marking a third consecutive day of gains. Technology and communication-services shares led the advance, with Meta Platforms up 2% and Netflix up 2.8%, as falling bond yields eased investor concerns. US consumer confidence fell to a seven-month low of 89.4 in August amid the escalating US-Canada trade dispute. Investors were positioning ahead of Nvidia's quarterly earnings report, due after Wednesday's close.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-26-130500595.html",
+      "published": "2026-08-26"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI's First In-House Chip Claims Edge Over Nvidia Blackwell in Inference Benchmarks",
+      "summary": "OpenAI unveiled benchmark results for its first custom inference chip, code-named Jalapeno, showing it delivers 1.5x to 1.9x more AI throughput at peak and up to 3.6x lower end-to-end latency than Nvidia's Blackwell-generation systems across models including GPT-OSS-120B, DeepSeek R1 and Kimi K2.5. The chip was co-developed with Broadcom and Celestica under a 2025 deal to build 10 gigawatts of custom AI accelerators, and handles inference only, not model training. Analyst firm SemiAnalysis noted the comparison partly favors Jalapeno because it uses newer HBM4 memory than Blackwell, and that Nvidia's upcoming Rubin platform, which also uses HBM4, is a fairer comparison. Limited deployment is expected later in 2026, with volume production in 2027.",
+      "category": "AI & Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "published": "2026-08-26"
+    },
+    {
+      "id": 6,
+      "title": "Manhattan-Sized Ice Island Breaks Off Greenland's Petermann Glacier",
+      "summary": "An international research team led by the University of Ottawa confirmed that Greenland's Petermann Glacier shed a 76.4-square-kilometer ice island on August 4, its largest loss of floating ice since 2012. European Space Agency Sentinel-1 satellite data tracked fractures spreading along the ice tongue's centerline before the slab, up to 150 meters thick, fully separated by 20:00 UTC that day. Researchers expect two more sections, totaling roughly 178 square kilometers, to break off in the coming period, which combined would remove about 22% of the glacier's remaining floating ice tongue. Canada's Ice Service is tracking the ice island's drift because of hazards it could pose to Arctic shipping and offshore infrastructure.",
+      "category": "Science",
+      "source": "ScienceDaily / University of Ottawa",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+      "published": "2026-08-26"
+    }
+  ]
+}
