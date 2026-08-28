@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-28T18:37:28Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Nepal-Tibet flood death toll passes 550 as rescue efforts stall",
+      "summary": "Nepal's death toll from this week's glacial flash flood rose to 547 on Friday, with China reporting 5 dead on the Tibetan side, according to NPR. More than 1,500 people remain missing across both countries, over half of them foreign nationals, including 90 Americans affected. Rescue operations in the hardest-hit border areas were paused after Chinese authorities warned that a debris-dammed lake formed by the flood had begun to overflow, threatening a second surge.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
+      "published": "2026-08-28T13:23:42Z"
+    },
+    {
+      "id": 2,
+      "title": "Iran says it will set formal conditions for reopening Strait of Hormuz",
+      "summary": "Iran's top security official, Mohsen Rezaei, said Thursday that mediators had asked Tehran to list its conditions for reopening the Strait of Hormuz, with an end to the regional war among them, Al Jazeera reported. The move came as Qatar's prime minister held talks in Tehran, the third mediating country to visit in a week after Pakistan and Oman. Iran's Revolutionary Guard Corps says it will not allow reopening unless Washington lifts its blockade of Iranian ports, pays war compensation and removes sanctions; President Trump said separately he is in no hurry to resume talks.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz",
+      "published": "2026-08-28T01:23:42Z"
+    },
+    {
+      "id": 3,
+      "title": "Stocks edge higher as Fed Chair Warsh delivers Jackson Hole inflation message",
+      "summary": "U.S. stocks traded modestly higher midday Friday, with the S&P 500 up about 0.2% and the Nasdaq up 0.14%, as investors digested Federal Reserve Chairman Kevin Warsh's Jackson Hole debut, according to the Motley Fool. Warsh stressed his commitment to reducing inflation without explicitly committing to a rate move, and economists now put the odds of a September rate hike at nearly 60%. Elastic shares jumped more than 18% on earnings, while Marvell Technology and Rubrik fell despite both beating expectations.",
+      "category": "Business & Markets",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/28/stock-market-midday-aug-28-stocks-edge-higher-on-fed-s-clear-inflation-message/",
+      "published": "2026-08-28T16:51:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Federal judge strikes down Pentagon's blacklisting of Anthropic",
+      "summary": "U.S. District Judge Rita Lin ruled Thursday that the Pentagon's designation of Anthropic as a supply-chain risk was illegal, finding the Department of Defense violated the First Amendment by retaliating against the company and also breached Fifth Amendment due-process protections, CNBC reported. Anthropic had been the first company publicly designated a supply-chain risk under the procurement statute, after it said AI models are not reliable enough for autonomous weapons and objected to domestic surveillance uses. Judge Lin wrote that \"the empty invocation of national security is not a blank check to punish and retaliate against government critics.\"",
+      "category": "AI & Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+      "published": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "NASA's Roman Space Telescope cleared for Sunday launch aboard Falcon Heavy",
+      "summary": "NASA's Nancy Grace Roman Space Telescope is on track for liftoff no earlier than 7:26 a.m. EDT on Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Kennedy Space Center's Launch Complex 39A, Space.com reported. A Launch Readiness Review was held Friday to give final clearance, with weather forecasts leaning favorable for the early-morning window. The observatory will travel about 930,000 miles to the Earth-Sun Lagrange point 2 to study dark energy and search for exoplanets, with a backup launch opportunity Monday if needed.",
+      "category": "Science",
+      "source": "Space.com",
+      "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-28-2026",
+      "published": "2026-08-28T15:39:53Z"
+    }
+  ]
+}
