@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T06:58:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US Strikes Iran's Larak Island, Tehran Retaliates With Missiles on Jordan Bases",
+      "summary": "US Central Command struck two Iranian rocket launchers on Larak Island on Sunday after observing Islamic Revolutionary Guard Corps forces preparing to fire mines into the Strait of Hormuz, ending roughly a month of relative calm. Iran's IRGC responded by launching a missile and drone operation it called \"Punishment of the Aggressor\" against the King Hussein and Al Azraq bases in Jordan on Monday. Jordan's military said it intercepted eight missiles that breached its airspace, and no injuries were reported at either base. The exchange is the first flare-up in US-Iran hostilities since late July, six months into the broader US-Israel war on Iran.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks",
+      "published": "2026-08-30T20:15:47Z"
+    },
+    {
+      "id": 2,
+      "title": "Nepal-China Flood Death Toll Passes 750, About 3,000 Still Missing",
+      "summary": "The death toll from last Wednesday's catastrophic flash floods along the Nepal-China border rose to roughly 750 as of Saturday, with Nepal's disaster agency reporting 734 deaths and 2,498 missing, and Chinese authorities reporting 16 deaths and 546 missing on their side. The floods were triggered when a collapsing glacier above the Langtang Lirung mountain sent a wall of water and debris through river valleys, an event that registered as a magnitude-5.2 seismic event. More than 3,700 people have been rescued in Nepal, and rescue teams are working to reach over 100 workers believed trapped in hydropower tunnels at the Trishuli 3A and 3B sites. Poor weather has repeatedly hampered helicopter rescue operations, and authorities are also monitoring a new glacial lake at risk of further overflow.",
+      "category": "World & Geopolitics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nepal-flash-flood-death-missing-americans-rescue/",
+      "published": "2026-08-30T05:16:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Death Toll From Russian Strike on Kyiv-Area Arms Depot Rises to 38",
+      "summary": "The death toll from a Russian strike on a Ukrainian arms depot near Kyiv rose to 38, President Volodymyr Zelenskyy said, calling it the deadliest single attack of the war so far this year. Zelenskyy said 20 people were injured and four remained missing after fires and explosions that began Saturday in the village of Myla continued into Sunday. It was the second time in two months that a munitions depot near Kyiv has been hit, prompting Ukrainian prosecutors to open a criminal negligence investigation into the storage of weapons near residential areas. Russia's defence ministry separately said it was preparing \"massive strikes\" on Ukraine's energy infrastructure ahead of winter.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38",
+      "published": "2026-08-30T12:26:48Z"
+    },
+    {
+      "id": 4,
+      "title": "Oil Jumps as Iran Claims Tanker Mine Strike, Fires Missiles Into Strait of Hormuz",
+      "summary": "West Texas Intermediate crude rose to about $84.40 a barrel and Brent climbed above $90 on Monday after Iran's Revolutionary Guard Corps claimed a supertanker was struck by naval mines in the Strait of Hormuz and launched a barrage of ballistic and cruise missiles toward the waterway. The moves followed a US strike on Iranian rocket-launcher positions on Larak Island a day earlier, the first direct US military action in the area in more than a month. Analysts at Brown Brothers Harriman said further gains may be limited, citing Goldman Sachs estimates that Persian Gulf oil exports have recovered to about two-thirds of pre-war levels as more vessels transit Hormuz. The renewed volatility comes as Federal Reserve Chair Kevin Warsh's hawkish Jackson Hole remarks have separately raised bets on a September interest-rate hike.",
+      "category": "Business & Markets",
+      "source": "FXStreet",
+      "url": "https://www.fxstreet.com/news/wti-rises-to-near-8450-as-irgc-claims-supertanker-struck-by-mines-in-hormuz-202608310502",
+      "published": "2026-08-31T05:02:47Z"
+    },
+    {
+      "id": 5,
+      "title": "Anthropic Warns Infostealer Malware Is Hijacking Claude Sessions to Drain Usage",
+      "summary": "Anthropic is warning some Claude users that infostealer malware on their computers stole active login sessions, letting attackers access accounts and consume usage without the owner's knowledge. The company said it is signing out affected users, removing saved payment methods, and refunding unauthorized charges, and noted that stolen sessions can bypass normal password and two-factor login checks. Anthropic linked the campaign to common infostealers including Vidar, LummaC2, StealC, RedLine and Acreed on Windows, plus Atomic Stealer on a small number of Macs, and said the malware is unrelated to Claude itself. Affected users are urged to remove the malware from their devices, since signing out of Claude stops the stolen session but does not clean the underlying infection.",
+      "category": "AI & Tech",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "published": "2026-08-30T14:30:00Z"
+    },
+    {
+      "id": 6,
+      "title": "NASA's Nancy Grace Roman Space Telescope Launches Aboard SpaceX Falcon Heavy",
+      "summary": "NASA's Nancy Grace Roman Space Telescope lifted off at 7:26 a.m. EDT on August 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at Kennedy Space Center. The telescope separated from the rocket on schedule 31 minutes after launch and began deploying its solar panels ahead of a mid-course burn toward the Earth-Sun L2 point, about 1 million miles from Earth. Roman's wide field of view is designed to let astronomers map billions of galaxies, search for exoplanets, and study black holes over a planned five-year mission. The launch marks the start of commissioning operations before the observatory begins science operations at L2.",
+      "category": "Science",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
+      "published": "2026-08-30T11:26:00Z"
+    }
+  ]
+}
