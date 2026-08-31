@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-08-31T18:35:08Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US and Iran Exchange Strikes Near Strait of Hormuz After Month-Long Pause",
+      "summary": "US forces struck two Iranian rocket launchers on Larak Island on Sunday, August 30, after the Islamic Revolutionary Guard Corps was observed preparing to launch rockets carrying sea mines into the Strait of Hormuz, US Central Command said. It was the first publicly acknowledged US strike on Iranian positions in about a month. Iran's Revolutionary Guards acknowledged casualties and retaliated overnight, firing at air bases in Jordan and the UAE; Jordan's armed forces said they intercepted and destroyed eight missiles. The exchange raises fresh concerns about shipping disruption through the strategic waterway, which US forces had worked the previous week to clear of sea mines.",
+      "category": "World & Geopolitics",
+      "source": "CNN",
+      "url": "https://us.cnn.com/2026/08/30/politics/us-iran-strikes-larak-island",
+      "published": "2026-08-30"
+    },
+    {
+      "id": 2,
+      "title": "Nepal-Tibet Flood Death Toll Surpasses 900 as Thousands Remain Missing",
+      "summary": "Nepal's disaster agency said Monday that 903 deaths have been confirmed from catastrophic flash flooding, with 4,247 people, including 592 foreigners, still missing. The flood was triggered when a roughly 2,000-foot-wide chunk of glacier broke off a mountain and plunged about 7,000 feet into a river, an event so extreme it registered as a magnitude-5.2 seismic reading. Chinese authorities across the border in Tibet reported 16 deaths and 546 missing. Rescue crews say at least 90 people remain trapped in hydropower plant tunnels as search efforts continue.",
+      "category": "World & Geopolitics",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/nepal-tibet-flood-death-toll-surpasses-900-officials/story?id=136081207",
+      "published": "2026-08-31"
+    },
+    {
+      "id": 3,
+      "title": "Tim Cook Steps Down as Apple CEO, John Ternus Takes Over",
+      "summary": "September 1 marks Tim Cook's final day as Apple's chief executive after roughly 15 years leading the company; he becomes executive chairman of Apple's board. John Ternus, previously senior vice president of Hardware Engineering, becomes Apple's CEO effective today. Cook will continue to assist the company, including engaging with policymakers, while Ternus takes over a product roadmap expected to include Apple's first foldable iPhone. Apple first announced the transition in April 2026.",
+      "category": "Business & Markets",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
+      "published": "2026-08-31"
+    },
+    {
+      "id": 4,
+      "title": "Wall Street Slips to Close Out August as Mideast Tensions and Rate-Hike Fears Weigh",
+      "summary": "The S&P 500 fell 0.3% to close at 7,711.76 on Monday, August 31, as rising oil prices and concern over a potential Federal Reserve rate hike weighed on sentiment following the US-Iran strikes near the Strait of Hormuz. Ten of the index's 11 sectors ended the day lower. Despite the decline, the S&P 500 still finished August with a gain of more than 3% for the month. Futures markets have pushed the implied odds of a September Fed rate hike to roughly 58-59%, up sharply after Fed Chair Kevin Warsh's hawkish Jackson Hole remarks on inflation last week.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-31-2026",
+      "published": "2026-08-31"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI's ChatGPT Ad Business Hits $1 Billion Annualized Revenue Run Rate",
+      "summary": "OpenAI's advertising business within ChatGPT has reached a $1 billion annualized revenue run rate roughly 200 days after launch, the company said Monday. ChatGPT Ads are now available in more than 40 countries, with OpenAI recently opening self-service access to marketers in India, Europe, the Middle East and North Africa. The ad unit now sits alongside OpenAI's enterprise contracts, consumer subscriptions and API revenue as the company works to diversify ahead of an expected IPO, amid pressure to justify an $852 billion valuation.",
+      "category": "AI & Tech",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+      "published": "2026-08-31"
+    },
+    {
+      "id": 6,
+      "title": "NASA's Nancy Grace Roman Space Telescope Launches Aboard SpaceX Falcon Heavy",
+      "summary": "NASA's Nancy Grace Roman Space Telescope lifted off at 7:26 a.m. EDT Sunday, August 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at Kennedy Space Center, reaching orbit about 10 minutes later. Roman carries a main mirror the same size as Hubble's but with a field of view roughly 100 times larger, letting it survey billions of stars and galaxies far faster. The telescope will take about three months to reach its operational orbit near Lagrange Point 2, roughly 1 million miles from Earth, where it will study dark energy and search for exoplanets.",
+      "category": "Science",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
+      "published": "2026-08-30"
+    }
+  ]
+}
