@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-01T18:33:10Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US launches fresh strikes on IRGC targets in Iran as six-month war escalates",
+      "summary": "US Central Command announced it began striking Islamic Revolutionary Guard Corps targets inside Iran on Tuesday, in retaliation for Iranian drone and missile attacks on the King Hussein and Azraq bases in Jordan and on Al Minhad Air Base in the UAE. Multiple explosions were reported near Bandar Abbas and Qeshm Island in the Strait of Hormuz, and two oil tankers were hit by projectiles as the six-month US-Iran conflict continued. Oil prices jumped above $94 a barrel on Brent futures following the strikes, and Iran has vowed to retaliate.",
+      "category": "World & Geopolitics",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6063807-us-strikes-irgc-targets-in-iran-in-response-to-attacks-on-american-forces/",
+      "published": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Keir Starmer to stand down as MP, triggering by-election",
+      "summary": "Former UK prime minister Keir Starmer announced on Tuesday that he will step down as the MP for Holborn and St Pancras, a seat he has held for 11 years, triggering a by-election. Starmer resigned as prime minister in June 2026 and was succeeded by Andy Burnham as Labour leader; he said he now plans to focus on international affairs including defense, security, trade and technology. He described representing the constituency as \"an honor and privilege.\"",
+      "category": "World & Geopolitics",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-01/keir-starmer-to-stand-down-as-mp/107104952",
+      "published": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Dow, S&P, Nasdaq fall as fresh Iran strikes push oil and bond yields higher",
+      "summary": "US stocks dropped Tuesday as new American airstrikes on Iran drove oil prices up and added to a global bond sell-off; the Dow Jones Industrial Average shed 401 points (0.8%), the S&P 500 fell 0.6%, and the Nasdaq Composite lost 0.9%. Brent crude futures traded above $94 a barrel on the day, and 10-year Treasury yields climbed to levels not seen since January 2025 amid concern that higher energy prices could stoke inflation and complicate the Federal Reserve's rate path. Yields in Japan and Germany also hit multi-year and multi-decade highs as the global bond sell-off deepened.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+      "published": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Pentagon adds ChatGPT and Grok to its GenAI.mil platform for 3 million personnel",
+      "summary": "The US Department of War (Defense) launched OpenAI's ChatGPT Mil and xAI/Starshield's Grok for Government on its GenAI.mil portal on Monday, joining Google Gemini for Government and extending access to more than 3 million military and civilian personnel. GenAI.mil, which launched in December 2025 with Gemini alone, has already drawn over 1.7 million unique users; ChatGPT Mil is accredited for Impact Level 5 and will handle unclassified administrative, logistics and policy work. OpenAI said data processed on the platform stays isolated within the government environment and is not used to train its commercial models.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "2026-08-31T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Physicists report 'most compelling hint yet' of dark matter at LUX-ZEPLIN detector",
+      "summary": "An international team using the LUX-ZEPLIN (LZ) detector, buried nearly 1.5km underground in a former South Dakota gold mine, reported a single energy flash consistent with a WIMP (weakly interacting massive particle) colliding with a xenon nucleus. The event, recorded on June 16, 2023 during a 220-day run and presented at the 2026 TeV Particle Astrophysics conference, reached 2.6 sigma significance, meaning there is roughly a 0.5% chance it is explained by known background sources, still short of the 5-sigma threshold needed to claim discovery. Researchers, including physicists Theresa Fruth and Nicole Bell, called the result exciting but cautioned it is a single event that needs confirmation from further data collection, which will continue at LZ until at least 2028.",
+      "category": "Science",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/science/2026-09-02/dark-matter-lux-zeplin-discovery-cautious-results/107097774",
+      "published": "2026-09-01T14:00:06Z"
+    }
+  ]
+}
