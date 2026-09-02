@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-02T18:35:32Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US Launches Strikes on Iran Near Strait of Hormuz, Iran Retaliates Against Jordan Base",
+      "summary": "U.S. Central Command struck Iranian military targets along Iran's southern coast, including Bandar Abbas, Jask, Chabahar and the island of Qeshm, in retaliation for Iranian attempts to mine the Strait of Hormuz and attacks on U.S. service members. Iranian state media said one strike hit a wedding ceremony in Kuhestak, killing at least four people and wounding 35. Iran's Revolutionary Guard Corps retaliated with ballistic missiles toward a U.S. base in Jordan; Jordanian air defenses intercepted 10 of 13 missiles and reported no casualties. President Trump warned of a 'much harder' response if Iran retaliated further, while Iranian officials vowed a counterattack 'several times greater' than the U.S. strikes.",
+      "category": "World & Geopolitics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
+      "published": "2026-09-01T16:49:03Z"
+    },
+    {
+      "id": 2,
+      "title": "Nepal-China Flood Death Toll Tops 1,100 as Thousands Remain Missing",
+      "summary": "The death toll from flash floods triggered by a glacial collapse on the China-Nepal border has surpassed 1,100, with Nepalese officials confirming 1,114 deaths and at least 16 more on the Chinese side. Roughly 4,500 people remain missing across both countries, according to authorities. At least 11,814 people have been rescued so far. The disaster, caused by a wall of freezing water and debris, ranks among the deadliest flooding events in the region in recent years.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000",
+      "published": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "John Ternus Succeeds Tim Cook as Apple CEO After 15 Years",
+      "summary": "John Ternus, a 25-year Apple veteran and former senior vice president of hardware engineering, became Apple's CEO effective September 1, 2026, succeeding Tim Cook after 15 years in the role. Cook moves to executive chairman of Apple's board, a transition the board approved unanimously following a long-term succession planning process. Ternus is only the second Apple CEO after founder Steve Jobs. Apple shares rose on the news even as broader markets fell.",
+      "category": "Business & Markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years",
+      "published": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Wall Street Mixed as Bond Yields Hit Multi-Year Highs on Iran Tensions",
+      "summary": "U.S. stocks traded mixed on September 2 as renewed U.S.-Iran hostilities pushed the benchmark 10-year Treasury yield to 4.814%, its highest level since November 2023. The move followed a more-than-400-point drop in the Dow on September 1 amid rising oil prices and the escalating Middle East conflict. Analysts said surging crude prices tied to the conflict drove global bond yields to multi-year, and in some cases multi-decade, highs. ADP data also showed private employers added just 38,000 jobs in August, the slowest pace since January.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance / TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-134032621.html",
+      "published": "2026-09-02T13:40:00Z"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI's Astra Becomes First Model to Hit 'Critical' Cybersecurity Risk Threshold",
+      "summary": "OpenAI said its upcoming Astra model is the first to cross the 'Critical' cybersecurity capability threshold under its preparedness framework, after the model discovered and chained together two previously unknown zero-day vulnerabilities during testing. The company will release a broadly available version of Astra soon but will restrict its most powerful cyber capabilities to a small group of vetted testers, citing risks that the tools could aid attackers as well as defenders. OpenAI said it has added safeguards, including training the model to more reliably refuse harmful cyber requests and monitoring to stop unauthorized activity. The announcement follows an earlier incident in which OpenAI said its production safeguards were down during a security breach involving Hugging Face.",
+      "category": "AI & Tech",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/01/openai-astras-cyber-critical",
+      "published": "2026-09-01T20:00:08Z"
+    },
+    {
+      "id": 6,
+      "title": "Underground Xenon Detector Records Single Event Consistent With Dark Matter",
+      "summary": "Physicists with the LUX-ZEPLIN (LZ) experiment at South Dakota's Sanford Underground Research Facility reported a single high-energy particle recoil, depositing 248 keV of energy, consistent with a collision from a weakly interacting massive particle (WIMP), a leading dark-matter candidate. The result, presented September 1 at the TeV Particle Astrophysics conference in Japan and posted as a preprint, came from analysis of 220 days of data collected between March 2023 and April 2024. Researchers, including LZ spokesperson Richard Gaitskell, cautioned that a single event is not proof, noting past 'hopeful signs' of dark matter that turned out to be spurious. If the signal came from a dark-matter particle, it would need to weigh at least 200 gigaelectronvolts, likely around 1,000 GeV.",
+      "category": "Science",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01985-9",
+      "published": "2026-09-01T00:00:00Z"
+    }
+  ]
+}
