@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-05T20:04:40Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US Military Strikes Three Iranian Oil Tankers After Missile Attack on Navy Warships",
+      "summary": "The U.S. military said Saturday it struck three Iranian oil tankers after Iran's Revolutionary Guard Corps fired ballistic missiles at two U.S. Navy warships, which evaded the attack without casualties. Central Command destroyed one unladen tanker in the Gulf of Oman and \"permanently disabled\" two others near Kharg Island and Jask, saying the vessels helped fund Iran's Revolutionary Guard and its regional proxies. The strikes extend six months of on-again, off-again conflict between the U.S., Israel and Iran that began February 28, and came a day after President Trump described the war as \"small potatoes.\" CENTCOM commander Adm. Brad Cooper warned the U.S. would \"destroy Iran's limited and exposed oil fleet\" if necessary.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "published": "2026-09-05T15:05:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Trump Envoys Witkoff and Kushner Hold Weekend Talks in Moscow and Kyiv to End Ukraine War",
+      "summary": "Special envoy Steve Witkoff and Jared Kushner traveled to Moscow on Friday to meet Russian President Vladimir Putin, then continued to Kyiv to meet Ukrainian President Volodymyr Zelensky, marking their first visit to Ukraine since President Trump returned to office. Trump said the envoys are \"bringing with them a plan to end the war,\" while Ukraine agreed to pause airstrikes on Russia to allow safe passage for the talks. Ukrainian officials remain skeptical of Putin's intentions, citing intelligence suggesting he is preparing operational plans for a new offensive in northern Ukraine near Kyiv and Chernihiv. The visit follows a mid-February pause in U.S.-mediated negotiations after the Iran war began, with little progress made since.",
+      "category": "World & Geopolitics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/04/trump-witkoff-kushner-moscow-kyiv",
+      "published": "2026-09-04T12:37:39Z"
+    },
+    {
+      "id": 3,
+      "title": "August Jobs Report Beats Expectations, Lifting Odds of a September Fed Rate Hike",
+      "summary": "U.S. employers added 162,000 jobs in August, far above the 53,000 economists expected, while unemployment held steady at 4.1%, according to Bureau of Labor Statistics data released Friday. July's figure was revised up by 44,000 jobs, and the labor force participation rate rose, though average hourly earnings growth of 3.1% year-over-year still trails inflation. The stronger-than-expected report pushed traders' odds of a quarter-point Fed rate hike at the September 15-16 meeting above 60%, according to economists citing CME Group data. Job gains were concentrated in food services, local government education, and construction, while the information sector lost jobs.",
+      "category": "Business & Markets",
+      "source": "HousingWire",
+      "url": "https://www.housingwire.com/articles/august-payrolls-fed-focus/",
+      "published": "2026-09-04T14:35:17Z"
+    },
+    {
+      "id": 4,
+      "title": "NHTSA Opens Investigation Into Tesla's Cybercab Self-Certification After Austin Launch",
+      "summary": "The National Highway Traffic Safety Administration announced Friday it opened an Audit Query into Tesla's certification that its new driverless Cybercab meets federal motor vehicle safety standards, following the vehicle's commercial deployment in Austin, Texas. The Cybercab has no steering wheel, brake pedal, accelerator, or mirrors, and the inquiry will examine the technical basis for Tesla's determination that certain federal safety standards do not apply to a vehicle without human controls. NHTSA Administrator Jonathan Morrison said the agency \"fully supports the safe development and deployment of automated vehicles\" but must ensure existing laws are followed while it works to overhaul relevant standards. The probe covers roughly 1,000 Cybercab vehicles now operating on Austin streets.",
+      "category": "AI & Tech",
+      "source": "NHTSA",
+      "url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
+      "published": "2026-09-04"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI Releases GPT-6 Astra, Its Most Capable Model Yet",
+      "summary": "OpenAI began rolling out GPT-6 Astra on September 3, calling it the \"world's most intelligent and aligned model,\" with wider availability to ChatGPT Plus, Pro, Business, and Enterprise users and via the API and AWS following in the coming days. The company says Astra scores 98% on FrontierMath Tier 4 and 99.9% on ARC-AGI-3, and is nearly twice as fast at computer-use tasks as prior models, with strengthened capabilities in coding, browsing, and multistep professional work. Because Astra meets the \"Critical\" threshold for cybersecurity risk under OpenAI's Preparedness Framework, the company is rolling it out gradually, starting with members of its Daybreak cybersecurity program. Pricing on the standard API is $10 per million input tokens and $50 per million output tokens.",
+      "category": "AI & Tech",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "published": "2026-09-04T18:52:35Z"
+    },
+    {
+      "id": 6,
+      "title": "Dark Matter Detector Records Unexplained Signal That Could Be a Breakthrough",
+      "summary": "The LUX-ZEPLIN (LZ) experiment, located nearly a mile underground at South Dakota's Sanford Underground Research Facility, has detected a single particle interaction that scientists say is unusually difficult to explain as ordinary background noise, in a region where dark matter signals are expected. The finding, presented at the TeV Particle Astrophysics conference and posted to arXiv on September 2, currently sits at 2.6-sigma statistical significance, well below the 5-sigma threshold required to claim a discovery. If caused by dark matter, researchers estimate the responsible particle would have a mass of at least 200 GeV/c2, more than 200 times that of a proton. LZ, a roughly 250-scientist collaboration using 10 tonnes of liquid xenon, will continue collecting data to determine whether the signal strengthens or fades.",
+      "category": "Science",
+      "source": "Lawrence Berkeley National Laboratory (via ScienceDaily)",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+      "published": "2026-09-04"
+    }
+  ]
+}
