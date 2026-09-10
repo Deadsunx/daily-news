@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-10T18:32:49Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Modi and Putin to Hold Bilateral Talks in New Delhi Ahead of BRICS Summit",
+      "summary": "Russian President Vladimir Putin arrives in New Delhi on September 11 for a three-day visit, holding bilateral talks with Indian Prime Minister Narendra Modi a day before the 18th BRICS Leaders' Summit opens at Bharat Mandapam. Kremlin spokesperson Dmitry Peskov confirmed the meeting's agenda includes a possible sale of Russia's Su-57 fighter jets to India, along with trade, energy and the war in Ukraine. It is the second Modi-Putin meeting in a matter of weeks, following their encounter at the SCO Summit in Bishkek. The two-day BRICS summit runs September 12-13, with Chinese President Xi Jinping also expected to attend.",
+      "category": "World & Geopolitics",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/world/pm-narendra-modi-vladimir-putin-to-hold-bilateral-meeting-ahead-of-brics-summit-in-new-delhi-on-september-11",
+      "published": "2026-09-08T10:03:00Z"
+    },
+    {
+      "id": 2,
+      "title": "TSMC Posts Record August Revenue, Up 53.3% on AI Chip Demand",
+      "summary": "Taiwan Semiconductor Manufacturing Co. reported record monthly revenue of NT$514.8 billion ($16.35 billion) for August, up 53.3% from a year earlier and 10.1% from July, marking four straight months of growth. The world's largest contract chipmaker credited continued strong demand for chips used in artificial intelligence applications. TSMC held a 72.5% share of the global foundry market in the second quarter, with its 5-nanometer, 4-nanometer and 3-nanometer production lines running at full utilization. The figures underscore how AI-related demand continues to drive semiconductor industry growth.",
+      "category": "Business & Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+      "published": "2026-09-10"
+    },
+    {
+      "id": 3,
+      "title": "10-Year Treasury Yield Hits 4.92%, Highest Since 2023, as Fed Rate-Hike Odds Rise",
+      "summary": "The 10-year U.S. Treasury yield touched 4.92% on September 10, its highest level since 2023, as inflation data and oil prices near $100 a barrel fueled bets that the Federal Reserve may resume raising rates. Fed funds futures put the odds of a rate hike at next week's central bank meeting at roughly 75%, following Fed Chair Kevin Warsh's hawkish Jackson Hole remarks in late August. A Thursday producer-price report showed prices up 0.4% in August and 5.4% year-over-year, with diesel up 24.1% and eggs up 32.2%. Markets are now awaiting Friday's Consumer Price Index, which one Fed governor has called a potential tipping point in the hike-versus-hold debate.",
+      "category": "Business & Markets",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
+      "published": "2026-09-10T17:37:00Z"
+    },
+    {
+      "id": 4,
+      "title": "DOJ Investigating Whether Nvidia's $20 Billion Groq Deal Evaded Antitrust Review",
+      "summary": "The U.S. Department of Justice is investigating whether Nvidia structured its $20 billion licensing agreement with AI chip startup Groq, announced in December, to avoid the antitrust scrutiny typically applied to mergers and acquisitions, the New York Times reported. The DOJ has reportedly sent Nvidia a formal demand for information about the deal, which gives Nvidia non-exclusive rights to Groq's low-latency inference chip technology. Nvidia could face a fine if wrongdoing is found, though officials do not currently expect the deal to be unwound, and the inquiry could also close without any enforcement action. The probe follows calls from U.S. senators for regulators to scrutinize similar licensing-style deals by Nvidia, Google and Meta.",
+      "category": "AI & Tech",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/hardware/nvidia-is-reportedly-being-investigated-by-the-doj-over-its-biggest-ever-deal-a-usd20-billion-non-exclusive-agreement-with-groq/",
+      "published": "2026-09-10T11:05:42Z"
+    },
+    {
+      "id": 5,
+      "title": "SpaceX Launches Classified USSF-153 Mission for U.S. Space Force",
+      "summary": "SpaceX launched a Falcon 9 rocket carrying the classified USSF-153 mission for the U.S. Space Force from Vandenberg Space Force Base in California on September 10, lifting off from Space Launch Complex 4E. The mission's payload has not been disclosed, though analysts note the rocket's booster drop zone matches those used in prior Starlink Group 15 launches, suggesting the payload may be built on SpaceX's Starshield satellite bus for U.S. government use. The Falcon 9's first stage, flying its 27th mission, landed on a droneship in the Pacific about 8.5 minutes after liftoff. It was the 104th Falcon 9 launch of 2026.",
+      "category": "Science",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+      "published": "2026-09-10T04:05:00Z"
+    },
+    {
+      "id": 6,
+      "title": "One Year After Charlie Kirk's Assassination, Utah Marks 'Charlie Kirk Day'",
+      "summary": "September 10, 2026 marked one year since conservative activist Charlie Kirk, 31, was shot and killed while speaking at Utah Valley University during a Turning Point USA campus tour stop. Utah Governor Spencer Cox declared September 10 'Charlie Kirk Day,' urging Utahns to honor Kirk's memory by rejecting political violence. Tyler Robinson, who turned himself in a day after the shooting, has pleaded not guilty to aggravated murder and other charges; a judge ruled last week that he will stand trial, making him eligible for the death penalty if convicted. His next court date is set for October 23.",
+      "category": "Culture",
+      "source": "Fox61 (AP)",
+      "url": "https://www.fox61.com/article/news/nation-world/conservative-activist-charlie-kirk-killed-assassinated-one-year-anniversary/507-102fd175-c00d-472a-b2c6-b4054ab63682",
+      "published": "2026-09-10"
+    }
+  ]
+}
