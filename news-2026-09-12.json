@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-11T18:35:13Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Houthi Advance on Yemen's Red Sea Coast Deepens Threat to Saudi Oil Exports",
+      "summary": "Iran-aligned Houthi forces have seized the Yemeni port city of Mocha and are pushing toward the Bab el-Mandeb Strait, a critical global shipping chokepoint linking the Red Sea and the Gulf of Aden. Saudi Arabia's crude output plunged by nearly 2 million barrels per day in August to its lowest level in more than 35 years as the conflict squeezes the kingdom's export routes. Brent crude remained elevated above $103 a barrel. The advance raises fears the Houthis could gain tighter control over a route Riyadh has increasingly relied on since the Iran war began.",
+      "category": "World & Geopolitics",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/houthi-gains-leave-mbs-with-few-good-options-in-yemen",
+      "published": "2026-09-11"
+    },
+    {
+      "id": 2,
+      "title": "August CPI Matches Forecasts, Fed Rate-Hike Odds Surge to 86% Ahead of Sept. 16 Decision",
+      "summary": "The Bureau of Labor Statistics reported Friday that the consumer price index rose a seasonally adjusted 0.4% in August, putting the annual rate at 3.4%; core CPI rose 0.3% for the month and 2.4% year over year, both roughly in line with consensus. Markets are now pricing an 85.6% chance of a quarter-point Fed rate hike at next week's policy meeting, up sharply after the data, according to CME FedWatch. The S&P 500 gained about 1%, snapping a four-session losing streak, as Treasury yields and oil prices stayed elevated.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-11-2026",
+      "published": "2026-09-11T10:19:05Z"
+    },
+    {
+      "id": 3,
+      "title": "Anthropic Publishes Its Most Detailed Report Yet on Claude Misuse for Cyberattacks and Bioweapons Research",
+      "summary": "Anthropic released a threat intelligence report covering activity disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, biological weapons research, surveillance and influence operations. The company said it disrupted every operation described in the report, including cases where AI moved beyond assisting human hackers to orchestrating reconnaissance, exploitation and data theft as part of multi-agent attack chains. Anthropic also flagged alleged efforts by seven China-based AI labs to extract Claude's capabilities through distillation.",
+      "category": "AI & Tech",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "published": "2026-09-11"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI Opens Public Beta of Agents API, Exposing Its Codex Harness to Developers",
+      "summary": "OpenAI launched a public beta of its Agents API on September 10, giving developers direct access to the managed harness that powers Codex, handling session state, tool orchestration, context compaction and recovery. The API is organized around four primitives: an agent, an optional sandboxed environment, a durable session, and events/items for inputs and outputs. OpenAI said the service carries no additional fees beyond usage costs, with infrastructure partners including Cloudflare, DigitalOcean and Oracle offering deployment environments.",
+      "category": "AI & Tech",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "published": "2026-09-10"
+    },
+    {
+      "id": 5,
+      "title": "Physicists Suggest Quantum Theory May Place a Fundamental Limit on Clock Precision",
+      "summary": "An international team led by Nicola Bortolotti at Rome's Enrico Fermi Museum and Research Centre found that certain quantum collapse models imply time itself carries a tiny intrinsic uncertainty, published in Physical Review Research. Using the Diosi-Penrose model and Continuous Spontaneous Localization theory, the researchers calculated a fundamental limit on how precisely any clock could ever measure time, though the predicted effect is far below what current atomic clocks can detect. Researchers say the work offers a possible testable clue toward reconciling quantum mechanics with gravity.",
+      "category": "Science",
+      "source": "ScienceDaily / FQXi",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "published": "2026-09-11"
+    },
+    {
+      "id": 6,
+      "title": "US Marks 25th Anniversary of September 11 Attacks with Nationwide Ceremonies",
+      "summary": "Friday marked a quarter-century since the September 11, 2001 terrorist attacks that killed 2,977 people, with commemorations held at Ground Zero in New York, the Pentagon and Shanksville, Pennsylvania. All living former US presidents attended the Manhattan ceremony alongside Vice President JD Vance, and this year's observance included an additional moment of silence for those who later died of 9/11-related illnesses. New York Harbor also featured a light display recreating the outline of the Twin Towers.",
+      "category": "Culture",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/september-11-terrorist-attacks-25-years-memorial-2026-09-11/",
+      "published": "2026-09-11"
+    }
+  ]
+}
