@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-15T18:40:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Iran's Security Chief Rejects Trump's Offer of Talks Over Middle East War",
+      "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said on September 15 that there would be 'no talks until Iran's conditions are met,' rejecting President Trump's statement a day earlier that he was open to resuming talks to end the U.S.-Iran war. Rezaei wrote on X that Iran would not be distracted by 'mixed signals' from the U.S. president. Iran has demanded war reparations and the lifting of sanctions as preconditions for ending the conflict and its blockade of the Strait of Hormuz. The exchange came as regional tensions remain elevated following attacks on Gulf oil infrastructure.",
+      "category": "World & Geopolitics",
+      "source": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40439580/iran-rejects-any-talks-with-us-after-trump-remarks",
+      "published": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Indonesia Intensifies Search for 129 Missing After Java Sea Ferry Capsizes",
+      "summary": "Indonesian authorities are continuing to search for 129 people still missing after the passenger ferry Virgo Transport 8, carrying more than 240 people from Surabaya to Banjarmasin, capsized in rough seas in the Java Sea on September 13. Six bodies have been recovered and 108 survivors rescued, with 17 ships and aircraft from the military and police deployed in the search. The captain had reported waves up to three meters and a heavy list before the ferry, which authorities say is floating upside down and has not sunk, went missing. The cause of the capsizing, including possible weather or technical factors, remains under investigation.",
+      "category": "World & Geopolitics",
+      "source": "Manila Times / NPR",
+      "url": "https://www.manilatimes.net/2026/09/15/world/asia-oceania/indonesia-searches-for-129-ferry-passengers/2424540",
+      "published": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Supreme Court Rejects Trump Administration's Mail-In Voting Restrictions Ahead of Midterms",
+      "summary": "The U.S. Supreme Court on September 14 rejected the Trump administration's bid to impose new restrictions on mail-in ballots ahead of the 2026 midterm elections, with voting already underway in some states. The unsigned order found the administration 'unlikely to succeed on the merits' of its challenge, which would have required states to attach voter-identifying barcodes to mail ballots for USPS screening before delivery. Justice Brett Kavanaugh wrote separately that applying the rule this year would be 'arbitrary and capricious' because officials lack time to implement it, while Justices Alito and Thomas dissented. Mail ballots account for roughly a third of votes cast nationally.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "published": "2026-09-14T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Bank of America Warns of Steep Drop in Investment Banking Fees, Shares Slide",
+      "summary": "Bank of America CEO Brian Moynihan said on September 14 that third-quarter investment banking fees are likely to total $1.6 billion to $1.8 billion, a decline of roughly 10-20% from the $2 billion earned a year earlier, sending the bank's shares down more than 5%. Moynihan said trading revenue would be roughly flat, a sharp slowdown from the second quarter's 50% jump in investment banking fees and 33% jump in trading revenue. The warning added to a broader pullback in bank stocks and came as markets weighed surging oil prices and rising Treasury yields ahead of the Federal Reserve's rate decision, due September 16.",
+      "category": "Business & Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "published": "2026-09-14T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Chinese State Media Dismisses US Tech Leaders' AI Slowdown Calls as 'Self-Serving'",
+      "summary": "An editorial published September 15 by China's state-run China Daily accused U.S. AI executives, including Anthropic's Dario Amodei, of using calls to slow development of frontier AI models to blunt Chinese competition, calling the push 'self-serving.' The editorial pointed to commercial pressures on U.S. firms, noting OpenAI's stalled path to an IPO and the emergence of cheaper Chinese models such as DeepSeek and Kimi K3. It followed a weekend essay from Amodei urging an industry-wide slowdown, which was echoed by OpenAI's Sam Altman and Elon Musk, and which China's Global Times separately branded a 'Cold War playbook' for the AI sector.",
+      "category": "AI & Tech",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
+      "published": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "ESA Launches FLEX and Sentinel-3C Earth Observation Satellites",
+      "summary": "The European Space Agency's FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite lifted off together aboard a Vega-C rocket from Europe's Spaceport in French Guiana on September 15, using a new dual-payload adapter to stack both satellites for a single launch. FLEX is ESA's first satellite designed specifically to measure plant photosynthetic activity from space via a Fluorescence Imaging Spectrometer, aimed at helping scientists assess vegetation health and climate stress. Sentinel-3C, the third in its series, will extend long-term monitoring of ocean, land, ice and atmospheric conditions under the EU's Copernicus program. ESA's operations center in Germany confirmed contact with both spacecraft after separation.",
+      "category": "Science",
+      "source": "ESA / Space & Defense",
+      "url": "https://spaceanddefense.io/flex-and-sentinel-3c-launched/",
+      "published": "2026-09-15T00:00:00Z"
+    }
+  ]
+}
