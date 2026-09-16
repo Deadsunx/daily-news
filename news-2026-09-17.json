@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-16T18:35:26Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Building Collapse in Gaza City Kills 21 as Ceasefire Deal Stalls",
+      "summary": "A structure previously damaged by Israeli strikes collapsed suddenly in Gaza City early Wednesday, killing at least 21 people in their sleep, including 11 children, according to Gaza's Health Ministry. Six displaced Palestinian families had been sheltering in the building despite knowing it was structurally unstable, as reconstruction has stalled nearly a year into the ceasefire between Israel and Hamas. Israel says it will not permit rebuilding until Hamas disarms, and rescuers dug through rubble largely by hand due to a shortage of excavators and fuel.",
+      "category": "World & Geopolitics",
+      "source": "Associated Press (via WDIV ClickOnDetroit)",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/16/building-collapse-in-gaza-kills-16-as-perilous-conditions-persist-for-palestinians-during-truce/",
+      "published": "2026-09-16T08:54:48Z"
+    },
+    {
+      "id": 2,
+      "title": "CBO: US-Iran War Has Cost Pentagon $38 Billion, Depleted Missile Interceptor Stockpiles",
+      "summary": "The nonpartisan Congressional Budget Office estimated this week that the ongoing U.S. war with Iran has cost the Pentagon $38.1 billion through August 1, with munitions replacement -- chiefly missile-defense interceptors -- the single largest expense at $21.7 billion. The report found the U.S. has expended as much as two-thirds of its missile-defense interceptor stockpile since June 2025, which could take at least five years to replenish. CBO projects the conflict will add roughly $2 billion to $3 billion in additional monthly costs and could add 0.5 percentage points to inflation by early 2027.",
+      "category": "World & Geopolitics",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/09/16/Congressoinal-Budget/8981789533524/",
+      "published": "2026-09-16T05:03:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Federal Reserve Raises Interest Rates for First Time in Three Years",
+      "summary": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point to a range of 3.75% to 4% on Wednesday, its first hike in more than three years, citing persistently elevated inflation. Policymakers said in a statement that \"today's policy action will support a timelier return to the Committee's 2% goal,\" as the U.S. war with Iran has pushed oil and diesel prices higher, with diesel hitting a record $6.31 a gallon. Fed forecasts released after the meeting point to one additional quarter-point increase later this year and no hikes in 2027.",
+      "category": "Business & Markets",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+      "published": "2026-09-16T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "EU Proposes Canada Become Its First 'Associate Member' Amid US Tariff Strain",
+      "summary": "European Commission President Ursula von der Leyen proposed Wednesday opening a path for Canada to become the European Union's first \"associate member,\" as U.S. tariffs and rhetoric about annexation push Ottawa toward closer ties with Europe. Von der Leyen said an expanded relationship could span advanced manufacturing, defense, energy, critical minerals and artificial intelligence. Canadian Prime Minister Mark Carney has said he wants to double Canada's non-U.S. trade over the next decade; the new status would require approval from EU member states.",
+      "category": "Business & Markets",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+      "published": "2026-09-16T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "OpenAI in Early Talks for Funding Round at Over $1.2 Trillion Valuation",
+      "summary": "OpenAI is in early discussions with investors about a new funding round that would value the ChatGPT maker at more than $1.2 trillion ahead of a planned initial public offering, Bloomberg reported. The talks, initiated by investors, would position OpenAI's valuation above rival Anthropic, which raised funds in May at a $965 billion valuation. OpenAI CEO Sam Altman has said an IPO remains in the works but will not happen this year, while Anthropic is separately preparing for its own Nasdaq listing as soon as October.",
+      "category": "AI & Tech",
+      "source": "Bloomberg (via TheStreet)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
+      "published": "2026-09-15T20:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Intel in Talks With SK Hynix on US Memory Chip Manufacturing Deal",
+      "summary": "Intel is in talks with South Korea's SK Hynix about a potential deal to manufacture memory chips in the United States for the first time, Reuters reported, sending both companies' shares higher. One scenario under discussion would have SK Hynix lease space in Intel's long-planned chipmaking facility in Ohio; another could involve a joint venture with Intel and major cloud companies seeking to secure memory chip supplies. SK Hynix said talks remain exploratory, and any deal to produce sensitive technologies like HBM or DRAM domestically could face opposition from the South Korean government.",
+      "category": "AI & Tech",
+      "source": "Reuters (via TheStreet)",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
+      "published": "2026-09-16T11:00:00Z"
+    }
+  ]
+}
