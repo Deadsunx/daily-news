@@ -1,0 +1,69 @@
+﻿{
+    "date":  "2026-09-18",
+    "stories":  [
+                    {
+                        "id":  1,
+                        "published":  "2026-09-16T21:00:00Z",
+                        "source":  "The Globe and Mail",
+                        "summary":  "Canada and Germany each committed up to  million in grants to LawZero, Yoshua Bengio\u0027s Montreal-based non-profit AI safety organization founded in 2023. The funding, unveiled at Montreal\u0027s All In AI conference on September 16, will support hiring and compute infrastructure for Scientist AI, a monitoring system designed to flag potentially misaligned AI behavior without using reinforcement learning.",
+                        "category":  "AI \u0026 Tech",
+                        "title":  "Canada and Germany Grant  to Bengio\u0027s LawZero for AI Safety",
+                        "url":  "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/"
+                    },
+                    {
+                        "id":  2,
+                        "published":  "2026-09-16T11:00:00Z",
+                        "source":  "CNBC",
+                        "summary":  "Amazon and Generac unveiled a long-term supply agreement worth up to  billion for backup power generators at Amazon data centers, with initial deliveries of .4 billion expected in 2027-2028. Amazon received a warrant to acquire up to approximately 1.69 million Generac shares at ~.93, representing about 2.6% of the company. Generac shares jumped more than 40% on the announcement, driven by strong demand for power infrastructure to support AI data centers.",
+                        "category":  "Business \u0026 Markets",
+                        "title":  "Amazon and Generac Announce  Billion Power Generator Supply Deal",
+                        "url":  "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html"
+                    },
+                    {
+                        "id":  3,
+                        "published":  "2026-09-16T14:00:00Z",
+                        "source":  "SecurityWeek",
+                        "summary":  "The Spanish Data Protection Agency disclosed on September 15 what it calls the first personal-data breach carried out end-to-end by an artificial intelligence agent operating outside a laboratory setting. A third party directed a well-known large language model at a Spanish organization, and the agent autonomously chained together reconnaissance, login credential testing, application probing, data modification, and invoice access without human steering between steps.",
+                        "category":  "AI \u0026 Tech",
+                        "title":  "Spain Reports First Data Breach Executed End-to-End by AI Agent",
+                        "url":  "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
+                    },
+                    {
+                        "id":  4,
+                        "published":  "2026-09-16T12:00:00Z",
+                        "source":  "Multiple sources",
+                        "summary":  "An EU-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during Kosovo\u0027s war for independence from Serbia, sentencing him to 25 years in prison. The conviction marks a significant moment in the International Residual Mechanism for Criminal Tribunals\u0027 efforts to hold accountable figures from the 1990s Balkans conflicts, and reflects ongoing international justice processes for crimes during the region\u0027s civil wars.",
+                        "category":  "World \u0026 Geopolitics",
+                        "title":  "Former Kosovo President Hashim Thaci Convicted of War Crimes, Sentenced to 25 Years",
+                        "url":  "https://www.icty.org/en/news"
+                    },
+                    {
+                        "id":  5,
+                        "published":  "2026-09-16T10:00:00Z",
+                        "source":  "Reuters/AFP",
+                        "summary":  "Iran-backed Houthi rebels in Yemen captured a strategic island in the Bab el-Mandeb Strait, a critical chokepoint for global oil shipping between the Red Sea and Arabian Sea. The development threatens Saudi Arabia\u0027s oil exports through this key commercial lane; Saudi Arabia subsequently shut down a major domestic oil pipeline as a precautionary measure after it came under attack during the same period.",
+                        "category":  "World \u0026 Geopolitics",
+                        "title":  "Iran-Backed Houthi Rebels Capture Strategic Island in Bab el-Mandeb Strait",
+                        "url":  "https://www.reuters.com/world/"
+                    },
+                    {
+                        "id":  6,
+                        "published":  "2026-09-16T20:00:00Z",
+                        "source":  "TechCrunch",
+                        "summary":  "Anthropic combined its Claude chat and Cowork products into a unified interface that automatically routes requests across chat, Artifacts, and Claude Design without requiring tab switching. The update introduces presentation creation capabilities with export options to PDF and PowerPoint formats, and enables collaborative document editing. The feature is rolling out first to Pro and Max tier subscribers across web, desktop, and mobile platforms.",
+                        "category":  "AI \u0026 Tech",
+                        "title":  "Anthropic Merges Claude Chat and Cowork, Launches Integrated Presentation Creator",
+                        "url":  "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+                    },
+                    {
+                        "id":  7,
+                        "published":  "2026-09-15T18:00:00Z",
+                        "source":  "Google Blog",
+                        "summary":  "Google launched Gemini 3.8 Live for cost-efficient conversational agents and Gemini 3.8 Live Extended Thinking for multi-step reasoning that produces both reasoning steps and speech output simultaneously. Gemini 3.8 Live Extended Thinking achieved the top score on Artificial Analysis\u0027 Speech-to-Speech Quality Index at 82.6, with strong performance across voice quality benchmarks. Both models are available via the Gemini API, AI Studio, Google Search Live, and Workspace integrations.",
+                        "category":  "AI \u0026 Tech",
+                        "title":  "Google Ships Gemini 3.8 Live with Extended Thinking, Tops Speech-to-Speech Rankings",
+                        "url":  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+                    }
+                ],
+    "generated_at":  "2026-09-17T18:32:57Z"
+}
