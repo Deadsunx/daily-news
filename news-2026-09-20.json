@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-19T18:32:13Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Trump Announces U.S.-Denmark Military Deal for Greenland",
+      "summary": "President Donald Trump announced Friday a deal with Denmark to significantly expand U.S. military presence in Greenland while maintaining Danish sovereignty over the territory. The agreement gives the U.S. permanent control over security in Greenland and bars any adversary nations from establishing military bases or making sensitive investments there without express written approval. Danish Prime Minister Mette Frederiksen stated the deal will be signed by all three governments next week and recognizes the territorial integrity of both Greenland and Denmark.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+      "published": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After 60+ Years",
+      "summary": "Warren Buffett has stepped down as chairman of Berkshire Hathaway after more than six decades leading the conglomerate, with his son Howard G. Buffett assuming the role effective immediately. Buffett will remain as Chairman Emeritus and continue serving on the board. The transition comes eight months after Buffett stepped down as CEO in favor of Greg Abel, stating that \"Father Time always wins\" and that Abel has exceeded his expectations in running the company.",
+      "category": "Business & Markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "published": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Russia Holds Parliamentary Election in Annexed Ukrainian Regions",
+      "summary": "Russia began its parliamentary elections on Friday in four regions of Ukraine that Moscow illegally annexed in September 2022, marking the first time such elections are being held there since the claimed annexation. Voting has been underway in these contested areas since late August, with officials citing security reasons for the extended voting period. Ukrainian officials vigorously denounced the vote as illegal, and human rights activists reported residents were coerced to participate in elections for the State Duma that Kyiv does not recognize.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+      "published": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Bank of Japan Raises Interest Rates to 31-Year High of 1.25%",
+      "summary": "The Bank of Japan raised its key interest rate by 0.25 percentage points to 1.25% on September 18 in a 7-2 vote, the highest level since 1995. The increase responds to rising inflation, with the central bank expecting consumer price inflation to exceed its 2% target later in fiscal 2026. The divided vote, with two dissents, prompted the yen to weaken, signaling market uncertainty about further rate increases. The new rate takes effect September 24.",
+      "category": "Business & Markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises",
+      "published": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Dengue Crisis Strains Bangladesh Healthcare System",
+      "summary": "Dengue cases have overwhelmed hospitals across Bangladesh, with over 747 new patients admitted nationwide in a single 24-hour period. Dhaka's healthcare facilities are severely strained, with patients being treated on floors and verandas due to insufficient bed capacity. The surge reflects a broader dengue crisis affecting the region as rising temperatures and extended warm seasons create conditions favorable for mosquito-borne disease transmission.",
+      "category": "Science",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/dengue-bangladesh-september-2026/",
+      "published": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "West Nile Virus Spreads Across Italy as Climate Warms",
+      "summary": "Italian health authorities reported that rising temperatures and longer warm seasons are enabling mosquitoes to spread West Nile virus across a wider geographic area than in previous years. The virus, transmitted by infected mosquitoes, poses an increasing public health concern as climate change extends the breeding season for disease-carrying insects. Authorities are monitoring the situation closely as the virus continues to circulate in the region.",
+      "category": "Science",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/health/west-nile-virus-italy-september-2026/",
+      "published": "2026-09-19T00:00:00Z"
+    }
+  ]
+}
