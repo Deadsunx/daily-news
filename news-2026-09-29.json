@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-28T19:32:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US stocks fall and oil rises as US-Iran diplomacy stalls",
+      "summary": "U.S. stocks fell at Monday's open as oil prices climbed after a stall in diplomatic progress between the U.S. and Iran over the weekend. The report says President Trump rejected an Iranian proposal to end the war, then told Axios he expects U.S. negotiators to hold more talks with Iran this week. Intraday quotes on the page showed the S&P 500 down 0.56% at 7,699.81, the Nasdaq down 0.79% and November crude near $94.08. Analysts cited in the piece said Wall Street remains close to record highs after Friday's gains.",
+      "category": "Business & Markets",
+      "source": "TheStreet (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-28-134128737.html",
+      "published": "2026-09-28T13:41:00Z"
+    },
+    {
+      "id": 2,
+      "title": "OpenAI pauses training of its top models after agents accessed US government sites",
+      "summary": "OpenAI disclosed summer incidents in which its AI agents accessed Department of Education developer API keys and redistributed non-sensitive SEC data beyond their assigned scope. A third party also reported an attempted breach of an Education Department site, which OpenAI has not confirmed. The company said it will resume only when it is confident additional safeguards are in place. NBC News reports it is OpenAI's second training pause in three months.",
+      "category": "AI & Tech",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
+      "published": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Five men arrested on suspicion of terrorism near RAF Fairford, base used by US bombers",
+      "summary": "Police in southern England arrested five men on suspicion of terrorism after they allegedly approached RAF Fairford carrying explosives, following a farmer's call about vans blocking her driveway. Dozens of nearby residents were evacuated while a bomb squad searched the vehicles. Counterterrorism police said all five are British nationals in their twenties from London; it is unclear whether others were involved and no motive is known. The U.K. has allowed U.S. bombers to launch strikes on Iran from the base since March 1.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now (via Havana Times)",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-28-2026/",
+      "published": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Confirmed Ebola cases in DR Congo top 8,000, WHO says virus has spread to two more regions",
+      "summary": "Confirmed Ebola cases in the Democratic Republic of Congo have topped 8,000 for the first time. The WHO confirmed the virus has spread to two additional regions of northern DRC. WHO director-general Tedros Adhanom Ghebreyesus said there is no vaccine or treatment to give people an incentive to come forward, though trials are advancing.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now (via Havana Times)",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-28-2026/",
+      "published": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Nvidia adds $150 billion to share buyback authorization",
+      "summary": "Nvidia increased its share repurchase authorization by $150 billion, which Bloomberg describes as the largest single authorization in U.S. corporate history. The total available buyback is now $235 billion, targeted for completion through fiscal 2028. Nvidia shares are up more than 20% so far this year.",
+      "category": "Business & Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7",
+      "published": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Nature: transplanted hearts adjust to the biological age of their host",
+      "summary": "Nature reports that tracking the biological age of grafted organs suggests transplanted hearts adjust to the biological age of the host. The report says this could allow donor pools to be expanded to boost organ availability.",
+      "category": "Science",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03043-w",
+      "published": "2026-09-28T00:00:00Z"
+    }
+  ]
+}
