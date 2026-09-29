@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-29T18:40:44Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US stocks fall as 10-year Treasury yield hits 19-year high of 5.2%",
+      "summary": "The S&P 500 fell 0.77% to 7,683.69 on Sept. 28, the Nasdaq Composite dropped 0.92% to 26,820.38, and the Dow Jones Industrial Average lost 0.67% to 51,481.51. The 10-year Treasury yield rose to 5.2%, its highest level in 19 years. Markets were also weighed by stalled US-Iran diplomacy after President Trump rejected an Iranian proposal to end the war, with analysts noting Iran has offered to reopen the Strait of Hormuz while the US has shifted focus to Iran's nuclear program. PCE inflation and jobs data are due later this week.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026",
+      "published": "2026-09-28T10:41:28Z"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic releases Claude Sonnet 5.5",
+      "summary": "Anthropic released Claude Sonnet 5.5, the second model in its Claude 5.5 family, saying it runs more than 30% faster than Sonnet 5 and costs up to 30% less per task. Pricing is unchanged at $2 per million input tokens and $10 per million output tokens. Anthropic reports 70.6% on Terminal-Bench 4.0, versus 66.4% for Opus 5.5 and 10.3% for Sonnet 5, while saying Opus 5.5 remains stronger on complex, open-ended work. It is the first Sonnet model to ship with cyber safeguards, and Claude Haiku 5.5 is due in the coming weeks.",
+      "category": "AI & Tech",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "published": "2026-09-28"
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA launches Open Agent Safety Platform for AI agents",
+      "summary": "NVIDIA launched the Open Agent Safety Platform, which combines OpenShell, an open-source runtime that enforces policy on AI agents, with Sentry, a reference design running on BlueField-4 DPUs that monitors agents from outside their environment. NVIDIA says Sentry can quarantine an agent that tries to leave its boundary in milliseconds. The company says more than 100 organizations are working with the technologies, and that the Open Secure AI Alliance, started with over 120 organizations, is governed by the Linux Foundation. Named participants include Anthropic, Microsoft, Salesforce, SAP and CrowdStrike.",
+      "category": "AI & Tech",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "published": "2026-09-28"
+    },
+    {
+      "id": 4,
+      "title": "US forces set to leave last Iraqi bases by Sept. 30",
+      "summary": "US forces are set to withdraw from their last bases in Iraq by Sept. 30, according to Reuters reporting summarized by Just Security. The withdrawal was agreed in 2024 under the Biden administration and has continued under President Trump while the US is at war with Iran. Abu Mojtaba al-Yasiri, a commander in the Islamic Resistance in Iraq, called it a \"historic victory.\"",
+      "category": "World & Geopolitics",
+      "source": "Just Security (citing Reuters)",
+      "url": "https://www.justsecurity.org/159195/early-edition-september-29-2026/",
+      "published": "2026-09-29"
+    },
+    {
+      "id": 5,
+      "title": "Russia plans about $202 billion in 2027 defense spending; Zelenskyy cites more North Korean troops",
+      "summary": "Russia plans about $202 billion in defense spending in 2027, around 27% above the original budget and the highest since the 2022 invasion of Ukraine, according to budget documents reported by Reuters and summarized by Just Security. Separately, Ukrainian President Zelenskyy said more than 8,000 North Korean troops are on Russian territory and that another 10,000 are being prepared for deployment. A Russian strike on Kyiv hit Ukraine's National Academy of Sciences, killing 2 people and injuring 6, per the New York Times.",
+      "category": "World & Geopolitics",
+      "source": "Just Security (citing Reuters and NYT)",
+      "url": "https://www.justsecurity.org/159195/early-edition-september-29-2026/",
+      "published": "2026-09-29"
+    },
+    {
+      "id": 6,
+      "title": "Transplanted hearts adjust their biological age to that of the host",
+      "summary": "Nature reports that tracking the biological age of transplanted organs shows grafted hearts adjust their biological age to match that of the recipient. The finding suggests donor pools could be expanded to increase organ availability. The teaser does not give study figures, so details on sample size and methods are in the full article.",
+      "category": "Science",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03043-w",
+      "published": "2026-09-28"
+    }
+  ]
+}
