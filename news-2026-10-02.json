@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-01T19:50:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "UK accuses Chinese institute of using academics to spy on AI research",
+      "summary": "Britain's MI5 accused the China General Technology Research Institute of funding academic research to benefit China's intelligence service, saying it has strong ties to the Ministry of State Security. More than 100 UK-based academics contributed to its funded projects in areas including artificial intelligence, cybersecurity and covert communications. Security minister Dan Jarvis wrote to university leaders instructing staff to end relationships with the organization, with those who continue risking prosecution under the 2023 National Security Act. MI5 described it as its first independently published public espionage alert.",
+      "category": "World & Geopolitics",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2033913/uk-accuses-chinese-agency-of-spying-on-ai-research",
+      "published": "2026-10-01T07:02:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Trump and AI company leaders sign voluntary safety pact",
+      "summary": "President Trump met executives from Meta, OpenAI, Anthropic, Google and Nvidia to sign a voluntary AI safety agreement. Signatories commit to working with independent auditors to assess AI system performance, preventing AI tools from accessing technical systems in unintended ways, and building internal controls. Trump said he would set up a 10-person board to oversee AI safety and appoint a White House official to lead AI policy. He also continued to back data center expansion, which faces local opposition ahead of November's midterm elections.",
+      "category": "World & Geopolitics",
+      "source": "GV Wire",
+      "url": "https://gvwire.com/2026/09/30/trump-ai-ceos-sign-voluntary-safety-pact-he-also-backs-data-centers/",
+      "published": "2026-09-30"
+    },
+    {
+      "id": 3,
+      "title": "Micron reports record $54.2 billion fiscal fourth-quarter revenue",
+      "summary": "Micron reported fiscal Q4 2026 revenue of $54.23 billion and GAAP net income of $37.70 billion, with full-year revenue of $133.19 billion versus $37.38 billion in fiscal 2025. It guided fiscal Q1 2027 revenue to $61.5 billion, plus or minus $1.5 billion. Management said industry DRAM is expected to remain supply-constrained through 2027 and 2028, driven by AI data center demand.",
+      "category": "Business & Markets",
+      "source": "Micron Technology (via StockTitan)",
+      "url": "https://www.stocktitan.net/news/MU/micron-technology-inc-reports-record-fiscal-fourth-quarter-and-full-uyobth1nzez5.html",
+      "published": "2026-09-30"
+    },
+    {
+      "id": 4,
+      "title": "Nasdaq ends third quarter higher as PCE inflation comes in below forecasts",
+      "summary": "The Nasdaq rose on September 30 to close out the third quarter while the S&P 500 and Dow finished mixed, with Treasury yields staying elevated. The PCE price index rose 0.3% on the month and 3.4% on the year, against forecasts of 0.3% and 3.7%; core PCE was 3.0% versus an expected 3.3%. ADP reported 90,000 private-sector jobs added in September versus a 68,000 estimate. West Texas Intermediate crude gained 0.88% to $90.17 a barrel after Trump denied reports of potential Iran sanctions relief.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+      "published": "2026-09-30"
+    },
+    {
+      "id": 5,
+      "title": "Google releases Gemini 4 Argon to select cybersecurity partners",
+      "summary": "Google released Gemini 4 Argon, which it calls its most powerful model yet, initially limited to select cyber partners through its Fairwind Program. Google says the model scored significantly higher than OpenAI's GPT-6 Astra and Anthropic's Fable and Opus models on various benchmarks, citing Vals benchmarking data. It is aimed at vulnerability detection and patching and also covers coding, engineering and visual analysis of video and charts. General public availability has not been announced.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "2026-09-30T23:43:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Lilly combination of tirzepatide and eloralintide shows 23.3% weight loss in mid-stage trial",
+      "summary": "In a Phase 2b trial of 367 people with obesity and type 2 diabetes, Eli Lilly's combination of tirzepatide (Zepbound) and the amylin candidate eloralintide produced average weight loss of up to 23.3% over 48 weeks, versus 14.8% for tirzepatide alone. A1C fell by up to 2.9% versus 2.4% for tirzepatide alone. Results were presented at the European Association for the Study of Diabetes meeting; STAT noted that high rates of treatment discontinuation may raise tolerability questions. Lilly plans to begin Phase 3 trials in the fourth quarter of 2026.",
+      "category": "Science",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/",
+      "published": "2026-09-30"
+    }
+  ]
+}
