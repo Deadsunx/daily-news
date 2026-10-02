@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-02T19:58:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US payrolls rise by 29,000 in September, well below forecasts; unemployment rises to 4.2%",
+      "summary": "The Labor Department reported nonfarm payrolls grew by 29,000 in September against expectations of about 84,000, while the unemployment rate rose to 4.2% from an expected 4.1%. Treasury yields fell after the release and the odds of an October Fed rate hike dropped to roughly 18%, with about 81% priced for rates to stay at 3.75%-4%. The S&P 500 was up about 0.9%, the Dow about 0.6% and the Nasdaq about 1.4% in afternoon trading, and Nvidia reached a record intraday high of $237.88.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026",
+      "published": "2026-10-02T18:51:00Z"
+    },
+    {
+      "id": 2,
+      "title": "US sends more forces to the Middle East as Iran peace talks stall and Brent crude jumps",
+      "summary": "The USS Theodore Roosevelt carrier strike group and the 13th Marine Expeditionary Unit are deploying to the Middle East, adding roughly 10,000 sailors and Marines to the region by the end of November. The Roosevelt would be the third US aircraft carrier in the region. Weekend peace talks with Iran stalled, and Brent crude settled at $102.31 a barrel on Thursday, up 4.37%, while China suspended most October fuel exports. The conflict began on February 28, 2026.",
+      "category": "World & Geopolitics",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-peace-trump-talks-latest-october-1",
+      "published": "2026-10-02T10:41:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Ukraine's presidential office head says European security without the US would be 'very dangerous'",
+      "summary": "Kyrylo Budanov, head of Ukraine's Presidential Office, told Euronews that a European security architecture without US participation would be \"very dangerous for Europe.\" He said Russia is carrying out intensive aerial attacks that kill civilians, and that Ukraine is testing new jet-powered drone interceptors in combat, with the challenge now being scaling production. He added that several European countries have signed defence cooperation agreements with Kyiv under a \"Drone Deal\" framework and that financing talks continue with the IMF and the European Commission.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/01/kyrylo-budanov-european-security-without-the-us-would-be-very-dangerous",
+      "published": "2026-10-01"
+    },
+    {
+      "id": 4,
+      "title": "arXiv caps submissions at two per month per author as paper volume doubles",
+      "summary": "arXiv announced an immediate rate limit of two submissions per calendar month and three active submissions at any one time for each submitter, across all subject areas. September 2026 brought 40,363 submissions, double the volume of two years earlier, with cs.AI growing sixfold over the period. arXiv attributes the surge to AI tools that make it easy to produce low-value papers, and says a small share of authors consume a disproportionate amount of volunteer moderator time. Rejected papers count toward the monthly limit, and limits apply to the submitter rather than co-authors.",
+      "category": "AI & Tech",
+      "source": "arXiv Blog",
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "published": "2026-10-01"
+    },
+    {
+      "id": 5,
+      "title": "Physicists find electrons moving collectively in 'quantum slow motion' in a layered magnet",
+      "summary": "Researchers at the University of Chicago Pritzker School of Molecular Engineering report an unexpected quantum state in the layered magnetic material Fe5GeTe2, in which large numbers of electrons move together extremely slowly while staying quantum coherent. The material shows a flat electronic band, and the coherent behavior persisted up to about 100 degrees above absolute zero, which is relatively high for quantum materials. The results, published in Science Advances, deviate from theoretical predictions of the material's magnetic interactions. The authors suggest possible uses in memory devices if the effect can be made to work at room temperature.",
+      "category": "Science",
+      "source": "ScienceDaily (University of Chicago, Science Advances)",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
+      "published": "2026-10-01"
+    }
+  ]
+}
