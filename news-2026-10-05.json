@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-04T18:42:07Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Brazilians vote in tightly contested presidential election",
+      "summary": "Voting began on October 4 in Brazil's general election, with about 160 million citizens eligible to vote for president, governors and federal legislators. Incumbent Luiz Inacio Lula da Silva is seeking an unprecedented fourth term against Senator Flavio Bolsonaro, and Al Jazeera describes the race as tightly contested. Polls opened at 8am local time and closed at 5pm.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race",
+      "published": "2026-10-04T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Iran sets seven conditions as Yemen's government announces offensive against Houthis",
+      "summary": "Iran's top negotiator said the period of \"wasting time and dictating demands is over\" and that the US must meet seven conditions from the June Islamabad agreement. President Trump warned Tehran of consequences, according to Al Jazeera's live coverage. Separately, Yemen's governing head Rashad al-Alimi announced military operations to retake Houthi-held territory, and Saudi-backed forces claimed 700 Houthis were killed in 24 hours; these casualty figures are unverified claims by one side.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way",
+      "published": "2026-10-04T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street rises after weak September jobs report; Nvidia hits record high",
+      "summary": "US employers added 29,000 jobs in September, well below the 84,000 expected, and the unemployment rate rose to 4.2% from 4.1%. The Nasdaq gained 1.2% on Friday, October 2, while the S&P 500 and Dow also rose and the week finished roughly flat. Nvidia reached an intraday record of $237.88, lifting its market value above $5.7 trillion. Odds of a Federal Reserve rate hike in late October fell to about 18%.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026",
+      "published": "2026-10-02T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Hawley and Murphy introduce bipartisan AI Agent Accountability Act",
+      "summary": "Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) announced legislation targeting cyberattacks carried out by AI agents against critical infrastructure such as hospitals, utilities and banks. Operators who knowingly run systems that recklessly cause hacking damage would face criminal and civil penalties under the Computer Fraud and Abuse Act, and developers would be liable for failing to add adequate safeguards. The Attorney General and state attorneys general would be able to seek injunctions.",
+      "category": "AI & Tech",
+      "source": "Office of Sen. Josh Hawley",
+      "url": "https://www.hawley.senate.gov/senators-hawley-murphy-announce-bipartisan-ai-agent-accountability-act/",
+      "published": "2026-10-01T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "ESA's Juice spacecraft completes Earth gravity assist toward Jupiter",
+      "summary": "The European Space Agency's Juice spacecraft flew past Earth on September 28 at 8,640 km above the Indian Ocean, changing direction by 20 degrees and gaining 3.5 km/s. The maneuver needed only one of six planned course corrections, preserving propellant, and the craft tested its 10 science instruments during the encounter. A third and final Earth flyby is planned for January 2029, with arrival at Jupiter in 2031.",
+      "category": "Science",
+      "source": "ScienceDaily (ESA)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "published": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Chang'e-6 lunar soil reveals previously unknown magnetic iron mineral",
+      "summary": "Researchers at the Hefei Institutes of Physical Science, Chinese Academy of Sciences, identified gamma-phase iron, a magnetic mineral not previously found in natural Moon samples, in impact-glass particles from Chang'e-6 soil. It was the dominant form of iron in the two impact-glass samples studied, per the work published in PNAS. The nanoscale particles can hold stable magnetic signals, so they may record the Moon's ancient magnetic field.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "published": "2026-10-03T00:00:00Z"
+    }
+  ]
+}
