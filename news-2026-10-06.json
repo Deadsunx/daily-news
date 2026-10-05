@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-05T19:11:51Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Lula and Flávio Bolsonaro head to Brazil presidential runoff",
+      "summary": "Brazil's first-round presidential vote on October 4 produced no outright winner. Flávio Bolsonaro took 47% of valid votes against 44.9% for President Luiz Inácio Lula da Silva, short of the 50% needed to avoid a second round. Bolsonaro outperformed pre-election polling, and right-wing parties also gained in concurrent congressional races. The runoff is scheduled for October 25.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+      "published": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Schneider Electric agrees to buy PTC in $22.6 billion all-cash deal",
+      "summary": "Schneider Electric has signed a definitive agreement to acquire US software firm PTC for $205 per share, an equity value of $22.6 billion and an enterprise value of $23.7 billion. The price is a 42.3% premium to PTC's prior closing price. The deal, financed with equity and new debt, follows Schneider's June agreement to buy Cognite and is expected to close in the third quarter of 2027. It extends Schneider's push into industrial software as data-center demand grows.",
+      "category": "Business & Markets",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/amp/world-news/schneider-electric-confirms-22-6-billion-deal-to-acquire-us-firm-ptc-126100501378_1.html",
+      "published": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "US stocks mixed as Treasury yields stay high and oil remains elevated",
+      "summary": "In afternoon trading on October 5, the S&P 500 was up 0.60%, the Nasdaq Composite up 0.73% and the Nasdaq-100 up 0.57%, while the Dow Jones Industrial Average was down 0.21%. The 10-year Treasury yield held near 5.25% despite a disappointing payroll report and reduced expectations of an imminent Fed hike. West Texas crude fell 0.47% to $90.68 a barrel and Brent rose 0.64% to $102.90, after Saudi Aramco's CEO warned global oil stockpiles are 'scarily thin'. PTC shares jumped 34.76% on the Schneider Electric offer.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026",
+      "published": "2026-10-05T18:35:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Former AI lab employees warn New York City Council about AI safety",
+      "summary": "Former employees of Anthropic, OpenAI and Google DeepMind testified before the New York City Council on AI safety concerns. Ex-Anthropic engineer Jacob Coxon said companies operate on a 'move fast, break things' mindset and that it is 'more likely than not that humanity loses control' of AI on the current path. The council is weighing disclosure requirements, third-party approvals and whistleblower protections. The Trump administration has dismissed such fears and signed a self-regulation agreement, while several states are exploring their own oversight.",
+      "category": "AI & Tech",
+      "source": "BNN Bloomberg",
+      "url": "https://bnnbloomberg.ca/business/artificial-intelligence/2026/10/05/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns",
+      "published": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Oklahoma's Ames crater dated about 100 million years younger than thought",
+      "summary": "A University of Texas at Austin study in Meteoritics & Planetary Science used zircon crystal dating to place the Ames impact crater in Oklahoma at about 370 million years ago, in the Late Devonian. Earlier estimates put it near 467.5 million years ago in the Ordovician. The new age falls close to the Frasnian-Famennian mass extinction, about 372 million years ago. Lead researcher Elizabeth Catlos said every technique used returned the younger signal.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+      "published": "2026-10-04T00:00:00Z"
+    }
+  ]
+}
