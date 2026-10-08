@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-08T18:45:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Russian missile strike on residential building in Pryluky kills at least 22",
+      "summary": "A Russian missile strike on a residential building in the northern Ukrainian town of Pryluky has killed at least 22 people, including five children, according to the report. Rescuers were searching the rubble. A wave of Russian drones and missiles the previous day killed at least 11 more people. Residents of Kyiv sheltered overnight in metro stations.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/10/8/headlines",
+      "published": "2026-10-08T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "WHO seeks answers after lab worker's death at Russian plague institute",
+      "summary": "A worker at the Irkutsk Anti-Plague Research Institute in southern Siberia died on October 2, and Russian officials ordered about 200 people to quarantine. Russia's public health agency denies reports of a second pneumonic plague case, saying thousands of tests found no evidence of transmission. WHO chief Tedros Adhanom Ghebreyesus said many questions remain unanswered and that WHO has requested more information on the lab tests and contacts. The U.S. issued a formal diplomatic complaint on Wednesday, and President Trump said he does not believe the death was related to a bioweapon.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/10/8/headlines",
+      "published": "2026-10-08T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street slips as oil and Treasury yields rise and chip stocks fall",
+      "summary": "U.S. stocks fell on Thursday, with the S&P 500 down about 0.7%, the Nasdaq down about 1.6% after Wednesday's record highs, and the Dow down about 0.1%. WTI crude rose about 3.9% to roughly $91-92 a barrel and Brent traded above $103, amid Gulf shipping attacks and the Iran conflict. The 10-year Treasury yield was around 5.29%, near multidecade highs. Chip stocks including Nvidia, Micron and Intel fell after a Financial Times report that OpenAI's annualized revenue was about $20 billion below earlier estimates; weekly jobless claims fell to 197,000.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+      "published": "2026-10-08T17:35:00Z"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI launches GPT-6 with interactive 'Intelligent UI' in ChatGPT",
+      "summary": "OpenAI introduced Intelligent UI, an interface that adds tappable buttons, calculators, editable charts and diagrams to ChatGPT conversations. It is rolling out globally with a new GPT-6 model, starting Wednesday for Pro, Plus, Business and Enterprise users and arriving Thursday for free and Go-tier users. OpenAI says the aim is to make learning complex topics easier, and users can reduce the number of visuals shown.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "published": "2026-10-07T18:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Webb telescope finds signs of violent planetary collisions around young stars",
+      "summary": "NASA's James Webb Space Telescope studied 21 rare 'extreme debris disks' around young stars, a stage seen in only about 1% of young stars. About one-third of the disks are silica-rich, likely from very energetic collisions between Mars-sized bodies around stars younger than 300 million years; about two-thirds are silica-poor, likely from lower-energy impacts. The results, published October 1 in The Astrophysical Journal, may offer a view of collisions like the one that likely formed the Moon.",
+      "category": "Science",
+      "source": "ScienceDaily (NASA)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "published": "2026-10-07T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Projectiles strike tanker north of Qatar amid Strait of Hormuz tensions",
+      "summary": "Projectiles struck a tanker north of Qatar on Wednesday, and the UK's Maritime Trade Operations Centre is investigating reports of multiple casualties. The attack followed Iranian warnings that Iran would close shipping routes used to bypass its naval blockade of the Strait of Hormuz. At least nine vessels were attacked in the strait last week, and oil prices rose more than 2% on Wednesday.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/10/8/headlines",
+      "published": "2026-10-08T12:00:00Z"
+    }
+  ]
+}
