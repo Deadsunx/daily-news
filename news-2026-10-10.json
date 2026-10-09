@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T18:40:57Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Navi Pillay wins 2026 Nobel Peace Prize",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to Navi Pillay, an 85-year-old South African jurist and former UN High Commissioner for Human Rights, on 9 October in Oslo. The committee cited her work promoting international law and ensuring war crimes, crimes against humanity and genocide are prosecuted. The prize is worth 12 million Swedish crowns (about $1.2 million) and will be presented on 10 December. Israel's Foreign Ministry condemned the award, and US President Donald Trump said on Truth Social that the committee \"demeaned\" the prize.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
+      "published": "2026-10-09T09:06:43Z"
+    },
+    {
+      "id": 2,
+      "title": "Trump says US will not strike Iran before midterm elections",
+      "summary": "In a Truth Social post late on 8 October, President Trump said the US is having \"productive discussions\" with Iran and will not attack Iran before the 3 November midterm elections. Oil prices fell early on 9 October as Middle East supply concerns eased, after rising the previous day on fears of renewed fighting. Iran's foreign minister said Tehran is reviewing the US response to its seven-day plan to reopen the Strait of Hormuz and will reply within a few days. Iranian media separately reported large explosions in the southern Strait of Hormuz.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections",
+      "published": "2026-10-09T06:22:07Z"
+    },
+    {
+      "id": 3,
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "summary": "Saudi Arabia reopened King Khalid International Airport in Riyadh on 9 October after a Houthi attack on 8 October that killed three people and injured several others, according to the General Authority of Civil Aviation. Saudia said one of its pilots was killed and an aircraft was damaged. A Houthi spokesperson said the group fired a ballistic missile at the airport. The strike follows attacks on 7 October at the Abha and King Khalid airports that killed three civilians and injured 36.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three",
+      "published": "2026-10-09T11:46:39Z"
+    },
+    {
+      "id": 4,
+      "title": "US suspends Microsoft and eight other firms from green card sponsorship program",
+      "summary": "Vice President JD Vance and Labor Secretary Keith Sonderling announced on 8 October that the US will stop accepting or processing Permanent Labor Certification (PERM) applications from Microsoft, Adobe, Capgemini, Cognizant, Infosys, TCS, Wipro and HCL Technologies. Officials said the companies are using the program to displace US workers; Vance said Microsoft laid off 6,000 US workers last year while obtaining 6,300 H-1B visas. Microsoft said 80% of its roughly 6,000 H-1B filings were extensions or status changes for existing employees. India's foreign ministry called Vance's comments \"unwarranted\" and \"deeply offensive.\"",
+      "category": "Business & Markets",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers",
+      "published": "2026-10-09T11:08:05Z"
+    },
+    {
+      "id": 5,
+      "title": "Three ex-OpenAI researchers say they were fired for raising safety concerns",
+      "summary": "Three former OpenAI safety researchers, Mikita Balesni, Tomek Korbak and Jasmine Wang, published an open letter on 8 October saying they were dismissed for their AI safety work and that the firings could chill the company's open culture. OpenAI said they were let go for misconduct involving mishandling of company information, described a \"significant breach of trust,\" and said the decision was not about their safety concerns. The researchers denied violating company policy and said their engagement with outside safety experts matched their role.",
+      "category": "AI & Tech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns",
+      "published": "2026-10-09T10:39:07Z"
+    },
+    {
+      "id": 6,
+      "title": "NASA's Crew-12 astronauts return to Earth after nearly eight months in space",
+      "summary": "Four members of NASA's SpaceX Crew-12 mission returned to Earth on 8 October after nearly eight months aboard the International Space Station. The crew consisted of two NASA astronauts, a European Space Agency astronaut and a Russian cosmonaut. During their stay they conducted spacewalks and research.",
+      "category": "Science",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
+      "published": "2026-10-08T15:34:39Z"
+    }
+  ]
+}
