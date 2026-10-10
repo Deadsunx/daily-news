@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-10T18:40:50Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Trump announces deal with Russia to supply diesel to U.S. and global markets",
+      "summary": "President Trump said Russia would supply over 300,000 tons of diesel immediately, 500,000 tons in November and 1,000,000 tons after that, following a call with Vladimir Putin. The Treasury's Office of Foreign Assets Control issued a temporary general license allowing Russian diesel to be supplied to the global market. Ukrainian President Volodymyr Zelensky criticized sanctions relief without a lasting de-escalation agreement, while analysts quoted by Axios said the volumes are too small to resolve the global diesel shortage. The announcement came as Ukrainian and European diplomats arrived in Miami for talks on ending the war.",
+      "category": "World & Geopolitics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/09/trump-putin-diesel-agreement-ukraine-war",
+      "published": "2026-10-09T19:14:46Z"
+    },
+    {
+      "id": 2,
+      "title": "Wall Street ends the week higher as tech rebounds",
+      "summary": "On October 9 the Dow Jones Industrial Average rose 423 points (0.83%) to about 51,655, the S&P 500 gained 0.59% to about 7,811.5, and the Nasdaq added 0.64% to 27,366.17. Technology and AI shares recovered from Thursday's selloff, which followed a report that OpenAI's annualized revenue was about $20 billion below earlier estimates. Delta Air Lines missed estimates and cut its 2026 profit outlook, and Hurricane Isaias had shut in nearly 63% of Gulf oil output. The major indexes finished the week higher.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
+      "published": "2026-10-09T10:58:34Z"
+    },
+    {
+      "id": 3,
+      "title": "OpenAI says it fired three researchers over sensitive-information policy violations",
+      "summary": "OpenAI said it dismissed researchers Jasmine Wang, Tomek Korbak and Mikita Balesni for alleged violations of its sensitive-information policies. The researchers say they were fired for prioritizing safety, which OpenAI denies. The report appeared in a weekly AI roundup that cites Reuters for the story, dated October 9. The dispute adds to scrutiny of AI-lab governance in the same week that conflicting reports emerged about OpenAI's annualized revenue.",
+      "category": "AI & Tech",
+      "source": "TechStartups",
+      "url": "https://techstartups.com/2026/10/09/top-ai-news-stories-this-week-october-5-9-2026/",
+      "published": "2026-10-09T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "CHIME telescope detects faint hydrogen signal from the distant universe",
+      "summary": "Canada's CHIME radio telescope detected faint 21 cm emission from hydrogen gas at redshift near 1, using only its own observations rather than galaxy-survey data from other telescopes. The analysis used 94 nights of 2019 data and over a year of testing to separate the signal from noise, and was published in two papers in The Astrophysical Journal. The team found roughly 2% of the universe's hydrogen was in neutral atomic form at that time, broadly consistent with other measurements. The method could offer a cheaper way to study cosmic expansion and dark energy.",
+      "category": "Science",
+      "source": "ScienceDaily (University of British Columbia)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
+      "published": "2026-10-09T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Physicists observe 'Bethe strings' predicted in 1931 in an ultracold gas",
+      "summary": "A University of Innsbruck team led by Hanns-Christoph Nägerl created and observed Bethe strings, bound multiparticle quantum states proposed by Hans Bethe in 1931. They cooled cesium atoms to a few billionths of a degree above absolute zero, confined them in thousands of one-dimensional tubes, and switched the interactions from repulsive to attractive so that bound clusters, some with six or more particles, formed. The strings survived collisions in the tubes, and when released into three dimensions they broke apart and released extra energy, which served as the signature. The work was published in Nature Communications.",
+      "category": "Science",
+      "source": "ScienceDaily (University of Innsbruck)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+      "published": "2026-10-09T00:00:00Z"
+    }
+  ]
+}
