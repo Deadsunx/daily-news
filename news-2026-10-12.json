@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-11T18:42:10Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Attack on Riyadh airport kills 12, wounds over 300, Saudi authorities say",
+      "summary": "Saudi officials said the latest of several recent attacks on Riyadh's international airport killed 12 people, including foreign nationals, and injured more than 300. Al Jazeera reported on 10 October that it was the third attack on King Khalid International Airport within a week. Saudi Arabia is expected to press allies, including the United States, for military support.",
+      "category": "World & Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "published": "2026-10-10T19:44:15-04:00"
+    },
+    {
+      "id": 2,
+      "title": "Hurricane Simon strengthens to Category 4 off Mexico's Pacific coast",
+      "summary": "Hurricane Simon had winds of up to 241 km/h (150 mph) about 185 km south-southwest of Manzanillo on 10 October, and the US National Hurricane Center expected it to approach or move just inland of Mexico's west-central coast late Saturday or early Sunday. Forecasters warned of 25 to 51 cm (10 to 20 inches) of rain in parts of southwestern Mexico, with life-threatening flooding and mudslides. A hurricane warning covers the coast south of Puerto Vallarta, Jalisco suspended classes in 22 coastal municipalities, and authorities began evacuating at-risk areas.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast",
+      "published": "2026-10-10T21:10:06Z"
+    },
+    {
+      "id": 3,
+      "title": "Rubio pledges US cooperation in Okinawa murder case involving a Marine",
+      "summary": "US Secretary of State Marco Rubio pledged cooperation with Japanese authorities after a phone call with Foreign Minister Motegi Toshimitsu, the State Department said on Saturday. A Marine stationed at Marine Corps Air Station Futenma was arrested on 4 October on suspicion of robbing and murdering a 39-year-old woman in a hotel in Naha; he has denied the allegations. The killing prompted protests in Japan, and US personnel on Okinawa now face a month-long curfew, an alcohol ban and mandatory training.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case",
+      "published": "2026-10-10T20:30:36Z"
+    },
+    {
+      "id": 4,
+      "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
+      "summary": "David Robinson, a former OpenAI safety lead, told NPR that the company's \"culture is broken,\" making him the latest tech employee to quit over AI safety concerns. His comments follow NPR reporting on 9 October that three fired OpenAI workers say they were punished for speaking out about safety. OpenAI disputes that account and says the three mishandled sensitive information.",
+      "category": "AI & Tech",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+      "published": "2026-10-10T07:40:46-04:00"
+    },
+    {
+      "id": 5,
+      "title": "It's taking longer to find a new job after losing one",
+      "summary": "NPR reports that workers who lose jobs are taking longer to get rehired. Close to 40% of them exhaust their unemployment benefits before finding new work.",
+      "category": "Business & Markets",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+      "published": "2026-10-11T05:00:00-04:00"
+    },
+    {
+      "id": 6,
+      "title": "Fossil offers some of the oldest evidence of chewing and swallowing in mammals",
+      "summary": "NPR reports that a small middle Jurassic mammal fossil provides some of the oldest known evidence of chewing, swallowing and suckling, traits distinctive to mammals. The new evidence suggests the ability to chew and swallow dates back at least to the middle Jurassic, when dinosaurs dominated.",
+      "category": "Science",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5991361-e1/the-origin-of-the-chew-when-did-we-learn-to-eat-like-this",
+      "published": "2026-10-10T07:40:49-04:00"
+    },
+    {
+      "id": 7,
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "summary": "NPR reports that Pope Leo XIV will have an operation this week after doctors found a small growth in one of his lungs.",
+      "category": "Culture",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "published": "2026-10-11T08:54:25-04:00"
+    }
+  ]
+}
