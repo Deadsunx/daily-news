@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-13T18:40:52Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Google makes Gemini 4 Argon broadly available with introductory API pricing",
+      "summary": "Google has opened its Gemini 4 Argon model to general use after limiting it to early testers and approved cybersecurity defenders following its September 30 unveiling. It is available through the paid Gemini API, Google AI Studio, Gemini Enterprise, the Gemini app and AI Mode in Search for AI Pro and Ultra subscribers. Introductory pricing through November 30 is $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 from December 1. The API supports a combined input/output limit of up to 1 million tokens via a continuation protocol that requires configuration.",
+      "category": "AI & Tech",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+      "published": "2026-10-13T16:08:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic red team warns smaller AI models could spread across connected devices",
+      "summary": "Anthropic's Frontier Red Team published a report on Monday, October 12, warning that smaller AI models could be able to spread across internet-connected devices within months. Researchers ran a model across 15 Android TV boxes but said they had not demonstrated a fully autonomous AI worm in the real world. Separately, Anthropic said a Claude Haiku 4.5 test generated a false tip in an unsolved Philadelphia murder case submitted July 18, which it found on September 28 and reported to police on October 7. Police called the delay unacceptable, and Anthropic suspended live internet access for internal evaluations.",
+      "category": "AI & Tech",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/ai-news-anthropic-frontier-models-safety-10-13",
+      "published": "2026-10-13T18:38:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street mixed as Dow gains and bank earnings loom",
+      "summary": "In afternoon trading on Monday, October 12, the Dow Jones Industrial Average was up about 0.4% near 51,864, while the S&P 500 slipped 0.09% to 7,804.79 and the Nasdaq Composite fell 0.42%. WTI crude rose about 2% to roughly $94 a barrel after Russia struck Ukrainian power plants, and the 10-year Treasury yield stood near 5.24%. JPMorgan, Goldman Sachs, Citi and Wells Fargo report earnings Tuesday, with the KBW Nasdaq Bank Index down more than 14% from its August peak. Bond markets were closed for Columbus Day.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html",
+      "published": "2026-10-12T17:48:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Houthi strikes hit Riyadh airport; Trump says US may join Saudi operations",
+      "summary": "A strike on King Khalid International Airport in Riyadh on October 10 killed 13 people, according to a weekend roundup, and a second projectile hit Terminal 4 on October 11. The Iran-backed Houthis claimed both attacks as retaliation for Saudi strikes in Yemen, which a Houthi-affiliated health ministry says have killed 91 people since September 3. President Trump said the US would consider joining Saudi military operations against the Houthis, while US officials say they are providing intelligence support but no direct military aid so far. Reports differ slightly on the airport death toll (12 or 13).",
+      "category": "World & Geopolitics",
+      "source": "Katie Couric Media",
+      "url": "https://katiecouric.com/?p=281197",
+      "published": "2026-10-12T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Trump announces Russia-Ukraine 'energy ceasefire'; Kyiv and Moscow do not confirm",
+      "summary": "President Trump announced on October 11 that Russia and Ukraine had agreed to an energy ceasefire, after the administration temporarily lifted sanctions on Russian diesel on October 9. Ukrainian President Zelenskyy said the announcement 'was news to me,' and Moscow had not publicly commented. Zelenskyy later reported a strike on Kharkiv's energy infrastructure, and market reports on October 12 cited Russian strikes on Ukrainian power plants that pushed oil prices higher.",
+      "category": "World & Geopolitics",
+      "source": "Katie Couric Media",
+      "url": "https://katiecouric.com/?p=281197",
+      "published": "2026-10-12T12:00:00Z"
+    }
+  ]
+}
