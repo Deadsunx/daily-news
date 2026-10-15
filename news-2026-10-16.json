@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-15T18:41:41Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Two cargo ships sink near Strait of Hormuz as Iranian attacks on shipping escalate",
+      "summary": "Two cargo ships sank on October 14 after being struck by unidentified projectiles near the Strait of Hormuz: the Cape Dao, damaged in a September attack that killed a sailor, and the GFS Pride, which went down a day after an explosion off Oman. The GFS Pride carried about 2,500 containers; crews were evacuated. The attacks follow Iran's response to a U.S. blockade of its ports and sanctions. The UN is urging a U.S.-Iran deal to move fertilizer through the strait, which normally carries about one-third of the world's fertilizer shipments, warning of food-price spikes before planting season.",
+      "category": "World & Geopolitics",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/10/15/headlines/two_cargo_ships_sunk_near_strait_of_hormuz_as_iran_steps_up_attacks",
+      "published": "2026-10-15"
+    },
+    {
+      "id": 2,
+      "title": "Drones hit Russian refinery in Ryazan hours after Zelensky declares brief truce over",
+      "summary": "Drones attacked a refinery in Russia's Ryazan region early on October 15, starting a fire about 180 miles south-east of Moscow, according to Russia's Defence Ministry and Ryazan Governor Pavel Malkov. The strike came hours after Ukrainian President Volodymyr Zelensky said a brief truce with Russia was over. Democracy Now! separately reports that Zelensky said Ukraine would resume strikes on Russian energy sites, after Russian drone attacks killed at least nine civilians in Kyiv and Kharkiv and left hundreds of thousands without power.",
+      "category": "World & Geopolitics",
+      "source": "Morning Star",
+      "url": "https://morningstaronline.co.uk/article/world-brief-october-15-2026",
+      "published": "2026-10-15"
+    },
+    {
+      "id": 3,
+      "title": "U.S. inflation rises to 3.7% in September on higher energy prices",
+      "summary": "U.S. inflation rose to 3.7% in September, up from 3.4% in August. Wages rose 3% over the past year, meaning prices outpaced pay. Economists attribute the increase mainly to higher energy prices, while critics also point to the war on Iran and tariffs.",
+      "category": "Business & Markets",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/10/15/headlines/us_inflation_rate_hits_37_driven_by_energy_prices",
+      "published": "2026-10-15"
+    },
+    {
+      "id": 4,
+      "title": "FTC sends civil investigative demands to OpenAI and Anthropic",
+      "summary": "The Federal Trade Commission sent civil investigative demands to Anthropic and OpenAI on October 14, seeking documents on security incidents and safeguarding practices in a probe of possible consumer protection violations. Each demand runs more than 50 pages and also requests marketing and privacy-policy materials. The FTC plans to compel top AI executives to testify, with demands to other AI organizations to follow. On the same day, a group of state attorneys general sued OpenAI under consumer protection laws, alleging it misled users, including children, about chatbot safety.",
+      "category": "AI & Tech",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "published": "2026-10-15T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "North Korea tests underwater-launched missiles for the first time in nearly three years",
+      "summary": "North Korea conducted its first underwater-launched missile tests in nearly three years, likely from a submarine that authorities say is designed to carry nuclear weapons. The country's military, as quoted by local news outlets, said the tests were meant to assess the readiness of its underwater combat systems.",
+      "category": "World & Geopolitics",
+      "source": "Morning Star",
+      "url": "https://morningstaronline.co.uk/article/world-brief-october-15-2026",
+      "published": "2026-10-15"
+    },
+    {
+      "id": 6,
+      "title": "Chang'e-6 far-side samples offer new explanation for the Moon's two different faces",
+      "summary": "A study in National Science Review, led by Hejiu Hui of Nanjing University, compared samples from China's Chang'e-6 mission, the first to return material from the Moon's far side, with near-side samples from Apollo and Chang'e-5. The authors propose that uneven heating from Earth's tidal pull, after the Moon became tidally locked, drove large-scale magma circulation in the early magma ocean. This would explain the thicker, magnesium-rich far-side crust and the concentration of KREEP-rich material on the near side. The mantle appears chemically similar across both hemispheres.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm",
+      "published": "2026-10-14"
+    }
+  ]
+}
