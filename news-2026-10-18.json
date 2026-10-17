@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-17T18:41:14Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Trump signs order waiving new Russia sanctions package",
+      "summary": "President Trump signed an executive order on Friday waiving a new package of sanctions and tariffs on Russia shortly before it was due to take effect, telling Congress the waiver was in the US national interest. The package stemmed from a sanctions law signed in September that targeted Russian officials, major banks and shadow-fleet vessels, and set duties on Russian goods and on countries buying Russian oil and gas. Kremlin envoy Kirill Dmitriev called the decision a \"significant and truly historic moment.\" The article does not specify which individual measures are waived.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+      "published": "2026-10-17T08:37:00+02:00"
+    },
+    {
+      "id": 2,
+      "title": "Cost-of-living protests across France turn violent; Lyon tourist office set on fire",
+      "summary": "Nationwide protests over rising prices and the cost of living took place in France on Saturday. In Lyon, a branch of the tourist office was vandalised and set on fire, with burning debris visible on Place Bellecour. Euronews headlines also reported dozens detained in clashes with security forces in Paris, though the Lyon article gives no detention figures. The protests come amid pressure on President Emmanuel Macron's government after weeks of student protests that have at times turned violent.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon",
+      "published": "2026-10-17T17:30:00+02:00"
+    },
+    {
+      "id": 3,
+      "title": "Pope Leo XIV cleared for discharge from hospital after lung surgery",
+      "summary": "The Vatican announced that Pope Leo XIV, 71, has been cleared for discharge from Rome's Gemelli hospital. He underwent a lung operation on Tuesday and celebrated Mass at the hospital on October 16. Related Euronews headlines describe the surgery as relating to a lung tumour. Further details of the procedure and prognosis were not provided in the report.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/10/17/pope-leo-xiv-cleared-for-discharge-from-hospital-vatican-says",
+      "published": "2026-10-17T12:15:00+02:00"
+    },
+    {
+      "id": 4,
+      "title": "Wall Street ends lower as AI stocks fall and hot inflation data weighs on Fed outlook",
+      "summary": "On Friday the Nasdaq Composite fell 2.14% to 26,140.03 and the S&P 500 fell 1.09% to 7,659.44, while the Dow slipped 0.34% to 52,002.41. CoreWeave closed down 12% on debt concerns, and the iShares Semiconductor ETF fell 4%. Hotter-than-expected CPI and PPI readings kept pressure on the Federal Reserve, with the 10-year Treasury yield above 5.09% and CME FedWatch showing a 17% chance of a rate hike at the late-October meeting. WTI crude rose 3.4% to $101.35 and Brent 3.5% to $109.55 on Middle East supply risks.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html",
+      "published": "2026-10-16T06:38:00-04:00"
+    },
+    {
+      "id": 5,
+      "title": "Meta's new commercial terms would let it scrape news sites for AI training",
+      "summary": "Meta's updated commercial terms, effective October 30, allow it to use crawlers to collect content from websites \"associated with\" business accounts and use it to train products including \"AI at Meta.\" Business accounts have no opt-out before the date, and the terms say those who disagree should stop using Meta's products commercially. Legal experts quoted by Nieman Lab said the language could permit training on any news-site content. A Meta spokesperson said the terms consolidate existing crawling language, will not change how Meta crawls publishers, and that publishers can still use robots.txt.",
+      "category": "AI & Tech",
+      "source": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "published": "2026-10-15T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Black holes of all sizes appear to launch jets under the same rule",
+      "summary": "A Nature Astronomy paper by Adelle Goodwin (Curtin University) and Andrew Mummery (Institute for Advanced Study) reports that black holes from about 10 solar masses to millions of solar masses appear to form jets at the same threshold. In the delayed phase after a star is destroyed, jets appear when the feeding rate falls to about 2% of the Eddington limit. The team examined 20 tidal disruption events and used 10 with sufficient data. The result may help astronomers predict when jets appear and schedule radio telescope time more efficiently.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+      "published": "2026-10-16T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "USC researchers develop expandable immune progenitor cells for cancer therapy in mice",
+      "summary": "Researchers at the Keck School of Medicine of USC, publishing in Cell, used a defined chemical mixture to let granulocyte-monocyte progenitors multiply for extended periods without maturing. When engineered with a chimeric antigen receptor, the cells slowed blood cancers and solid tumors in mice, and settled in bone marrow to keep producing engineered immune cells. In a mouse model of chronic granulomatous disease they restored the ability to fight bacterial infection. All findings are preclinical, and safety and effectiveness in people are unknown.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+      "published": "2026-10-16T00:00:00Z"
+    }
+  ]
+}
