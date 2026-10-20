@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-20T18:31:49Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Alberta voters reject starting a path toward separation from Canada",
+      "summary": "Preliminary results from about 1.8 million counted votes show roughly 76% of Albertans backed remaining in Canada, while about 24% supported starting a process that could lead to separation. The non-binding vote was the province's first-ever referendum on the question. Prime Minister Mark Carney said Albertans made a \"clear choice\" for unity, while Alberta Prosperity Project's Jeffrey Rath said the independence push will continue. Premier Danielle Smith, who voted against independence, had said a federalist win would close the question.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show",
+      "published": "2026-10-20T06:37:32"
+    },
+    {
+      "id": 2,
+      "title": "US-Ukraine-European talks open in Oslo as Witkoff prepares to travel on to Putin",
+      "summary": "White House envoy Steve Witkoff travelled to Oslo for talks with Ukrainian President Volodymyr Zelensky, Norwegian Prime Minister Jonas Gahr Store, representatives of the U.K., France, Germany and Poland, and EU and NATO officials. The aim is to develop a peace proposal to present to Russia, and Witkoff plans to go on to meet President Vladimir Putin. Jared Kushner, who has the flu, is joining virtually. A U.S. official described the talks as fluid, with substantial work remaining.",
+      "category": "World & Geopolitics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo",
+      "published": "2026-10-20T02:38:00Z"
+    },
+    {
+      "id": 3,
+      "title": "France deploys security forces and curfews ahead of expected weekend protests",
+      "summary": "France will deploy a large security operation, including military forces, for expected weekend protests, according to Euronews. Prime Minister Sebastien Lecornu said curfews will be imposed where needed, and police patrolled Paris under an overnight curfew. Interior Minister Laurent Nunez is also involved in the response. Violence earlier in the unrest included looted businesses in Marseille.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-evening",
+      "published": "2026-10-20"
+    },
+    {
+      "id": 4,
+      "title": "Brent crude rises above $110 a barrel on Middle East attacks",
+      "summary": "Brent crude futures broke past $110 per barrel on Tuesday, trading at $111.47 at the time of Yahoo Finance's report, the highest level since May 20. The article attributes the rise to continued attacks in the Middle East, including strikes on Saudi Arabian infrastructure and on shipping in the Strait of Hormuz. It says these attacks have kept upward pressure on energy costs since the war with Iran began.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-20-2026-gold-prices-subdued-again-by-soaring-oil-prices-111003519.html",
+      "published": "2026-10-20T11:10:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Japan launches MMX spacecraft to bring back the first samples from a Martian moon",
+      "summary": "JAXA launched the Martian Moons eXploration (MMX) spacecraft on an H3 rocket from the Tanegashima Space Center at 04:41:03 JST on October 20. About 71 minutes after liftoff the spacecraft separated from the rocket and was placed in its intended orbit. The mission aims to collect at least 10 grams of material from Phobos, with sample return expected in 2031 according to pre-launch reporting. It would be the first sample return from a moon of Mars.",
+      "category": "Science",
+      "source": "JAXA",
+      "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
+      "published": "2026-10-20"
+    }
+  ]
+}
