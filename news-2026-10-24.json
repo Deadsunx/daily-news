@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T18:14:45Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "US intelligence warns of Iranian plots as Hormuz standoff persists",
+      "summary": "The Director of National Intelligence said in a memo that Iran has \"substantially increased efforts to target U.S. personnel,\" with some plots at advanced stages. The State Department reduced staffing at embassies in Jordan, Lebanon, Qatar and the UAE and updated travel advisories for 14 Middle East countries. Iran's armed forces chief said U.S. warships would not be allowed in the Persian Gulf, while President Trump said strikes would wait until after the November 3 midterms. The U.S.-Iran war, which began on February 28, continues to disrupt Strait of Hormuz shipping and oil supply.",
+      "category": "World & Geopolitics",
+      "source": "CBS News",
+      "url": "https://cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms",
+      "published": "2026-10-24T17:40:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Wall Street falls as Brent crude passes $116 and AI valuation worries grow",
+      "summary": "The S&P 500 fell 0.5% to 7,623.68 for a second straight weekly loss, the Dow dropped 1.2% to 52,215.16, and the Nasdaq slipped 0.2% to 25,955.34. Brent crude rose 3.1% to $116.72, its highest level in more than four years, as the U.S.-Iran war constrains oil supply. The 10-year Treasury yield rose to 4.99% with U.S. inflation above 3%, and investors questioned AI valuations given heavy borrowing. American Express fell 3.7% after announcing its first major job cuts in about a decade.",
+      "category": "Business & Markets",
+      "source": "Associated Press via BNN Bloomberg",
+      "url": "https://bnnbloomberg.ca/markets/2026/10/23/wall-street-mostly-loses-ground-under-pressure-from-rising-oil-prices",
+      "published": "2026-10-23T20:37:00Z"
+    },
+    {
+      "id": 3,
+      "title": "OpenAI reportedly working on $30 billion raise at $1.25 trillion valuation",
+      "summary": "OpenAI is reportedly seeking up to $30 billion at a $1.25 trillion pre-money valuation, according to CNBC sources, with Coatue reportedly leading and investors from the UAE participating. Terms are still under negotiation, and OpenAI declined to comment. A valuation above $1 trillion would make it the most valuable private company ever. OpenAI confidentially filed for an IPO in June, and its March raise valued it at $852 billion post-money.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22T22:08:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Microsoft's multi-agent diagnostic system outperforms physicians on hard cases in Science study",
+      "summary": "Microsoft's MAI-DxO, which coordinates several AI agents like a panel of doctors, was correct 83% of the time on complex New England Journal of Medicine cases in a simulation, versus 36% for primary care doctors and general internists working alone with reference materials. Paired with GPT-5.5, it reached nearly 87%, though it showed little improvement on emergency department cases. The study's data suggests most of the gain comes from the underlying models, with the orchestration adding further improvement. Microsoft plans a real-world evaluation with Beth Israel Deaconess Medical Center.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "published": "2026-10-22T18:43:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Seismic survey finds Kikai supervolcano reservoir refilling with fresh magma",
+      "summary": "Researchers led by Kobe University with JAMSTEC used airgun-generated seismic pulses and ocean bottom seismometers to image a large magma-rich reservoir beneath Japan's Kikai caldera. The caldera's giant eruption about 7,300 years ago was the largest known of the Holocene, and a lava dome has been growing there for about 3,900 years. Chemical differences in the lava indicate the magma is newly injected from deeper in the crust or mantle. The authors say the findings, published in Communications Earth & Environment, do not imply an imminent catastrophic eruption.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "published": "2026-10-23T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Swiss glaciers lose more than 5% of ice volume in 2026; nearly 20% gone in five years",
+      "summary": "Swiss glaciers lost more than 5% of their ice volume in 2026, and nearly 20% of Switzerland's glacier ice has disappeared over the past five years, according to the annual GLAMOS monitoring report. The freezing level exceeded 4,000 meters on 76 days between May and September, a Swiss record and more than twice the usual number. The Rhône, Aletsch and Clariden glaciers recorded their worst melt on record, and Bella Tola and Griessfirn vanished completely. The 2026 loss did not exceed the record loss of 2022.",
+      "category": "Science",
+      "source": "ScienceDaily (ETH Zurich release)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+      "published": "2026-10-23T00:00:00Z"
+    }
+  ]
+}
