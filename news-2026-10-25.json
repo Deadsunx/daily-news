@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T06:27:25Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Over 400,000 protest across France as clashes erupt in Paris",
+      "summary": "France's Interior Ministry put nationwide turnout at 410,000 on Saturday, including 110,000 in Paris, while the CGT union estimated nearly 800,000. Police used tear gas and water cannons near the Paris march endpoint and in several other cities, and the Paris prosecutor's office reported 64 arrests; up to 70,000 officers were deployed. The protests follow a Oct. 17 day of action that drew more than half a million people and saw about 3,000 shops damaged or looted. Protesters cite cost of living and school conditions, and organizers have called for further rallies on Oct. 31.",
+      "category": "World & Geopolitics",
+      "source": "ABC7 New York (via Washington Post/AP)",
+      "url": "https://abc7ny.com/post/paris-protests-more-400000-protest-france-challenging-macron-clashes-erupt/19976107/",
+      "published": "2026-10-24T18:14:19Z"
+    },
+    {
+      "id": 2,
+      "title": "Wall Street closes lower to end a volatile week as oil rises",
+      "summary": "On Friday the Dow fell 652.82 points (1.23%) to 52,215.16, the S&P 500 lost 0.52% to 7,623.68 and the Nasdaq dropped 0.21% to 25,955.34. Brent crude reached its highest level since late April after Houthi attacks in Saudi Arabia, and Nasdaq weakness reflected concern over financing costs for AI investment. AT&T and T-Mobile fell nearly 8% on a report that SpaceX sought cell sites for a fourth wireless carrier. About a third of S&P 500 companies, including Alphabet, Microsoft and Amazon, report next week, and the Fed is expected to hold rates on Wednesday.",
+      "category": "Business & Markets",
+      "source": "GV Wire (AP)",
+      "url": "https://gvwire.com/2026/10/23/wall-street-closes-lower-to-end-rocky-week/",
+      "published": "2026-10-23T20:57:48Z"
+    },
+    {
+      "id": 3,
+      "title": "NASA details Artemis III low-Earth-orbit lander test mission planned for 2027",
+      "summary": "NASA said Artemis III will be a roughly 14-day crewed test in low Earth orbit, flown by NASA's Randy Bresnik, Frank Rubio and Andre Douglas and ESA's Luca Parmitano. Orion will dock with a Blue Origin Blue Moon Mark 2 test article for about two days of crew evaluations, then perform a docking test of up to two hours with a SpaceX Starship Version 3 test article. The mission is intended to prepare for planned crewed landings near the Moon's south pole in 2028. NASA's Artemis program manager said every lesson learned brings the agency closer to landing on the Moon in 2028.",
+      "category": "Science",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "published": "2026-10-23"
+    },
+    {
+      "id": 4,
+      "title": "Canva releases Craft, its first in-house image generation model",
+      "summary": "Canva introduced Craft, an image model built by Canva Research, available from Oct. 22-23 to all users via Dream Lab and through its Public API. The company says it debuted fourth overall on DesignArena's leaderboard and ranks first in the People & Portraits and Landscapes & Nature categories; these rankings are Canva's and the leaderboard's, not independently verified. Craft uses a two-stage design that separates compositional planning from rendering, outputs 2K images across more than 30 aspect ratios, and renders text in 55 languages. Cheaper Craft-fast and Craft-ultrafast variants are planned.",
+      "category": "AI & Tech",
+      "source": "The Tech Outlook",
+      "url": "https://www.thetechoutlook.com/new-release/software-apps/canva-introduces-its-first-state-of-the-art-image-generation-model-canva-craft",
+      "published": "2026-10-23"
+    }
+  ]
+}
