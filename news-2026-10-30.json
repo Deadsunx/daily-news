@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T11:50:14Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Spain high-speed train collision near Toledo kills at least 68",
+      "summary": "A Renfe high-speed train traveling from Madrid to Seville struck the rear of a stationary Iryo train near Urda in Toledo province on Wednesday, derailing two carriages. Regional authorities reported at least 68 deaths and about 80 injured, roughly 50 of them seriously. Transport Minister Oscar Puente said the LZB train-control system failed along a 63 km stretch at about 8:30 a.m., and called the decision to let the Renfe train resume 'inexplicable'. Spain has declared three days of official mourning and suspended high-speed service between Madrid and Andalusia.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain",
+      "published": "2026-10-28T19:59:00Z"
+    },
+    {
+      "id": 2,
+      "title": "US stocks fall as AI-linked earnings disappoint and inflation runs hot",
+      "summary": "The Nasdaq Composite fell 1.4% to 26,184.72 on Thursday, while the S&P 500 and Dow each slipped about 0.3%, ending a three-day winning streak. Alphabet dropped 12.6% after Q3 search revenue of $63.4 billion missed the $64.9 billion expected, and ServiceNow fell 27% on weaker guidance. September headline PCE inflation rose 0.5% (3.6% year over year) and core PCE rose 0.3% monthly (3.1% annually), while Q3 GDP grew at a 3.4% annualized rate. Health care and real estate sectors gained more than 2%, while communication services and technology fell.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html",
+      "published": "2026-10-30T08:31:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Google announces Gemini 4 Carbon, limited to cyber defenders for now",
+      "summary": "Google announced Gemini 4 Carbon on October 28, describing it as its strongest model yet, two weeks after Gemini 4 Argon. Google reports a score of 59 on the Artificial Analysis Intelligence Index v5.0, 88.2% on the SEC-bench Pro vulnerability-finding benchmark and 71.0% on the CWE-bench patching benchmark; external cybersecurity benchmarks were run without guardrails. Access is initially limited to a subset of cyber defenders and will widen to trusted partners, while Google takes part in the US government's voluntary pre-release testing. Broader developer and consumer availability has no date yet.",
+      "category": "AI & Tech",
+      "source": "Google (The Keyword)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "published": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Malaysia seizes more than $12 million of AI chips hidden in servers at Kuala Lumpur airport",
+      "summary": "Malaysian customs found 30 servers containing advanced AI chips worth about 49.5 million ringgit (over $12 million) in the free trade zone of Kuala Lumpur International Airport on October 15. The servers were falsely declared as ordinary electronic goods and were traveling from one Asian country to another, with Malaysia used as a transit point. Customs links the same network to seizures worth over $25 million across at least five cases, including a June 5 attempt involving 72 servers worth about $13 million. The chip type and final destination have not been disclosed.",
+      "category": "AI & Tech",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+      "published": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Juno data show Jupiter's bow shock is more complex than Earth's",
+      "summary": "A Nature Communications study using NASA's Juno spacecraft found that Jupiter slows and heats incoming solar wind using plasma waves at multiple harmonic frequencies, whereas Earth's bow shock relies mainly on waves at a single frequency. Solar wind particles also first cross smaller structures called shocklets before reaching Jupiter's main bow shock. The observations come from December 2024 data, and the paper was published online July 31, 2026; coverage appeared October 29. The researchers say the findings could help model energy transfer in much more powerful shocks, such as those around supernova remnants.",
+      "category": "Science",
+      "source": "ScienceDaily (Nature Communications study)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "published": "2026-10-29T00:00:00Z"
+    }
+  ]
+}
