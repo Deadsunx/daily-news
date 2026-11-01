@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T05:30:00Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Nasdaq posts steepest drop since June as Intel and Reddit each fall 29%",
+      "summary": "The Nasdaq Composite fell on Friday, October 30, its biggest daily decline since June, closing 7.8% below its record high and ending its worst month since March 2025. Intel and Reddit each lost 29%, Sandisk dropped 13%, and the Nasdaq 100 fell 3.5%, nearing correction territory. Capital Economics said Microsoft, Meta, Amazon and Alphabet account for over a third of capital spending by S&P 500 companies, and noted investor concern that this spending is becoming partly dependent on external financing. Reuters also reported that hackers took more than $6 billion from Binance, with bitcoin down 3%.",
+      "category": "Business & Markets",
+      "source": "Reuters (via The Star)",
+      "url": "https://thestar.com.my/tech/tech-news/2026/10/31/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts",
+      "published": "2026-10-30T23:41:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Tusk addresses Poland after president's confrontation at Constitutional Tribunal",
+      "summary": "On the night of October 30, President Karol Nawrocki tried to enter the Constitutional Tribunal building amid a deadlock over appointing new judges, and police surrounded the building. On October 31, Prime Minister Donald Tusk gave a televised address calling the events scandalous and saying restoring calm could not mean accepting lawlessness. The opposition accuses the government of attempting a coup, while the government says it is restoring the rule of law after years of Law and Justice interference in the judiciary. The speech set out no agreement with the president and no detailed plan to end the dispute.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/31/poland-crisis-donald-tusk-strikes-defiant-tone-vowing-no-compromise-on-rule-of-law-after-t",
+      "published": "2026-10-31T20:14:00Z"
+    },
+    {
+      "id": 3,
+      "title": "France's third weekend of social protests draws lower turnout",
+      "summary": "The Interior Ministry counted about 320,000 protesters across France on October 31, including 70,000 in Paris, down from 410,000 on October 24 and 550,000 on October 17. Police reported 27 arrests by 2 p.m., against 217 at the same point a week earlier, and used tear gas in Lyon. The movement began as a high school student protest over school conditions and teacher shortages, and unions and others opposed to President Emmanuel Macron later joined. Similar youth protests took place in Germany, the Netherlands, Italy and Spain.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit",
+      "published": "2026-10-31T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Retina organoid study suggests blue cones convert to red and green cones in the fovea",
+      "summary": "Johns Hopkins researchers grew human retinal organoids from fetal cells and followed them for several months. Blue cones appeared in the central foveola at weeks 10 to 12 of development and, by week 14, appeared to have converted into red and green cones rather than migrating away. The team found that retinoic acid, a vitamin A derivative, limits blue cone formation centrally, and that thyroid hormones appear to drive the conversion. The work, published in PNAS, challenges a roughly 30-year-old model; the authors say it does not show that vitamin A supplements improve adult vision.",
+      "category": "Science",
+      "source": "ScienceDaily (Johns Hopkins University / PNAS)",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "published": "2026-10-31T00:00:00Z"
+    }
+  ]
+}
