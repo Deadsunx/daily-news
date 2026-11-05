@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T04:37:50Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Democrats win House and flip Senate seats in US midterms",
+      "summary": "Democrats retook the US House, which Republicans won in 2022, and flipped at least six Senate seats, giving them control of both chambers. Al Jazeera reports the party appeared likely to win more than 230 House seats while counting continued, and names Senate flips in North Carolina, Kansas, Iowa, Texas and South Carolina. Hakeem Jeffries is poised to become the first Black House speaker. AP polling found the economy was voters' top concern, with about 4 in 10 naming it, most citing high petrol and grocery prices.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms",
+      "published": "2026-11-04"
+    },
+    {
+      "id": 2,
+      "title": "Dow jumps 1,569 points and oil falls after midterm results",
+      "summary": "US stocks rose on Wednesday, with the Dow Jones Industrial Average closing at 53,356.12, up 1,569.40 points (3.03%). The S&P 500 gained 1.58% to 7,688.62 and the Nasdaq rose 1.44% to 25,736.51. Brent crude fell about $10 per barrel and dropped below $100 for the first time in weeks. TheStreet attributes the moves to the Democratic midterm sweep and signs of diplomatic de-escalation in the US-Iran conflict.",
+      "category": "Business & Markets",
+      "source": "TheStreet",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026",
+      "published": "2026-11-04T16:20:00-05:00"
+    },
+    {
+      "id": 3,
+      "title": "Trump says Hegseth will stay and ties Iran war to election losses",
+      "summary": "President Trump said Defense Secretary Pete Hegseth will remain in his job and acknowledged the Iran war contributed to Republican midterm losses, saying \"The Iran thing we had to do.\" The war has lasted about eight months, and Democrats are preparing to use their new House majority to investigate the administration, with Hegseth expected to be a major target. An ABC News Voter Poll found 34% of House voters called the Iran war crucial to their vote, versus 49% for the cost of living and 55% for government corruption.",
+      "category": "World & Geopolitics",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/trump-dismisses-prospect-replacing-hegseth-amid-iran-war/story?id=137852219",
+      "published": "2026-11-04T18:16:00-05:00"
+    },
+    {
+      "id": 4,
+      "title": "Iran's supreme leader says US election will not end hostility",
+      "summary": "Supreme Leader Mojtaba Khamenei said in a written statement that anyone expecting US policy toward Iran to shift through partisan changes is \"seriously mistaken,\" and warned a new US attack would bring a response of \"much wider dimensions.\" Chief negotiator Mohammad Bagher Ghalibaf struck a more conciliatory tone, saying American voters rejected war. Trump did not rule out a major new attack but told the Financial Times there may be no need to act, according to Al Jazeera, citing AFP.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end",
+      "published": "2026-11-04"
+    },
+    {
+      "id": 5,
+      "title": "Israel's election committee certifies results, rejects Likud fraud claims",
+      "summary": "Israel's Central Elections Committee certified last week's parliamentary results after reviewing 9,069 polling stations and finding no irregularities that changed the outcome. The Netanyahu-led bloc won 53 seats, Gadi Eisenkot's camp 48, and Arab-led parties Ra'am and the Joint List a record 19 combined; no bloc reached the 61 needed to govern. President Isaac Herzog is consulting party leaders on who should try to form a coalition, and another election would follow early next year if none forms.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims",
+      "published": "2026-11-04"
+    },
+    {
+      "id": 6,
+      "title": "Australia's High Court hears challenge to under-16 social media ban",
+      "summary": "Australia's highest court heard Reddit and the Digital Freedom Project challenge the ban on under-16s using 10 age-restricted platforms, then adjourned with a verdict expected in the coming months. The challengers argue the law is disproportionate and infringes the implied freedom of political communication; the government calls it modest in extent. Government data shows five million accounts closed since the ban began in December 2025, though the government concedes many under-16s evade age checks.",
+      "category": "AI & Tech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court",
+      "published": "2026-11-04"
+    }
+  ]
+}
