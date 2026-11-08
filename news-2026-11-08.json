@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T05:52:57Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "At least five killed in shooting in Kraków, Polish police say",
+      "summary": "A gunman opened fire in Kraków's Main Square on 7 November, killing at least five people and injuring more than a dozen, according to Polish police. A local fire service spokesperson told Polsat News the shooter fired from a passing car, and police said the perpetrator was shot by officers and taken to hospital. Prime Minister Donald Tusk said he was receiving regular updates from the interior minister, and President Karol Nawrocki said the head of the National Security Bureau was travelling to the city. No motive or identity had been given; the story was still developing.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say",
+      "published": "2026-11-07T15:37:00Z"
+    },
+    {
+      "id": 2,
+      "title": "'Peace is possible and we are called to build it,' Pope Leo XIV says in Uruguay",
+      "summary": "Pope Leo XIV celebrated Mass at Parque París Londres in Paysandú, Uruguay, on 7 November before more than 40,000 people. His homily centred on unity and community, using the General Artigas bridge, local palm groves and the shared drink mate as symbols. He also visited the Basilica of Our Lady of the Rosary in Paysandú. The visit is his sixth apostolic journey and part of a South American tour, with further events scheduled in Montevideo and a Mass in Florida on Sunday.",
+      "category": "World & Geopolitics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
+      "published": "2026-11-07T18:15:00Z"
+    },
+    {
+      "id": 3,
+      "title": "S&P 500 falls 4.4% as AI data-center stocks lead sell-off",
+      "summary": "On Thursday, 5 November, the S&P 500 fell 4.4% (334.89 points) to close at 7,353.73. The Dow Jones Industrial Average dropped 3.4% to 51,523.06, and the Nasdaq Composite fell 5.5% to 24,315. The sell-off was led by stocks tied to building out AI data centers, as investors worried about possible moratoriums on data centers after Democrats won the U.S. midterm elections. A Seeking Alpha market report said it was the S&P 500's fourth consecutive weekly decline.",
+      "category": "Business & Markets",
+      "source": "La Nación (US market data)",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-1152026-nid05112026/",
+      "published": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic study: how researchers use Claude for scientific discovery",
+      "summary": "Anthropic published an analysis of 207,049 research sessions on consumer plans between 2 August and 30 September 2026, covering Claude and Claude Code. Data analysis accounted for 33.7% of Claude sessions and 48.1% of Claude Code sessions, while writing was 32.0% of Claude sessions. The authors estimate that, if current capabilities were widely adopted, AI could take on 27-52% of research time, implying roughly 1.35x to 2x output. A survey of 528 mostly life and health scientists found about 40% expect AI to carry out full research projects on its own by 2030.",
+      "category": "AI & Tech",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "published": "2026-11-05T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Rubin Observatory discovers two hidden companions of the Milky Way",
+      "summary": "The Vera C. Rubin Observatory in Chile found two previously unknown Milky Way satellites: Aquarius IV, an ultra-faint galaxy about 355,000 light-years away, and Rubin-GC1, a star cluster hidden behind cosmic dust. The finds came from preview data covering about 7% of the night sky, collected between April 2025 and January 2026. About 65 Milky Way satellites are known, though some estimates suggest hundreds more remain undiscovered. Researchers say such faint objects can help test dark matter models and reconstruct the galaxy's formation history.",
+      "category": "Science",
+      "source": "ScienceDaily (Yale University release)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "published": "2026-11-07T00:00:00Z"
+    }
+  ]
+}
