@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T20:23:48Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Russia and Ukraine hold first US-mediated talks since February in Abu Dhabi",
+      "summary": "Russian, Ukrainian and US delegations opened two days of talks in Abu Dhabi on Tuesday, the first such three-way meeting since February, with the first session lasting nearly four hours according to RIA Novosti. Russia's team is led by Putin aide Vladimir Medinsky, Ukraine's by intelligence chief Rustem Umerov, and the US by envoys Steve Witkoff and Jared Kushner, who said there are \"some good ideas how to bridge\" the differences. Moscow still demands Ukraine withdraw from four annexed regions and abandon NATO membership, while Kyiv rejects ceding territory and is calling for an immediate ceasefire. Talks are expected to resume Wednesday.",
+      "category": "World & Geopolitics",
+      "source": "Associated Press (via ABC News)",
+      "url": "https://abcnews.com/Business/wireStory/russia-ukraine-hold-4-hours-us-mediated-talks-138003195",
+      "published": "2026-11-10T13:54:00Z"
+    },
+    {
+      "id": 2,
+      "title": "France blames Iran's Revolutionary Guards for cyberattack on supermarket fridges",
+      "summary": "French Foreign Minister Jean-Noel Barrot said Iran's Revolutionary Guards were behind October 11-12 cyberattacks that hit supermarket refrigeration systems at 700 sites in France, calling the attack \"unprecedented\" in scale. The Paris prosecutor said attackers remotely forced abnormal defrost cycles and disabled temperature alarms, and has opened a judicial investigation into the IRGC cyber unit Shahid Kaveh; some stores had to discard entire inventories of perishable food. France summoned Iran's ambassador and pledged European-level sanctions, while similar incidents on November 2 reportedly affected grocery stores in at least nine other European countries.",
+      "category": "World & Geopolitics",
+      "source": "AFP (via Yahoo News)",
+      "url": "https://www.yahoo.com/news/world/articles/france-says-irans-guards-behind-170717321.html",
+      "published": "2026-11-09T19:44:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Hotter-than-expected US inflation lifts bets on a December Fed rate hike",
+      "summary": "The US consumer price index rose 0.4% in October, above the 0.3% economists expected, while core prices excluding food and energy rose 0.3% versus a 0.2% forecast. Treasury yields climbed after the release, with the 10-year yield up 7 basis points to 4.93%, and major stock indexes fell, with the Nasdaq Composite down more than 1% in afternoon trading. Traders priced roughly an 84% chance of a quarter-point Fed hike in December and raised the odds of a half-point move to 15%, after Fed Governor Chris Waller said a larger hike should be considered if inflation came in hot.",
+      "category": "Business & Markets",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+      "published": "2026-11-10T13:42:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic sets IPO price range of $70 to $78, implying up to $1.4 trillion valuation",
+      "summary": "Anthropic set a price range of $70 to $78 per share for its initial public offering, covering 825 million Class A shares. At those prices the offering would raise between $57.75 billion and $64.35 billion, and the top of the range implies a fully diluted valuation of about $1.404 trillion. The shares are set to list on Nasdaq under the ticker \"ANT\", with trading expected to begin around November 19.",
+      "category": "Business & Markets",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "published": "2026-11-10T14:01:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Stanford's AI100 report says the scaling era is running short and AI is 'not yet paying its way'",
+      "summary": "Stanford's One Hundred Year Study on AI released its third five-yearly report, produced by a 12-person panel chaired by Oxford's Michael Wooldridge. It concludes that building ever-larger models faces shortages of high-quality data and rising costs, and expects future progress to depend more on better algorithms, smaller models and more reasoning time. The panel says AI investment has surpassed earlier tech booms but its economic impact is not yet visible in macroeconomic data, and it flags strain on energy and freshwater supplies from data centre growth.",
+      "category": "AI & Tech",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/stanford-ai100-report-2026-ai-goes-mainstream",
+      "published": "2026-11-10T16:56:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Global fossil CO2 emissions projected to fall 0.4% in 2026, but total emissions hit a record",
+      "summary": "The Global Carbon Project's Global Carbon Budget 2026, led by Pierre Friedlingstein of the University of Exeter, projects fossil fuel CO2 emissions will decline 0.4% this year to about 38.2 billion tonnes. Total CO2 emissions including land-use change are still projected to reach a record 43.3 billion tonnes, up from 42.8 billion in 2025. Emissions are projected to fall in China (-0.9%), the United States (-1.3%) and the European Union (-1.5%), while India's are projected to rise 4.4%.",
+      "category": "Science",
+      "source": "ScienceDaily (University of Exeter)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+      "published": "2026-11-10"
+    }
+  ]
+}
