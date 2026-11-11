@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-11T21:01:21Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Abu Dhabi peace talks between Ukraine, Russia and the US end without announced agreement",
+      "summary": "The second day of trilateral talks between Ukraine, the US and Russia in Abu Dhabi ended on November 11 after just under two hours behind closed doors, following about 4.5 hours of talks on November 10. No official outcome was published; Russian state agency TASS cited a source saying a prisoner exchange is expected, with swaps of 1,000 for 1,000 or 1,500 for 1,500 reportedly under discussion. US Secretary of State Marco Rubio called the talks productive but said much work remained, while President Zelensky said territorial questions raised by Russia should be handled directly by leaders. Western media reported that US envoys Steve Witkoff and Jared Kushner could travel to Moscow and Kyiv next, which has not been confirmed.",
+      "category": "World & Geopolitics",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/89761",
+      "published": "2026-11-11T08:43:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Tech stocks rally as CoreWeave jumps about 25% after raising its 2026 revenue forecast",
+      "summary": "US stocks rose on November 11, with the Nasdaq Composite up 2.2%, the S&P 500 up 1.5% and the Dow up 0.3% at midday, according to CNBC figures cited by Stock Titan. CoreWeave shares gained about 25.5% after the AI cloud provider reported third-quarter revenue of $3.66 billion, above its own forecast of $3.45 billion to $3.60 billion, alongside a net loss of $709 million. The company raised its 2026 revenue outlook to $13.0 billion to $13.3 billion, and Nvidia shares rose about 4.3% to $176.15. CME FedWatch data showed markets pricing about a 90% chance of a Federal Reserve rate hike in December.",
+      "category": "Business & Markets",
+      "source": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026",
+      "published": "2026-11-11T12:13:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Google makes Gemini 4 Carbon, its most capable model, generally available",
+      "summary": "Google DeepMind released Gemini 4 Carbon, which it describes as its strongest model for cybersecurity and long-running agentic work in software engineering, knowledge work and scientific reasoning. It is available through paid API access in Google AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in the Gemini app, Antigravity and AI Mode in Search. Introductory pricing is $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 from November 30, 2026. Google reports the model passed 92% of tasks on a 375-task agentic honesty benchmark versus 70% for Gemini 4 Argon; most benchmark results are Google's own.",
+      "category": "AI & Tech",
+      "source": "Google (The Keyword)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "published": "2026-11-10"
+    },
+    {
+      "id": 4,
+      "title": "Rubin Observatory spots an object beyond Neptune orbiting the Sun backwards",
+      "summary": "An object temporarily designated R631, first flagged in Vera C. Rubin Observatory observations made between December 2025 and March 2026, has been found on a retrograde orbit beyond Neptune. It is about 32 astronomical units (roughly 4.8 billion km) from the Sun, with an orbital inclination of 142 degrees and an estimated period of about 548 years, according to EarthSky data cited by Gizmodo. It may be a comet roughly 100 km wide and is expected to reach its closest point to the Sun, about 24 AU, on October 31, 2047. Scientists have not determined whether it is an interstellar object captured by the Sun or was flung into its orbit by Neptune or Jupiter.",
+      "category": "Science",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621",
+      "published": "2026-11-10T14:40:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Ancient proteins from Homo naledi teeth show no male marker, raising all-female burial hypothesis",
+      "summary": "Researchers led by the University of York and the University of Copenhagen recovered ancient proteins from Homo naledi fossils for the first time, analyzing 23 teeth from at least 20 individuals from South Africa's Rising Star Cave. They found no Amelogenin-Y peptides, the protein marker produced by the male Y chromosome, and chemical tests indicated the proteins were ancient rather than modern contamination. The authors suggest the Dinaledi Chamber may have been an all-female burial site, though an alternative is that the gene was lost or mutated in an isolated population. The study, published in Cell, is described as the largest ancient protein analysis of an extinct hominin species, which lived about 335,000 to 241,000 years ago.",
+      "category": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "published": "2026-11-11"
+    }
+  ]
+}
