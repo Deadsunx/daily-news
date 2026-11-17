@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T06:43:04Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Trump departs for Asia ahead of first trilateral meeting with Putin and Xi",
+      "summary": "President Donald Trump left Monday on a multi-day Asia trip that begins at the ASEAN summit in the Philippines and continues to Shenzhen, China, for meetings on the sidelines of the APEC summit. The White House says a meeting with Russian President Vladimir Putin and Chinese President Xi Jinping is set for Thursday, which CBS News describes as the first among the three leaders. The White House says the talks will focus on reducing nuclear weapons proliferation, and a senior U.S. official said Trump also intends to raise Iran, while Ukraine is not expected to be discussed. Trump last met Putin in Alaska in August 2025, and this would be his third in-person meeting with Xi this year.",
+      "category": "World & Geopolitics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+      "published": "2026-11-16T09:57:00-05:00"
+    },
+    {
+      "id": 2,
+      "title": "Third U.S. aircraft carrier arrives in the Middle East as Hormuz tankers are hit",
+      "summary": "The USS Theodore Roosevelt has arrived in the Middle East, a U.S. official confirmed Monday, joining the USS George H.W. Bush and USS George Washington. The Navy's Arabian Sea flotilla includes 13 destroyers, two cruisers and one littoral combat ship, with two more destroyers in the Red Sea. Iran's Revolutionary Guard navy said mines have damaged six oil tankers since Sunday, and the UK Maritime Trade Organization reported a projectile struck a tanker in the Strait of Hormuz, starting an engine room fire with no casualties reported. Lloyd's List says traffic through the strait, which carried about a fifth of the world's oil before the war, is under one-third of prewar levels.",
+      "category": "World & Geopolitics",
+      "source": "PBS News (AP)",
+      "url": "https://pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
+      "published": "2026-11-16T14:02:29-05:00"
+    },
+    {
+      "id": 3,
+      "title": "Ukraine strikes Crimean Bridge in record drone attack on Russia",
+      "summary": "Russia's defence ministry said it intercepted or destroyed 2,049 drones in 24 hours, the largest number of the war, in a barrage that targeted 15 Russian regions including Moscow. Moscow mayor Sergei Sobyanin said about 600 drones flew toward the Moscow region overnight and most were intercepted. The Crimean Bridge at Kerch was struck; Kremlin spokesman Dmitry Peskov described the damage as minor and said an assessment was under way, while road traffic was limited and rail traffic resumed Monday morning. Ukrainian authorities did not immediately comment, and the bridge has now been attacked at least five times since October 2022.",
+      "category": "World & Geopolitics",
+      "source": "The Irish Times (Financial Times)",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/",
+      "published": "2026-11-16T11:22:00Z"
+    },
+    {
+      "id": 4,
+      "title": "U.S. stocks fall as chip shares slide on new export restrictions ahead of Nvidia earnings",
+      "summary": "The S&P 500 fell 1.92% to about 7,416 and the Nasdaq Composite fell 2.49% to about 24,510 on Monday. Nvidia closed down 4.24% at $156.14 on volume of 326.6 million shares, about 119% above its three-month daily average, after new U.S. restrictions on remote access to advanced AI chips and price target cuts by several analysts ahead of its earnings report on Tuesday. AMD fell 5.58% to $504.28 and Broadcom fell 3.92% to $333.40. Amazon dropped 3.34% to $257.75 after a United Launch Alliance Vulcan rocket failed on Sunday with 40 of its Leo broadband satellites aboard.",
+      "category": "Business & Markets",
+      "source": "The Motley Fool (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-223002959.html",
+      "published": "2026-11-16T14:30:00-08:00"
+    },
+    {
+      "id": 5,
+      "title": "U.S. tightens AI chip export controls to block remote access by Chinese companies",
+      "summary": "The U.S. Commerce Department issued an interim final rule requiring licenses to export, reexport or transfer AI chips and servers to data centers anywhere in the world if they may provide computing power to companies in China or other restricted countries, including through intermediaries. The rule applies to data centers able to supply more than 12 million total processing performance, which TechCrunch estimates at roughly 750 Nvidia H100 or H200 chips, and gives existing operators 90 days to obtain licenses. Malaysia, Singapore, Indonesia, Thailand and Brazil face new license requirements, with Commerce citing a higher-than-normal risk of diversion. The rule also rescinds the Biden administration's January 2025 AI Diffusion Rule and follows the resignation of Nvidia co-founder Jensen Huang amid a scandal involving a customer suspected of supplying compute to Chinese businesses.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "published": "2026-11-16T15:02:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Wearable ultrasound patch increases REM sleep in 28-person study",
+      "summary": "Researchers at the University of Texas at Austin reported in Nature Communications that a skin-attached patch combining ultrasound stimulation with electrodes that monitor brain activity altered REM sleep without drugs or surgery. In a study of 28 participants, people entered REM sleep about 43 minutes sooner and spent about 16 more minutes in REM on average, with minimal adverse effects reported. The researchers said the study is small and that larger trials are needed to confirm the results and whether the benefits last. Further trials are planned in people with PTSD, depression and chronic insomnia.",
+      "category": "Science",
+      "source": "ScienceDaily (University of Texas at Austin)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
+      "published": "2026-11-16"
+    }
+  ]
+}
