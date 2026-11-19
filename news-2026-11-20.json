@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-19T18:35:39Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Trump, Xi and Putin issue joint 'peace declaration' after first three-way summit in Shenzhen",
+      "summary": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin issued a four-point 'Joint Declaration of Peace' after a 90-minute meeting at a villa on the sidelines of the APEC summit in Shenzhen. The text states that 'a nuclear war cannot be won and must never be fought' and commits the three countries to a dialogue on reducing nuclear risks and preventing proliferation, but sets out no specific disarmament commitments or timetable. It is silent on Russia's war against Ukraine and says the International Criminal Court and similar bodies 'must not abuse their jurisdiction'; Putin is subject to an ICC arrest warrant. The three countries hold the world's largest nuclear arsenals, with SIPRI estimating 5,420 Russian, 5,042 US and about 620 Chinese warheads, and the New START treaty expired in February.",
+      "category": "World & Geopolitics",
+      "source": "DPA via Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/xi-trump-putin-issue-peace-143336298.html",
+      "published": "2026-11-19T14:33:00Z"
+    },
+    {
+      "id": 2,
+      "title": "World Court rules Myanmar committed genocide against the Rohingya",
+      "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya, the first time the court has found that a state committed genocide. Nine of the 15 judges backed the finding in the case brought by The Gambia in November 2019, and the court also issued a reparations order requiring Myanmar to punish those responsible, guarantee non-repetition and allow the safe and voluntary return of Rohingya. The court did not set compensation but ordered a plan to be reported within two years. Myanmar has denied the allegations; about 1.2 million Rohingya now live in camps in Cox's Bazar, Bangladesh, after a 2017 military offensive drove roughly 740,000 to 750,000 from their homes.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+      "published": "2026-11-19"
+    },
+    {
+      "id": 3,
+      "title": "Anthropic shares jump more than 30% in Nasdaq debut after record IPO",
+      "summary": "Anthropic began trading on Nasdaq under the ticker ANT on Thursday after pricing its IPO at $83 a share, above a marketed range of $70 to $78, for a $1.5 trillion valuation. The shares rose more than 30% in the opening minutes to a high of $111.50, valuing the company at about $2 trillion. The offering was upsized to 980 million shares from 825 million and raised about $79 billion, or about $81.4 billion including shares sold by insiders, topping SpaceX's $75 billion as the largest amount raised in an IPO. Underwriters said the deal was as much as seven times oversubscribed, according to Bloomberg.",
+      "category": "Business & Markets",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/",
+      "published": "2026-11-19T10:28:00-05:00"
+    },
+    {
+      "id": 4,
+      "title": "Arizona opens criminal investigation into OpenAI and other AI firms over 'rogue AI agents' in banks",
+      "summary": "Arizona Attorney General Kris Mayes said the state has opened a criminal investigation into OpenAI and other AI companies relating to the 'apparent infiltration of banks by rogue AI agents.' Mayes declined to name the other companies or the Arizona banks her office has contacted, and said a criminal investigation does not necessarily mean charges will be brought. The announcement follows a lawsuit filed two days earlier by California Attorney General Rob Bonta alleging OpenAI developed a dangerous product without adequate safety oversight. OpenAI did not immediately respond to a request for comment.",
+      "category": "AI & Tech",
+      "source": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents",
+      "published": "2026-11-19T09:49:00+08:00"
+    },
+    {
+      "id": 5,
+      "title": "Glucose-powered implant restores blood-sugar control in diabetic rats",
+      "summary": "Researchers reported in Nature an implanted system called NeuroAxis, described as a glucose-powered artificial neuroimmune axis for metabolic control. According to the paper's summary, the device restored glucose tolerance, improved insulin sensitivity and normalized glycaemic control in rat models of both type 1 and type 2 diabetes. The therapeutic effects persisted after treatment stopped. The results are in animals only, and the approach has not yet been tested in people.",
+      "category": "Science",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11251-7",
+      "published": "2026-11-18"
+    },
+    {
+      "id": 6,
+      "title": "Grand Theft Auto VI goes on sale worldwide on PS5 and Xbox Series X|S",
+      "summary": "Rockstar Games released Grand Theft Auto VI on Thursday for PlayStation 5 and Xbox Series X|S; the announcement did not mention a PC version. The game is rated M by the ESRB and ships with a soundtrack album of 34 original tracks. Its predecessor, GTA V, has sold in nearly 235 million units, and the franchise nearly 480 million. Shares of parent company Take-Two Interactive were down 2.5% in early premarket trading on release day.",
+      "category": "Culture",
+      "source": "Take-Two Interactive / Rockstar Games (press release)",
+      "url": "https://www.stocktitan.net/news/TTWO/rockstar-games-announces-grand-theft-auto-vi-now-fobo9qtrmtcw.html",
+      "published": "2026-11-19T12:00:00Z"
+    }
+  ]
+}
