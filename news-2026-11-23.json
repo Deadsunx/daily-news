@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T06:39:21Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "COP31 climate summit in Antalya ends without an agreement",
+      "summary": "The UN COP31 climate talks in Antalya, Turkey, ended on Sunday without a final agreement after running into overtime, following two weeks of negotiations among delegations from nearly 200 countries. The talks broke down mainly over fossil fuels: a coalition led by France and Panama, with countries from Europe, Africa, Latin America and the Pacific, rejected the latest draft as too weak because it contained no fossil fuel language. An earlier draft had called for accelerated action to phase out fossil fuels, but that wording was removed days later. The United States sent no representatives for the second year in a row following its withdrawal from the Paris Agreement.",
+      "category": "World & Geopolitics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+      "published": "2026-11-22T13:55:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Wall Street slides into correction territory as AI sell-off spreads to Asia",
+      "summary": "US stocks fell sharply on Friday, with the S&P 500 down 3.7%, the Nasdaq down 5.3% and the Dow down 1.9%, amid an AI-led sell-off; European indexes also fell, with Germany's DAX down 2.6%. On Monday in Asia, Korean shares fell about 4% to a 10-month low and Australia's ASX 200 slipped 0.3% to 8,571, its eighth straight losing session, while Nasdaq 100 futures rose nearly 3% early in the day. Gerard Minack noted the Goldman Sachs AI index was 37% below its June peak. Spot gold rose 2.2% to US$3,609 an ounce and the US 10-year yield stood at 4.95%.",
+      "category": "Business & Markets",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+      "published": "2026-11-22T19:43:19Z"
+    },
+    {
+      "id": 3,
+      "title": "Lean and Mathlib communities say machine-checked proof of the Riemann Hypothesis is correct",
+      "summary": "The Lean and Mathlib communities issued a joint statement, endorsed by the Lean FRO and the Mathlib Initiative, saying they have \"full confidence\" that a proof of the Riemann Hypothesis released by mathematician Levent Alpöge is correct. Alpöge released the proof on November 20 as a Lean library of about 17 million lines of code. According to the statement, the proof was checked by several independent proof checkers, including Lean's kernel, and tools confirmed that the proved theorem matches Mathlib's formal statement of the Riemann Hypothesis.",
+      "category": "Science",
+      "source": "Lean Community Blog",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "published": "2026-11-21T13:55:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Signal restricts screenshots on Android and iOS, citing AI agents as an 'existential threat'",
+      "summary": "Signal announced it is restricting screenshots in its messaging app on Android and iOS, extending a protection that was already on by default on Windows. Signal President Meredith Whittaker said agentic AI built into operating systems is an \"existential threat\" and that Windows, Android and macOS/iOS \"are undermining Signal's ability to independently guarantee privacy.\" Users can turn the setting off, though Whittaker said doing so would \"break our privacy guarantees\" and described the fix as \"incomplete.\"",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21T21:37:10Z"
+    },
+    {
+      "id": 5,
+      "title": "Russian strike hits Kryvyi Rih as drone-struck cargo ship burns in Gulf of Finland",
+      "summary": "A Russian strike on the centre of Kryvyi Rih, President Volodymyr Zelensky's hometown, killed two people and wounded 60, local officials said on Saturday. Separately, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday after being hit by drones, according to Finnish and Russian officials; it was unclear who carried out the strike. Finland's prime minister warned that the war was spilling into the region.",
+      "category": "World & Geopolitics",
+      "source": "Morning Star",
+      "url": "https://morningstaronline.co.uk/article/world-brief-64",
+      "published": "2026-11-22"
+    },
+    {
+      "id": 6,
+      "title": "Relativistic effects rewrite the textbook triple bond in a carbon-bismuth molecule",
+      "summary": "Researchers led by Lai-Sheng Wang at Brown University reported in Science that the triple bond in the carbon-bismuth molecular ion CBi- does not follow the textbook model of one sigma bond plus two pi bonds. Using photoelectron spectroscopy on molecules cooled to near absolute zero, the team found the bond consists of one pi bond and two hybrid sigma-pi bonds. The authors attribute the change to relativistic spin-orbit coupling in the heavy bismuth atom, showing how Einstein's relativity can alter basic chemical bonding rules for heavy elements.",
+      "category": "Science",
+      "source": "ScienceDaily (Brown University)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+      "published": "2026-11-21"
+    }
+  ]
+}
