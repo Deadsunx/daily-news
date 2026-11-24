@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-24T18:35:33Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Nvidia shares slide a day after Huang's reinstatement rally",
+      "summary": "Nvidia shares fell more than 6% on Tuesday, a day after soaring 31.5% when the company reinstated Jensen Huang as CEO under pressure from US President Donald Trump. The Nasdaq fell 2.4% after climbing nearly 7% the previous day, while the S&P 500 dropped 0.82% and the Dow gained 0.18%; Anthropic briefly traded below its $83 IPO price. Fed funds futures priced 98% odds of a Federal Reserve rate hike in December, with Wednesday's PCE inflation data the last key release before that meeting. Monday's surge had restored nearly $1 trillion in Nvidia's market value, though the stock remains about 30% below its October record highs.",
+      "category": "Business & Markets",
+      "source": "Reuters (via GV Wire)",
+      "url": "https://gvwire.com/2026/11/24/stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls/",
+      "published": "2026-11-24T16:56:36Z"
+    },
+    {
+      "id": 2,
+      "title": "Amazon to acquire Decart's AI optimization technology, reportedly for $7.5 billion",
+      "summary": "Amazon confirmed on Monday it will acquire the Decart Optimization Stack, software that helps AI models run more efficiently on chips, and bring on the Israeli startup's founders and research team. Amazon did not disclose terms; Bloomberg reported the price at about $7.5 billion, and Globes reported the deal is tied to performance targets over five years. Amazon has signaled plans to sell its Trainium AI chips to outside customers, and Decart's software could make it easier to move workloads off Nvidia hardware. The deal is subject to regulatory clearance.",
+      "category": "AI & Tech",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/",
+      "published": "2026-11-23T16:25:19Z"
+    },
+    {
+      "id": 3,
+      "title": "NATO vows to defend against space threats after reports of Russian nuclear-armed satellite",
+      "summary": "NATO Secretary General Mark Rutte said the alliance will defend against threats in space after German media reported that Russia is preparing to launch a nuclear-armed satellite, citing intelligence about a possible launch within 60 days. Broadcasters NDR and WDR and the Süddeutsche Zeitung, citing anonymous German military and intelligence sources, said the satellite, dubbed \"Sputnik-S\", could disrupt or destroy other satellites. German Chancellor Friedrich Merz said such reports \"reveal the level of escalation Russia is evidently prepared to pursue,\" while Kremlin spokesman Dmitry Peskov called them \"hardly worth taking seriously.\" Russia is a signatory to the 1967 Outer Space Treaty, which bans weapons of mass destruction from orbit.",
+      "category": "World & Geopolitics",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "published": "2026-11-24T02:15:59Z"
+    },
+    {
+      "id": 4,
+      "title": "UK sanctions five Myanmar military leaders after ICJ Rohingya genocide ruling",
+      "summary": "The UK has sanctioned five senior Myanmar military leaders after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya, the first time a state has been found guilty of the crime. The court reached its verdict by nine votes to six and determined that about 10,000 Rohingya were murdered during the 2017 clearance operation in Rakhine state; Myanmar denied the claims. Foreign Secretary Ed Miliband said new legislation would stop the supply of aviation fuel to the country and that the UK would raise the issue at the UN Security Council this week. Australia, Belgium, Portugal, Spain and Canada are among other countries acknowledging the ruling.",
+      "category": "World & Geopolitics",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
+      "published": "2026-11-23T21:03:34Z"
+    },
+    {
+      "id": 5,
+      "title": "Study suggests global warming halted the onset of Earth's next glacial period",
+      "summary": "A study published in Science reports that the last remnant of the Laurentide Ice Sheet, the Barnes Ice Cap on Baffin Island, began expanding again about 2,000 years ago after reaching its smallest extent roughly 3,000 years ago. Researchers from Columbia Climate School's Lamont-Doherty Earth Observatory and colleagues radiocarbon-dated ancient plants exposed as the ice retreated to reconstruct its history. By the 1960s, rising summer temperatures had reversed that growth, and models indicate the ice cap could disappear within the next few centuries. The authors argue the renewed growth marked the start of the next glaciation, a view that differs from climate-model research suggesting it would not begin for thousands of years or more.",
+      "category": "Science",
+      "source": "ScienceDaily (Columbia Climate School)",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "published": "2026-11-24"
+    },
+    {
+      "id": 6,
+      "title": "CAS restores Senegal's Africa Cup of Nations title, overturning Morocco award",
+      "summary": "The Court of Arbitration for Sport unanimously upheld Senegal's appeal against the Confederation of African Football's decision to award the 2025 Africa Cup of Nations title to Morocco. CAF had overturned the January final in March, awarding Morocco a 3-0 forfeit win after most Senegal players walked off in protest at a penalty; the CAS panel ruled the forfeiture articles did not apply because the referee restarted the match. Senegal's original 1-0 extra-time victory is reinstated, making them African champions for the second time after 2022. The Moroccan federation said it will \"pursue all necessary legal avenues\" to contest the ruling.",
+      "category": "Sports",
+      "source": "France 24 (AFP)",
+      "url": "https://www.france24.com/en/live-news/20261124-senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+      "published": "2026-11-24T16:47:16Z"
+    }
+  ]
+}
