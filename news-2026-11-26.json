@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-25T18:31:58Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Iran says tankers struck mines in Strait of Hormuz as it tightens control of waterway",
+      "summary": "Iran's Revolutionary Guards Navy said two oil tankers struck naval mines, exploded and caught fire in the Strait of Hormuz while trying to use an \"unauthorized route,\" and Fars reported a further tanker hit a mine in a \"restricted zone\" on Wednesday. Army spokesperson Mohammad Akraminia said new systems had been deployed and existing ones upgraded to strengthen surveillance and control of the strait. Tehran says it will not restore normal shipping until its demands are met, including lifting the US naval blockade of Iranian ports, and has offered via Qatari mediators to reopen the waterway within 48 hours if Washington meets its conditions. No tanker names or casualty figures were given.",
+      "category": "World & Geopolitics",
+      "source": "Arab News (Reuters)",
+      "url": "https://www.arabnews.com/middle-east/third-tanker-hits-mine-in-strait-of-hormuz-iran-says-3013942",
+      "published": "2026-11-25T04:54:56Z"
+    },
+    {
+      "id": 2,
+      "title": "US proposes new tariffs on 14 trading partners including China and the EU",
+      "summary": "The US Trade Representative proposed new tariffs on 14 economies, including China, the European Union, India, Japan, South Korea, Taiwan and Vietnam, after an eight-month Section 301 unfair trade practices probe into 16 trading partners. Mexico and Norway were not included for now and remain under review. The measures are widely viewed as rebuilding the global tariffs the US Supreme Court struck down in February. A public comment period and hearing are required before the tariffs take effect, which could push implementation into January.",
+      "category": "Business & Markets",
+      "source": "RTÉ News (AFP/Reuters)",
+      "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/",
+      "published": "2026-11-25T13:42:49Z"
+    },
+    {
+      "id": 3,
+      "title": "AI sell-off drags Wall Street lower; S&P 500 down 2.7%, Nasdaq down 4.1%",
+      "summary": "US stocks fell sharply on Wednesday morning, with the S&P 500 down 2.7%, the Dow down 849 points (1.7%) and the Nasdaq down 4.1% as of 10:27 a.m. ET, led by Nvidia (-7.6%) and Broadcom (-6%). The Fed's preferred inflation gauge, the PCE index, rose at a 3.8% rate in October, up from 3.6% in September, while third-quarter GDP growth was revised up to a 4.3% annual rate. Asian markets also slid, with South Korea's Kospi down 6.2% and SoftBank Group down 14.8%. US markets are closed Thursday for Thanksgiving.",
+      "category": "Business & Markets",
+      "source": "Associated Press (via Pittsburgh Post-Gazette)",
+      "url": "https://www.post-gazette.com/business/personal-finance/stock-markets-today-november-25-2026-M7WHINCNO5Y72NPSTXSB2ADSEU/",
+      "published": "2026-11-25T16:47:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Governance questions mount after Nvidia reinstates Jensen Huang as CEO",
+      "summary": "Nvidia's reinstatement of Jensen Huang as CEO and board member followed weekend calls led by Vice President JD Vance, with President Trump calling the board directly; Trump told CNBC, \"I made the deal.\" Five shareholder suits have been filed so far in Northern California, and Huang has agreed to testify at a Senate Banking hearing next week. Yale's Jeffrey Sonnenfeld told TechCrunch the directors could face a \"historic level of individual liability.\" Nvidia has denied reports that its most advanced chips reached China.",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published": "2026-11-25T00:12:02Z"
+    },
+    {
+      "id": 5,
+      "title": "Paper wasps recognize faces using brain cells similar to primate face cells",
+      "summary": "A Cornell-led study in Cell found that female northern paper wasps (Polistes fuscatus) have a brain region whose neurons respond to forward-facing images of other wasps' faces, but not to side views or to the faces of flies or bees. Individual neurons preferred markings on different parts of the face. The finding is notable because wasp brains contain about a million neurons, compared with billions in primates, suggesting a similar solution to face recognition evolved independently.",
+      "category": "Science",
+      "source": "BrightSurf (Cornell University release)",
+      "url": "https://www.brightsurf.com/news/LVDOOKYL/wasps-recognize-faces-in-ways-strikingly-similar-to-humans.html",
+      "published": "2026-11-24T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Large study tests 55 ideas to boost support for carbon pricing; most show no effect",
+      "summary": "A University of Innsbruck-led study in Nature Human Behaviour tested 55 behavioral interventions, selected from submissions by 137 research teams, on about 20,000 US participants. Reflective-thinking and information-based interventions showed the clearest effects, but the average effect was small. 44 of the 55 designs produced no statistically significant effect on support for carbon pricing.",
+      "category": "Science",
+      "source": "BrightSurf (University of Innsbruck release)",
+      "url": "https://www.brightsurf.com/news/L7VEEJO8/not-everything-that-sounds-plausible-works-55-ideas-to-win-support-for-carbon-pricing.html",
+      "published": "2026-11-25T00:00:00Z"
+    }
+  ]
+}
