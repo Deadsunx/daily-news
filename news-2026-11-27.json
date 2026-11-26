@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-26T18:36:13Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "EU leaders struggle to agree on long-term budget and new Ukraine funding at Brussels summit",
+      "summary": "EU leaders meeting at an extraordinary summit in Brussels are divided over the bloc's proposed budget of nearly $1.76 trillion for 2028 to 2034 and a new $49bn loan for Ukraine. The package, which foresees $110bn for Kyiv over seven years, requires unanimous approval, and Bulgaria, the Czech Republic, Hungary and Slovakia oppose using funds for military aid to Ukraine. Italy's Giorgia Meloni said leaders were \"light-years away from a solution,\" while Hungary's Peter Magyar put the chance of agreement that day at \"virtually zero.\" Leaders are aiming for a deal by year-end, ahead of elections in several member states next year.",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera (with AP and Reuters)",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine",
+      "published": "2026-11-26"
+    },
+    {
+      "id": 2,
+      "title": "Israeli strikes kill 8 in Gaza, including a Hamas official",
+      "summary": "Overnight Israeli strikes in Gaza City and central Gaza killed eight Palestinians, including a man and his wife in a Deir al-Balah apartment, according to health officials at Shifa and Al-Aqsa Martyrs hospitals. Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz said the military killed Khaled Abu Nada, who oversaw economic and education affairs for Hamas in Gaza. Gaza's health ministry says at least 74,746 Palestinians have been killed in more than three years of war. Separately, UK Maritime Trade Operations said a tanker 93 km west of Dubai reported an explosion from an unknown projectile, with no damage and all crew safe.",
+      "category": "World & Geopolitics",
+      "source": "Associated Press (via WDIV ClickOnDetroit)",
+      "url": "https://www.clickondetroit.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
+      "published": "2026-11-26T07:51:24Z"
+    },
+    {
+      "id": 3,
+      "title": "US third-quarter GDP growth revised up to 4.3%",
+      "summary": "The government's second estimate of third-quarter GDP, released November 25, put real growth at a 4.3% annual rate, up from the 3.4% advance estimate and the second quarter's 2.2%. Business investment led the gain, with nonresidential fixed investment up 16.1% and equipment up 21.8%, while consumer spending rose 4.2%. Real final sales to private domestic purchasers grew 5.8%, and corporate profits from current production rose $206.0 billion. The upgrade comes as October PCE inflation stood at 3.8% year over year.",
+      "category": "Business & Markets",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/",
+      "published": "2026-11-26T15:28:09Z"
+    },
+    {
+      "id": 4,
+      "title": "Bank of Korea raises rate to 3.25% and sharply upgrades growth forecasts",
+      "summary": "The Bank of Korea raised its benchmark rate by 25 basis points to 3.25%, its third hike this year after July and August, with two of seven board members dissenting in favor of a hold. It raised its 2026 growth forecast to 3.9% from 3.3% and its 2027 forecast to 4.1% from 2.9%, citing chip exports. Governor Shin Hyun-song called the decision \"both a pre-emptive move and a response to mounting inflationary pressures.\" The bank kept its 2026 inflation forecast at 2.7% and cut its private consumption forecast to 1.8%.",
+      "category": "Business & Markets",
+      "source": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/business/bok-lifts-rate-to-325-as-it-sharply-upgrades-growth-forecasts-through-next-year/12991322",
+      "published": "2026-11-26T09:04:43Z"
+    },
+    {
+      "id": 5,
+      "title": "FCC approves SpaceX's 'Starmind' constellation of up to 1 million orbital data centres",
+      "summary": "The US Federal Communications Commission authorised SpaceX to deploy Starmind, a constellation of space-based data centres intended to meet demand for AI computing, citing 1,000,000 orbital compute modules. The FCC said the approval was a first in US history, and Chairman Brendan Carr called it \"a bold new frontier\" for computing infrastructure. About 17,000 satellites are currently in orbit, and it is unclear whether SpaceX will launch the full number. Amazon's satellite unit Leo and others have criticised the plan.",
+      "category": "AI & Tech",
+      "source": "Al Jazeera (with Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
+      "published": "2026-11-25"
+    },
+    {
+      "id": 6,
+      "title": "42 state attorneys general challenge Character.AI's plan to auction users' private chats",
+      "summary": "A coalition of 42 state attorneys general is intervening in Character.AI's Chapter 11 bankruptcy to block the sale of user chat data. The AGs say the dataset covers chat histories from more than 21 million US accounts, including more than 2.1 million belonging to minors, along with data such as IP addresses. The only disclosed bidder is Smirks and Pangs Acquisition LLC, a Delaware company formed November 13, and the auction is scheduled for December 1. California AG Rob Bonta said, \"Character.AI promised consumers that their data would not be sold.\"",
+      "category": "AI & Tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "published": "2026-11-25T17:35:58Z"
+    }
+  ]
+}
