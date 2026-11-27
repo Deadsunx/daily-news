@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-27T19:23:24Z",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Ukraine says 'Operation Bear Trap' has retaken 200 sq km in Kharkiv as US peace proposals draw Zelenskyy's criticism",
+      "summary": "Ukraine says its new Kharkiv-region offensive, announced on November 20, has liberated 200 sq km and 14 settlements and is ongoing. Ukraine's military put cumulative Russian casualties at a record 432,519 on November 24, with November's count reaching 55,629, a monthly record. The Wall Street Journal reported two US land-for-peace proposals, including one that Jared Kushner said Russia accepted, offering NATO-style guarantees in return for freezing the front line. Zelenskyy said the US appeared to be 'moving in the same direction as what Putin wants: to force Ukraine into unfavourable compromises.'",
+      "category": "World & Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory",
+      "published": "2026-11-27T17:13:46Z"
+    },
+    {
+      "id": 2,
+      "title": "Lebanon's prime minister says a proposal is underway to keep UN peacekeepers on past year-end",
+      "summary": "Lebanese Prime Minister Nawaf Salam told the AP that France is preparing a Security Council resolution letting UNIFIL continue some functions, such as clearing mines, escorting humanitarian convoys and monitoring violations, during a drawdown after its mandate expires at the end of 2026. About 7,500 peacekeepers are in southern Lebanon and are expected to withdraw gradually over about six months once the mandate ends; US officials have been open to considering the arrangement. Salam said the plan would 'give us some extra time to agree on a new architecture in southern Lebanon.' Israeli forces occupy much of southern Lebanon after a war with Hezbollah began in March, and Salam said formal talks with Israel are on hold because of Israel's elections.",
+      "category": "World & Geopolitics",
+      "source": "Associated Press (via KRMG)",
+      "url": "https://krmg.com/2026/11/27/ap-exclusive-lebanons-prime-minister-says-a-proposal-is-underway-to-have-un-peacekeepers-stay-on/",
+      "published": "2026-11-27T15:10:31Z"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street closes its best week in more than a year after a shortened Black Friday session",
+      "summary": "The S&P 500 rose 1.6% on Friday, the Dow Jones Industrial Average gained 591 points, or 1.2%, and the Nasdaq composite rose 2.3%, according to the AP. The S&P 500 gained 5.6% for the week, its biggest weekly rise since April 2025, after sharp swings in tech stocks on Tuesday and Wednesday and the Thanksgiving market closure on Thursday. Chip and AI stocks rebounded in the session, which closed early at 1 p.m. ET, and Amazon rose about 3.8% midday on strong Black Friday demand.",
+      "category": "Business & Markets",
+      "source": "Associated Press (via WPLG Local 10)",
+      "url": "https://www.local10.com/business/2026/11/27/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-streets-best-in-more-than-a-year/",
+      "published": "2026-11-27T18:43:15Z"
+    },
+    {
+      "id": 4,
+      "title": "Brazilian markets rally as Lula picks Bradesco chief Luiz Carlos Trabuco as finance minister",
+      "summary": "President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco, head of Bradesco, will lead Brazil's finance ministry in his fourth term, which begins January 5. The real strengthened from 5.88 per dollar on Wednesday to 5.53 on Friday morning, and Brazilian stocks surged after the news. Brazil's currency and stocks had fallen after Lula defeated Flávio Bolsonaro in last month's election, amid investor concerns over spending. Monica de Bolle of the Peterson Institute said 'The rally is really a correction of the market's views and expectations.'",
+      "category": "Business & Markets",
+      "source": "Associated Press (via ABC News)",
+      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+      "published": "2026-11-27T16:18:32Z"
+    },
+    {
+      "id": 5,
+      "title": "Nvidia Blackwell racks turn up at Shanghai data centre linked to Megaspeed's Alice Huang",
+      "summary": "Nvidia GB300 and GB200 Blackwell racks were installed at a Shanghai data centre called the Yangtze River Delta Project, according to a Bloomberg report based on loan documents filed with Chinese regulators in November by Shanghai Shuoyao and Shanghai Kezhan. The site is tied to Alice Huang, a former executive at Singapore-based Megaspeed, one of Nvidia's largest Southeast Asian customers. US officials filed paperwork on Monday to add Megaspeed to the trade blacklist, and the Trump administration has said it does not want China to obtain Nvidia's most advanced AI chips. The report suggests advanced chips are reaching China despite tightening US export controls.",
+      "category": "AI & Tech",
+      "source": "Gizmodo (citing Bloomberg)",
+      "url": "https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169",
+      "published": "2026-11-27T13:02:55Z"
+    },
+    {
+      "id": 6,
+      "title": "Research flights find electric charge in layer clouds is linked to larger droplets",
+      "summary": "University of Reading researchers, publishing in Geophysical Research Letters, combined weather-balloon data with measurements from the FAAM Airborne Laboratory research jet. During a January 2024 flight over Reading, the jet dived into and climbed out of cloud tops 16 times, measuring electric charge, reflectivity and droplet size. They found stratus and stratocumulus clouds tend to have water droplets roughly 10% larger where more charge builds up at their tops. The finding could help refine climate models, which still struggle to simulate cloud cover.",
+      "category": "Science",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/science/hidden-electricity-clouds-refine-climate-models",
+      "published": "2026-11-27T14:02:06Z"
+    }
+  ]
+}
